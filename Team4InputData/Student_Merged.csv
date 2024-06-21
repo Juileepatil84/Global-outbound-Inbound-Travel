@@ -1,0 +1,72 @@
+id,first_name,last_name,visa_type,passport_number,nationality,state,destination_country,destination_state,gender,age,entry_date,degree_type,major,institution,estimated_expense,start_date,end_date,transportation_mode
+1,Robinet,Petroff,Student,6972067153,United States,Alabama,Japan,,M,31,9/11/2023,Bachelor's,Computer Science,Shizuoka Prefectural University,¥4131563.33,1/12/2023,2/7/2024,air
+2,Karel,Wayne,Student,5375770835,United States,Washington,Japan,,F,24,8/17/2023,Master's,Business Administration,Kyoto Tachibana Women's University,¥1859749.44,1/7/2023,5/29/2025,land
+3,Joshia,MacAvddy,Student,7587667273,United States,Kansas,Japan,,M,26,9/1/2023,Master's,Computer Science,Nippon Bunri University,¥4056414.23,1/21/2023,2/22/2024,air
+4,Bev,Watterson,Student,8038075950,United States,Alabama,Japan,,M,30,8/28/2023,Master's,Computer Science,Josai University,¥4218750.75,1/29/2023,5/12/2025,air
+5,Fredelia,O'Feeny,Student,4151838690,United States,Virginia,Japan,,F,29,8/11/2023,Bachelor's,Psychology,Musashino Academy of Music,¥3494065.87,1/17/2023,4/21/2024,air
+6,Culver,Korneichik,Student,5301617263,United States,Arizona,Japan,,M,22,9/12/2023,Master's,Computer Science,Kyushu Women's University,¥1394292.49,1/25/2023,9/29/2024,land
+7,Hillel,Lisciandri,Student,4524041505,United States,Arizona,Japan,,M,24,8/15/2023,Master's,Psychology,Sanno University,¥3989710.78,1/5/2023,2/20/2024,land
+8,Cornelia,O'Kane,Student,9876497605,United States,California,Japan,,F,35,8/15/2023,Master's,Computer Science,Toho Gakuen School of Music,¥2618641.39,1/1/2023,9/7/2024,air
+9,Gardner,Wintersgill,Student,8111439828,United States,Texas,Japan,,M,21,9/13/2023,Master's,Business Administration,Okayama Shoka University,¥4239077.93,1/1/2023,3/13/2024,air
+10,Rochelle,Birt,Student,1378387687,United States,Arizona,Japan,,F,35,8/26/2023,Bachelor's,Computer Science,Suzuka University of Medical Science,¥4362010.49,1/4/2023,11/10/2024,air
+11,Walker,Sherland,Student,3674938429,United States,California,Japan,,M,34,8/11/2023,Bachelor's,Psychology,Fukushima Medical College,¥3851012.32,1/11/2023,3/28/2025,air
+12,Martynne,Pye,Student,3435650927,United States,Minnesota,Japan,,F,18,8/5/2023,Master's,Business Administration,Kwansei Gakuin University,¥1363539.00,1/11/2023,3/25/2025,air
+13,Paulo,Tassell,Student,6874755141,United States,Florida,Japan,,M,29,8/23/2023,Master's,Computer Science,Fukuyama Heisei University,¥2241784.41,1/11/2023,8/11/2024,air
+14,Brandie,Kyles,Student,4183026641,United States,Texas,Japan,,F,32,9/7/2023,Bachelor's,Computer Science,Tokyo Gakugei University,¥1565096.76,1/25/2023,2/1/2025,land
+15,Katrinka,Pleaden,Student,3851492493,United States,New York,Japan,,F,20,8/17/2023,Bachelor's,Computer Science,Aichi Gakusen University,¥3060006.57,1/14/2023,3/22/2025,air
+16,Chancey,Bleaden,Student,9882776458,United States,Alabama,Japan,,M,24,8/11/2023,Master's,Business Administration,Minamikyushu University,¥2980948.33,1/22/2023,5/29/2024,air
+17,Bertrand,Akess,Student,4977753482,United States,Connecticut,Japan,,M,30,8/7/2023,Master's,Computer Science,Ritsumeikan Asia Pacific University,¥3449790.05,1/28/2023,10/13/2024,air
+18,Way,O'Scollain,Student,1555995717,United States,California,Japan,,M,24,9/14/2023,Bachelor's,Computer Science,Hosei University,¥2268306.67,1/11/2023,2/17/2024,air
+19,Roland,Twiggins,Student,5220435094,United States,California,Denmark,Region Hovedstaden,M,33,9/1/2023,Bachelor's,Computer Science,Royal Academy of Music,"$8,479.39 ",1/27/2023,9/29/2024,air
+20,Lazar,Grishelyov,Student,9035909028,United States,California,Denmark,Region Hovedstaden,M,34,8/16/2023,Master's,Computer Science,Tietgen Business College,"$8,760.12 ",1/24/2023,3/27/2025,air
+21,Clemmie,Handy,Student,4296345546,United States,Ohio,Denmark,Region Hovedstaden,M,23,9/7/2023,Master's,Business Administration,Engineering College of Copenhagen,"$7,789.97 ",1/24/2023,2/10/2025,air
+22,Wake,Calverd,Student,2779531762,United States,Alabama,Denmark,Region Hovedstaden,M,23,9/8/2023,Bachelor's,Computer Science,Aalborg Business College,"$14,348.79 ",1/28/2023,10/22/2024,air
+23,Alfredo,Larchier,Student,8134487610,United States,Florida,Denmark,Region Hovedstaden,M,27,8/11/2023,Bachelor's,Computer Science,Royal School of Library and Information Science,"$10,324.36 ",1/21/2023,8/12/2024,air
+24,Angelle,Colwell,Student,3473329353,United States,Colorado,Denmark,Region Hovedstaden,F,22,8/30/2023,Bachelor's,Computer Science,Aarhus School of Architecture,"$8,391.61 ",1/29/2023,2/24/2024,air
+25,Rori,Stedall,Student,7261018244,United States,Texas,Denmark,Region Hovedstaden,F,22,8/8/2023,Bachelor's,Computer Science,Copenhagen Business School,"$12,026.71 ",1/19/2023,9/14/2024,air
+26,Myrtice,Loynton,Student,7706680215,United States,New Mexico,Denmark,Region Hovedstaden,F,30,8/19/2023,Bachelor's,Computer Science,Tietgen Business College,"$10,236.57 ",1/15/2023,4/17/2025,air
+27,Stevena,Haggata,Student,7934135156,United States,California,Denmark,Region Hovedstaden,F,22,8/18/2023,Bachelor's,Computer Science,Royal Danish Academy of Music,"$9,577.42 ",1/28/2023,5/24/2024,air
+28,Godwin,Medlar,Student,6763956693,United States,Maryland,Denmark,Region Hovedstaden,M,28,8/22/2023,Master's,Computer Science,Southern Denmark Business School,"$12,095.49 ",1/11/2023,4/30/2024,air
+29,Malynda,Pargeter,Student,3570593430,United States,Pennsylvania,Denmark,Region Hovedstaden,F,27,8/22/2023,Bachelor's,Computer Science,International People's College,"$8,337.20 ",1/13/2023,9/28/2024,air
+30,Shelli,Gledhall,Student,7765627889,United States,Indiana,Denmark,Region Hovedstaden,F,26,8/28/2023,Master's,Computer Science,Tietgen Business College,"$14,236.37 ",1/11/2023,9/27/2024,air
+31,Harvey,Worcester,Student,7021408847,United States,Hawaii,Denmark,Region Hovedstaden,M,33,8/16/2023,Bachelor's,Computer Science,Royal Danish School of Educational Sciences,"$8,203.69 ",1/4/2023,5/30/2024,air
+32,Gerrard,Halladey,Student,3049977016,United States,California,Denmark,Region Hovedstaden,M,23,8/3/2023,Bachelor's,Psychology,Roskilde University,"$9,103.33 ",1/9/2023,4/2/2024,air
+33,Spense,Baker,Student,3517174719,United States,Virginia,Denmark,Region Hovedstaden,M,29,8/11/2023,Bachelor's,Computer Science,Aarhus School of Architecture,"$9,351.04 ",1/8/2023,3/23/2024,air
+34,Valina,Emmens,Student,8665177183,United States,Nebraska,New Zealand,,F,29,8/8/2023,Master's,Business Administration,Open Polytechnic ,"$21,932.77 ",1/6/2023,8/21/2024,air
+35,Cilka,Evreux,Student,8442066034,United States,New Jersey,New Zealand,,F,21,8/7/2023,Bachelor's,Computer Science,Massey University,"$19,233.02 ",1/14/2023,8/13/2024,air
+36,Bethany,Kerfut,Student,9584422770,United States,Illinois,New Zealand,,F,30,8/28/2023,Master's,Computer Science,University of Canterbury,"$24,752.05 ",1/30/2023,12/28/2023,air
+37,Mark,Crab,Student,8839862476,United States,Arizona,New Zealand,,M,23,9/10/2023,Bachelor's,Psychology,University of Auckland,"$20,402.61 ",1/11/2023,3/10/2024,air
+38,Damiano,Romme,Student,7646887671,United States,South Dakota,New Zealand,,M,30,8/2/2023,Bachelor's,Computer Science,University of Waikato,"$22,341.81 ",1/6/2023,3/24/2025,air
+39,Licha,Gower,Student,7206598204,United States,California,New Zealand,,F,32,8/30/2023,Master's,Computer Science,Lincoln University,"$22,004.13 ",1/25/2023,3/11/2025,air
+40,Sigvard,Sausman,Student,8729715331,United States,Texas,New Zealand,,M,31,9/1/2023,Master's,Business Administration,Lincoln University,"$22,999.95 ",1/22/2023,1/21/2024,air
+41,Meade,Filon,Student,9804965904,United States,Nebraska,New Zealand,,M,32,8/9/2023,Master's,Computer Science,University of Otago,"$21,010.39 ",1/8/2023,1/28/2025,air
+42,Johnny,Forre,Student,9681139869,United States,Pennsylvania,New Zealand,,M,19,8/6/2023,Bachelor's,Business Administration,Auckland University of Technology,"$21,444.63 ",1/8/2023,2/10/2025,air
+43,Vernon,Bromehead,Student,8747676032,United States,Oregon,New Zealand,,M,26,8/28/2023,Bachelor's,Business Administration,Victoria University of Wellington,"$23,496.21 ",1/1/2023,7/23/2024,air
+44,Jolee,Henighan,Student,8265514929,United States,Virginia,New Zealand,,F,23,9/3/2023,Master's,Computer Science,Lincoln University,"$23,719.47 ",1/9/2023,1/3/2025,air
+45,Patric,Fretter,Student,5494751441,United States,Arizona,New Zealand,,M,33,8/26/2023,Bachelor's,Computer Science,Victoria University of Wellington,"$23,100.50 ",1/19/2023,5/2/2025,air
+46,Tawnya,Garnam,Student,7679487878,United States,Alabama,New Zealand,,F,29,9/12/2023,Bachelor's,Computer Science,Open Polytechnic ,"$21,665.94 ",1/1/2023,7/19/2024,air
+47,Byran,Beinke,Student,9292731412,United States,Ohio,New Zealand,,M,34,9/8/2023,Master's,Computer Science,Open Polytechnic ,"$23,920.96 ",1/22/2023,7/22/2024,air
+48,Sayers,Davidzon,Student,3177601941,United States,District of Columbia,New Zealand,,M,28,9/8/2023,Bachelor's,Computer Science,Auckland University of Technology,"$20,245.42 ",1/22/2023,6/19/2024,air
+49,Benjie,McAndrew,Student,7735829985,United States,Illinois,Czech Republic,,M,33,9/12/2023,Master's,Computer Science,University of West Bohemia,"$24,020.90 ",1/22/2023,6/1/2024,air
+50,Quincey,Puleque,Student,8008453971,United States,Kansas,Czech Republic,,M,22,8/18/2023,Master's,Psychology,"University of Northern Virginia, Prague Campus","$22,013.32 ",1/14/2023,7/15/2024,air
+51,Lynnelle,Bennet,Student,6381961400,United States,Virginia,Czech Republic,,F,32,8/27/2023,Bachelor's,Psychology,University of West Bohemia,"$22,774.45 ",1/23/2023,2/5/2024,air
+52,Collin,Syms,Student,8884006832,United States,Texas,Czech Republic,,M,35,9/4/2023,Bachelor's,Computer Science,Silesian University,"$19,556.71 ",1/2/2023,7/15/2024,air
+53,Cathe,Oldis,Student,9531870140,United States,Maryland,Czech Republic,,F,26,8/3/2023,Master's,Psychology,University of South Bohemia,"$23,637.21 ",1/4/2023,4/21/2024,air
+54,Helene,Speere,Student,5042023909,United States,Ohio,Czech Republic,,F,18,8/1/2023,Bachelor's,Computer Science,Mendel University of Agriculture and Forestry,"$24,717.30 ",1/26/2023,11/1/2024,air
+55,Verna,Fewtrell,Student,1559006277,United States,Arizona,Czech Republic,,F,21,9/7/2023,Bachelor's,Business Administration,University of Pardubice,"$22,995.06 ",1/18/2023,1/10/2024,air
+56,Broddie,Row,Student,6477006556,United States,New York,Czech Republic,,M,21,8/1/2023,Master's,Computer Science,Anglo-American University,"$20,792.28 ",1/25/2023,4/1/2025,air
+57,Horton,Ellor,Student,1111468057,United States,District of Columbia,Czech Republic,,M,28,8/5/2023,Bachelor's,Computer Science,Technical University of Liberec,"$24,455.33 ",1/12/2023,1/7/2024,air
+58,Leontyne,Guitton,Student,1670142291,United States,Illinois,Czech Republic,,F,34,8/29/2023,Bachelor's,Computer Science,Technical University of Mining and Metallurgy Ostrava,"$23,232.39 ",1/2/2023,10/9/2024,air
+59,Pippa,Strongman,Student,9953855856,United States,Michigan,Czech Republic,,F,18,9/10/2023,Bachelor's,Business Administration,University of New York in Prague,"$19,273.32 ",1/17/2023,2/26/2025,air
+60,Ware,Storrie,Student,3711300321,United States,Florida,Czech Republic,,M,24,8/3/2023,Master's,Computer Science,University of West Bohemia,"$21,304.98 ",1/24/2023,11/12/2024,air
+61,Elizabet,Yerill,Student,3409933956,United States,North Carolina,Czech Republic,,F,32,8/15/2023,Master's,Psychology,Mendel University of Agriculture and Forestry,"$20,110.43 ",1/11/2023,2/29/2024,air
+62,Eliot,Whitmore,Student,4269103182,United States,Massachusetts,South Africa,,M,22,8/14/2023,Master's,Computer Science,University of South Africa,"$2,361.41 ",1/27/2023,6/13/2024,air
+63,Neal,Woolvett,Student,7736150304,United States,Texas,South Africa,,M,25,9/5/2023,Master's,Computer Science,Walter Sisulu University for Technology and Science,"$5,987.98 ",1/15/2023,2/5/2024,air
+64,Carolee,Doyley,Student,5324148076,United States,Connecticut,South Africa,,F,19,8/14/2023,Master's,Business Administration,University of North West,"$5,690.86 ",1/5/2023,2/14/2025,air
+65,Niven,Killeley,Student,7622040910,United States,Florida,South Africa,,M,22,8/18/2023,Master's,Computer Science,Walter Sisulu University for Technology and Science,"$3,505.07 ",1/26/2023,6/12/2024,air
+66,Robbert,Polsin,Student,7896056273,United States,Florida,South Africa,,M,31,8/14/2023,Master's,Computer Science,University of Cape Town,"$2,660.88 ",1/9/2023,10/8/2024,air
+67,Janos,Libbie,Student,6599867630,United States,Pennsylvania,South Africa,,M,21,9/13/2023,Master's,Computer Science,Vaal University of Technology,"$2,684.47 ",1/16/2023,6/25/2024,air
+68,Baxy,Gantzer,Student,3822707568,United States,Michigan,South Africa,,M,21,8/13/2023,Bachelor's,Computer Science,University of Johannesburg,"$4,674.27 ",1/7/2023,5/20/2024,air
+69,Rodney,Tytherton,Student,6872318102,United States,Utah,South Africa,,M,33,8/3/2023,Master's,Computer Science,Vaal University of Technology,"$3,013.71 ",1/28/2023,11/15/2024,air
+70,Gerik,Innott,Student,9504085664,United States,Maryland,South Africa,,M,34,8/17/2023,Master's,Psychology,University of Cape Town,"$3,049.68 ",1/10/2023,1/23/2025,air
+71,Stuart,Plaster,Student,5784060698,United States,California,South Africa,,M,35,8/3/2023,Master's,Computer Science,Tshwane University of Technology,"$5,355.66 ",1/10/2023,7/28/2024,air

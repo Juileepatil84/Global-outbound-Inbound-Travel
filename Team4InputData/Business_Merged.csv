@@ -1,0 +1,991 @@
+id,first_name,last_name,visa_type,passport_number,nationality,state,destination country,destination state,gender,age,entry date,exit date,estimated expenses,transportation mode
+1,Hamid,Gorden,Business,49,United States,Florida,France,Île-de-France,Male,60,5/19/2023,7/6/2023,£13148.21,road
+2,Myrtice,Boc,Business,87,United States,Minnesota,France,Rhône-Alpes,Female,59,9/1/2023,3/30/2023,£12281.94,road
+3,Ginger,Swainger,Business,54,United States,New York,France,Centre,Female,76,8/16/2023,1/26/2024,£14795.42,road
+4,Jaimie,Wakeford,Business,52,United States,Ohio,France,Île-de-France,Female,12,3/21/2023,5/9/2023,£14333.83,road
+5,Pall,Kenner,Business,20,United States,Alabama,France,Haute-Normandie,Male,25,12/29/2023,7/19/2023,£11052.40,air
+6,Lewie,Swanborough,Business,31,United States,Florida,France,Île-de-France,Male,91,10/10/2023,3/15/2024,£14206.44,air
+7,Nerta,Mawford,Business,37,United States,Kansas,France,Lorraine,Genderfluid,8,5/26/2023,6/1/2023,£14869.20,road
+8,Darya,Haynes,Business,45,United States,Nebraska,France,Île-de-France,Female,96,2/23/2024,2/23/2024,£12627.49,road
+9,Lira,Usborn,Business,77,United States,Missouri,France,Auvergne,Female,29,6/29/2023,3/17/2024,£14959.10,air
+10,Jordanna,Gauntley,Business,19,United States,California,France,Picardie,Female,4,2/9/2024,1/16/2024,£10599.79,road
+11,Johan,Choules,Business,9,United States,Virginia,France,Île-de-France,Male,88,1/22/2024,11/12/2023,£11401.46,road
+12,Dione,Zoppo,Business,60,United States,Georgia,United Kingdom,England,Female,18,4/3/2023,10/30/2023,£12665.98,air
+13,Della,Plaskett,Business,1,United States,California,France,Alsace,Female,27,5/27/2023,9/18/2023,£14917.00,air
+14,Otis,Dahl,Business,38,United States,Texas,France,Rhône-Alpes,Male,94,9/21/2023,9/30/2023,£10064.39,air
+15,Reece,Sellen,Business,43,United States,California,France,Île-de-France,Male,33,9/7/2023,5/5/2023,£13011.62,road
+16,Bogart,McCalum,Business,84,United States,New Jersey,France,Bourgogne,Male,82,7/29/2023,1/17/2024,£12187.69,road
+17,Alexandro,Felten,Business,1,United States,West Virginia,France,Provence-Alpes-Côte d'Azur,Male,38,5/20/2023,10/11/2023,£14262.47,road
+18,Brooks,Burgwyn,Business,64,United States,New Mexico,France,Languedoc-Roussillon,Non-binary,33,4/18/2023,10/20/2023,£12094.41,road
+19,Dorice,Hares,Business,15,United States,Oklahoma,France,Poitou-Charentes,Female,59,7/23/2023,2/22/2024,£11991.39,road
+20,Jolynn,Normanville,Business,73,United States,Arkansas,France,Bretagne,Female,53,6/23/2023,7/1/2023,£12931.67,air
+21,Geoffrey,McIlreavy,Business,57,United States,Arkansas,France,Île-de-France,Male,21,6/16/2023,9/27/2023,£13205.08,road
+22,Farica,Garnsworthy,Business,32,United States,Texas,France,Languedoc-Roussillon,Female,74,7/9/2023,10/3/2023,£12700.09,air
+23,Emma,O'Lyhane,Business,24,United States,Texas,France,Rhône-Alpes,Female,11,10/14/2023,6/10/2023,£14772.96,road
+24,Luce,Tethacot,Business,34,United States,Arkansas,France,Midi-Pyrénées,Female,50,8/25/2023,4/27/2023,£12325.50,road
+25,Nadeen,Carthy,Business,96,United States,Florida,France,Basse-Normandie,Female,60,3/12/2024,5/18/2023,£13540.12,road
+26,Eustace,Wasielewski,Business,53,United States,Arkansas,France,Aquitaine,Male,28,5/5/2023,4/17/2023,£10996.51,air
+27,Saunders,Matussevich,Business,7,United States,Pennsylvania,France,Provence-Alpes-Côte d'Azur,Male,88,6/24/2023,1/21/2024,£12321.08,air
+28,Selia,Westoff,Business,99,United States,Arkansas,France,Bourgogne,Female,59,11/5/2023,4/24/2023,£10600.49,road
+29,Caye,Jarley,Business,84,United States,Massachusetts,United Kingdom,England,Agender,42,10/6/2023,9/24/2023,£13998.97,air
+30,Lothaire,Taye,Business,60,United States,Virginia,France,Languedoc-Roussillon,Male,8,2/19/2024,10/20/2023,£13819.92,air
+31,Liesa,Faivre,Business,80,United States,Missouri,United Kingdom,England,Female,67,3/26/2023,12/3/2023,£14350.03,road
+32,Claudina,Anthon,Business,88,United States,New York,France,Île-de-France,Female,6,5/13/2023,12/19/2023,£13409.94,air
+33,Dore,Fochs,Business,37,United States,California,France,Île-de-France,Female,38,9/6/2023,3/15/2024,£14286.06,road
+34,Trula,Druitt,Business,1,United States,Maryland,France,Basse-Normandie,Genderqueer,83,11/26/2023,9/14/2023,£11776.04,road
+35,Kendal,Bulbrook,Business,43,United States,North Carolina,France,Rhône-Alpes,Genderfluid,37,1/29/2024,12/28/2023,£13263.73,air
+36,Darbie,Meo,Business,19,United States,North Carolina,France,Pays de la Loire,Female,82,4/22/2023,10/11/2023,£11847.20,road
+37,Trenna,Booi,Business,42,United States,Florida,France,Île-de-France,Female,94,12/7/2023,11/11/2023,£14051.51,air
+38,Scottie,Guirard,Business,99,United States,Washington,France,Lorraine,Male,23,9/18/2023,6/1/2023,£14840.74,road
+39,Lidia,Pipes,Business,30,United States,Texas,France,Île-de-France,Female,32,9/22/2023,5/9/2023,£14551.74,air
+40,Murdoch,MacDearmid,Business,79,United States,Colorado,France,Île-de-France,Male,64,2/23/2024,9/23/2023,£11171.07,road
+41,Tammy,Zold,Business,93,United States,Georgia,France,Aquitaine,Male,20,11/13/2023,3/17/2024,£12465.06,road
+42,Sollie,Heselwood,Business,61,United States,Washington,France,Haute-Normandie,Male,24,2/13/2024,5/23/2023,£11315.85,road
+43,Curtis,Kupec,Business,89,United States,Ohio,France,Languedoc-Roussillon,Male,98,4/16/2023,2/3/2024,£13739.12,air
+44,Marlo,Redmain,Business,25,United States,Tennessee,France,Bretagne,Male,8,10/10/2023,9/9/2023,£11496.58,air
+45,Leela,Darnborough,Business,25,United States,California,France,Île-de-France,Female,50,10/18/2023,8/13/2023,£10775.16,road
+46,Stacy,Chalcroft,Business,14,United States,Oklahoma,France,Provence-Alpes-Côte d'Azur,Female,90,8/11/2023,9/7/2023,£13800.04,road
+47,Dunstan,Sidlow,Business,96,United States,Utah,France,Nord-Pas-de-Calais,Male,12,10/17/2023,9/23/2023,£13782.44,road
+48,Cesar,Luno,Business,35,United States,Michigan,France,Aquitaine,Male,37,6/11/2023,1/5/2024,£12510.94,air
+49,Leia,Biddwell,Business,93,United States,Arkansas,France,Nord-Pas-de-Calais,Female,40,1/25/2024,1/15/2024,£12776.86,air
+50,Sanders,Tiery,Business,80,United States,Virginia,France,Aquitaine,Male,69,8/8/2023,12/22/2023,£13164.15,air
+51,Edeline,Thacke,Business,71,United States,Iowa,France,Rhône-Alpes,Female,28,4/5/2023,11/2/2023,£11619.71,road
+52,Corby,Doog,Business,32,United States,Virginia,France,Languedoc-Roussillon,Male,31,2/2/2024,11/3/2023,£11686.26,air
+53,Sharron,Lammerich,Business,58,United States,Ohio,France,Provence-Alpes-Côte d'Azur,Female,49,5/7/2023,10/26/2023,£12770.17,air
+54,Reese,Weald,Business,56,United States,New York,France,Île-de-France,Male,17,9/23/2023,12/26/2023,£12906.17,air
+55,Rudy,Parlet,Business,18,United States,Tennessee,France,Île-de-France,Male,91,1/23/2024,9/14/2023,£11330.36,road
+56,Milicent,Ockwell,Business,86,United States,Illinois,France,Centre,Female,66,2/12/2024,9/21/2023,£13550.79,road
+57,Dolley,Tithecott,Business,48,United States,Oklahoma,France,Île-de-France,Female,92,7/21/2023,11/24/2023,£14322.38,air
+58,Herrick,Rigby,Business,58,United States,Illinois,France,Haute-Normandie,Male,51,4/16/2023,10/22/2023,£12230.91,air
+59,Stavros,Heatlie,Business,64,United States,California,France,Nord-Pas-de-Calais,Male,38,11/17/2023,11/5/2023,£13658.76,air
+60,Garret,Hinsch,Business,83,United States,New Mexico,France,Provence-Alpes-Côte d'Azur,Male,90,8/24/2023,1/11/2024,£11061.99,air
+61,Auberon,Wadeson,Business,56,United States,Nebraska,France,Provence-Alpes-Côte d'Azur,Male,9,11/12/2023,12/5/2023,£11068.29,road
+62,Eliza,Spini,Business,38,United States,Georgia,France,Île-de-France,Female,94,8/6/2023,7/26/2023,£11238.26,road
+63,Nonna,Jadczak,Business,68,United States,Wisconsin,France,Aquitaine,Female,51,1/25/2024,7/12/2023,£10575.84,road
+64,Marlene,Mingay,Business,25,United States,Minnesota,France,Bourgogne,Female,16,4/24/2023,7/12/2023,£14246.86,road
+65,Tandy,Olford,Business,5,United States,California,France,Limousin,Female,85,12/23/2023,3/18/2023,£11512.76,air
+66,Chaddy,Lapre,Business,27,United States,New York,France,Midi-Pyrénées,Male,93,2/10/2024,11/22/2023,£10691.78,air
+67,Ramonda,Cuzen,Business,10,United States,District of Columbia,France,Provence-Alpes-Côte d'Azur,Female,45,3/20/2023,8/21/2023,£11394.99,road
+68,Charmaine,Cristofori,Business,6,United States,District of Columbia,France,Rhône-Alpes,Female,4,2/20/2024,4/17/2023,£12371.30,road
+69,Abba,Eslemont,Business,83,United States,California,France,Champagne-Ardenne,Male,39,9/20/2023,5/21/2023,£11397.05,air
+70,Dyane,Lehrmann,Business,80,United States,Connecticut,France,Aquitaine,Female,84,6/13/2023,8/9/2023,£12275.91,air
+71,Rosanne,Sowten,Business,66,United States,Ohio,United Kingdom,England,Female,75,6/26/2023,6/20/2023,£12917.03,air
+72,Dewie,Reasun,Business,75,United States,Nevada,France,Bourgogne,Male,24,1/10/2024,8/21/2023,£12045.39,air
+73,Hana,Robyns,Business,97,United States,Nevada,France,Île-de-France,Female,56,5/21/2023,8/22/2023,£11848.33,air
+74,Beverlee,McWhorter,Business,71,United States,Virginia,France,Languedoc-Roussillon,Female,12,1/28/2024,11/3/2023,£14110.22,air
+75,Brose,Harsum,Business,61,United States,Indiana,France,Rhône-Alpes,Male,35,6/7/2023,3/29/2023,£12655.39,road
+76,Marcelia,Fidal,Business,63,United States,California,France,Rhône-Alpes,Female,7,12/31/2023,11/21/2023,£10364.12,air
+77,Vergil,Mohun,Business,100,United States,Ohio,France,Île-de-France,Male,83,4/11/2023,7/24/2023,£13571.90,road
+78,Staford,Vezey,Business,56,United States,Florida,France,Rhône-Alpes,Male,51,3/9/2024,1/18/2024,£12025.28,road
+79,Mirabella,Kelk,Business,3,United States,California,France,Midi-Pyrénées,Female,14,10/8/2023,1/28/2024,£12411.84,air
+80,Morse,Stiant,Business,84,United States,Tennessee,United Kingdom,Scotland,Male,84,5/2/2023,11/26/2023,£11675.99,air
+81,Cale,Cowlard,Business,64,United States,Tennessee,France,Basse-Normandie,Male,74,3/10/2024,7/19/2023,£13638.80,road
+82,Llywellyn,Hazlewood,Business,86,United States,Nevada,France,Île-de-France,Male,35,9/9/2023,7/27/2023,£10764.52,air
+83,Gwen,Cahn,Business,49,United States,Ohio,France,Île-de-France,Female,55,3/17/2024,12/20/2023,£12797.20,road
+84,Hebert,Samwyse,Business,14,United States,Illinois,United Kingdom,England,Male,74,4/13/2023,10/30/2023,£10632.45,road
+85,Sollie,Bisiker,Business,100,United States,Arizona,France,Centre,Male,95,11/25/2023,6/4/2023,£10038.09,road
+86,Toby,Maffey,Business,74,United States,Texas,France,Haute-Normandie,Male,80,8/6/2023,6/29/2023,£10701.70,air
+87,Susie,Serjeantson,Business,53,United States,Wisconsin,France,Île-de-France,Female,70,8/15/2023,1/23/2024,£11000.72,air
+88,Heddi,Monan,Business,100,United States,Maryland,France,Aquitaine,Female,7,7/11/2023,3/29/2023,£10117.13,air
+89,Tova,Siddons,Business,13,United States,Connecticut,France,Île-de-France,Female,76,5/11/2023,5/2/2023,£11944.46,air
+90,Dukey,Knappett,Business,4,United States,Missouri,France,Limousin,Male,8,12/18/2023,10/24/2023,£12940.45,road
+91,Justinian,Meekin,Business,69,United States,Virginia,United Kingdom,England,Male,95,2/8/2024,3/25/2023,£13776.33,road
+92,Sinclair,MacGiolla Pheadair,Business,93,United States,Kansas,France,Île-de-France,Non-binary,77,5/18/2023,12/16/2023,£10263.36,air
+93,Flo,Scragg,Business,48,United States,Missouri,France,Île-de-France,Female,11,8/4/2023,12/10/2023,£12552.00,road
+94,Joya,Lethbrig,Business,97,United States,Washington,France,Centre,Female,56,6/29/2023,5/9/2023,£13499.06,air
+95,Rad,Stappard,Business,61,United States,Texas,France,Corse,Male,58,12/7/2023,2/8/2024,£11465.12,road
+96,Gilberto,McCrae,Business,88,United States,Ohio,France,Île-de-France,Male,59,7/16/2023,6/2/2023,£14312.63,road
+97,Rhys,Persich,Business,7,United States,Pennsylvania,France,Languedoc-Roussillon,Male,73,8/7/2023,4/13/2023,£10372.05,road
+98,Halsey,Pahler,Business,90,United States,Arizona,France,Île-de-France,Male,74,3/20/2023,1/15/2024,£10820.66,air
+99,Hamish,Newark,Business,52,United States,Texas,France,Île-de-France,Male,30,9/13/2023,4/27/2023,£13266.67,road
+100,Errol,Izzat,Business,62,United States,Alabama,France,Rhône-Alpes,Male,2,6/2/2023,2/4/2024,£14453.45,road
+101,Celina,Pleat,Business,57,United States,Nevada,United Kingdom,England,Female,6,8/6/2023,3/27/2023,£10379.34,air
+102,Florencia,Willshee,Business,91,United States,Texas,United Kingdom,England,Female,44,2/19/2024,11/14/2023,£12245.53,road
+103,Ludovika,Boulger,Business,84,United States,Arizona,France,Midi-Pyrénées,Female,85,5/22/2023,4/27/2023,£11763.52,road
+104,Barbi,Grindle,Business,7,United States,Florida,France,Languedoc-Roussillon,Female,5,1/12/2024,7/8/2023,£11838.08,road
+105,Cathryn,Pheasey,Business,78,United States,Wisconsin,France,Poitou-Charentes,Genderfluid,44,1/28/2024,8/31/2023,£14981.07,road
+106,Shane,Gibson,Business,32,United States,Alabama,France,Centre,Male,34,12/6/2023,10/13/2023,£12999.01,air
+107,Mahala,Lowten,Business,34,United States,District of Columbia,France,Poitou-Charentes,Female,72,7/7/2023,1/5/2024,£13686.51,air
+108,Burnard,Burnham,Business,20,United States,California,United Kingdom,England,Male,99,12/7/2023,12/11/2023,£11718.69,air
+109,Dyann,Bridson,Business,57,United States,Pennsylvania,France,Île-de-France,Female,74,9/26/2023,4/13/2023,£14300.31,road
+110,Torey,Laskey,Business,16,United States,Oregon,France,Île-de-France,Agender,57,11/7/2023,10/31/2023,£13756.37,air
+111,Bunny,Kittman,Business,90,United States,California,France,Basse-Normandie,Female,23,9/2/2023,2/27/2024,£14327.32,air
+112,Terri,Palluschek,Business,64,United States,Arizona,France,Île-de-France,Male,17,5/12/2023,11/7/2023,£13759.04,air
+113,Vivyanne,Gaskall,Business,1,United States,Kansas,France,Nord-Pas-de-Calais,Female,5,9/1/2023,11/11/2023,£10242.83,road
+114,Cointon,Ilott,Business,6,United States,Ohio,France,Provence-Alpes-Côte d'Azur,Male,21,9/28/2023,12/9/2023,£13024.03,air
+115,Arnoldo,Staddart,Business,91,United States,Connecticut,France,Basse-Normandie,Male,50,5/19/2023,4/12/2023,£12085.80,air
+116,Ron,Rome,Business,78,United States,Texas,France,Rhône-Alpes,Male,36,1/22/2024,11/16/2023,£11968.60,road
+117,Sven,Spenton,Business,82,United States,Alabama,France,Languedoc-Roussillon,Male,95,5/15/2023,11/30/2023,£10500.86,air
+118,Marielle,Pamment,Business,91,United States,Oklahoma,France,Franche-Comté,Female,28,8/22/2023,8/2/2023,£14111.56,road
+119,Oby,Lavers,Business,15,United States,Georgia,France,Centre,Male,19,2/20/2024,4/20/2023,£10114.98,road
+120,Louise,Coats,Business,4,United States,Connecticut,France,Pays de la Loire,Female,50,8/24/2023,4/27/2023,£13877.97,air
+121,Kalle,Isworth,Business,16,United States,Nevada,United Kingdom,England,Male,50,9/15/2023,5/22/2023,£12719.53,air
+122,Neille,Walczak,Business,48,United States,Florida,France,Île-de-France,Female,87,8/25/2023,4/3/2023,£10984.16,air
+123,Geri,Padrick,Business,8,United States,Michigan,France,Languedoc-Roussillon,Female,3,5/4/2023,10/23/2023,£14281.99,air
+124,Derry,Pulteneye,Business,38,United States,Texas,France,Midi-Pyrénées,Male,67,6/13/2023,7/23/2023,£10391.47,air
+125,Gisele,Jagels,Business,75,United States,District of Columbia,France,Lorraine,Female,11,12/29/2023,5/25/2023,£14646.31,road
+126,Consalve,Shutle,Business,15,United States,California,France,Basse-Normandie,Male,3,5/18/2023,5/19/2023,£10186.35,road
+127,Irvine,MacAfee,Business,60,United States,Oklahoma,France,Île-de-France,Male,93,10/17/2023,4/9/2023,£11788.39,road
+128,Philip,Bourgour,Business,99,United States,North Carolina,France,Provence-Alpes-Côte d'Azur,Male,54,1/8/2024,3/29/2023,£12488.65,air
+129,Hartley,Tuft,Business,6,United States,California,France,Basse-Normandie,Male,86,11/23/2023,10/11/2023,£13575.09,air
+130,Colas,Casarino,Business,44,United States,Minnesota,France,Île-de-France,Male,74,5/27/2023,12/29/2023,£13771.14,road
+131,Natty,Borell,Business,98,United States,Michigan,France,Pays de la Loire,Male,98,5/8/2023,8/24/2023,£11530.82,road
+132,Dominique,Martins,Business,22,United States,Washington,France,Île-de-France,Female,49,8/26/2023,5/26/2023,£12479.59,air
+133,Lenci,Robbe,Business,94,United States,Ohio,France,Île-de-France,Male,93,2/23/2024,4/19/2023,£10442.27,air
+134,Carmelia,Scarth,Business,97,United States,Kansas,France,Midi-Pyrénées,Female,83,10/16/2023,8/22/2023,£14828.55,road
+135,Hulda,Bowich,Business,100,United States,Texas,France,Pays de la Loire,Female,73,6/11/2023,3/5/2024,£11804.32,air
+136,Baillie,Hunsworth,Business,36,United States,Florida,France,Champagne-Ardenne,Male,15,11/12/2023,5/18/2023,£10357.67,road
+137,Sidney,Charlotte,Business,51,United States,Wisconsin,France,Languedoc-Roussillon,Male,90,11/30/2023,7/9/2023,£12630.80,road
+138,Agosto,Airs,Business,23,United States,California,France,Champagne-Ardenne,Male,61,5/7/2023,2/22/2024,£13166.90,air
+139,Tabbitha,Illyes,Business,80,United States,Florida,France,Nord-Pas-de-Calais,Female,57,10/9/2023,10/22/2023,£10399.54,air
+140,Sayre,Woolis,Business,68,United States,Texas,France,Nord-Pas-de-Calais,Male,100,5/11/2023,6/20/2023,£12967.14,road
+141,Verge,Sarch,Business,49,United States,Maryland,France,Centre,Male,80,4/24/2023,9/29/2023,£12579.01,road
+142,Farley,Vidler,Business,23,United States,North Carolina,France,Île-de-France,Male,76,12/1/2023,5/25/2023,£10742.81,air
+143,Stefa,Christauffour,Business,57,United States,Virginia,France,Île-de-France,Female,25,7/27/2023,4/2/2023,£12797.41,air
+144,Phillida,Coils,Business,92,United States,District of Columbia,France,Auvergne,Female,19,1/25/2024,10/13/2023,£13322.87,road
+145,Milena,Berceros,Business,49,United States,Texas,France,Champagne-Ardenne,Female,98,7/18/2023,7/16/2023,£14317.96,road
+146,Keith,Carsberg,Business,70,United States,California,France,Île-de-France,Male,38,11/30/2023,8/28/2023,£11044.26,road
+147,Dillon,Warre,Business,74,United States,Montana,France,Rhône-Alpes,Male,39,8/7/2023,8/29/2023,£12354.82,air
+148,Janela,Brockway,Business,7,United States,District of Columbia,France,Picardie,Female,14,3/5/2024,1/12/2024,£12221.45,road
+149,Daria,Feak,Business,75,United States,North Carolina,France,Midi-Pyrénées,Female,13,7/25/2023,10/14/2023,£12172.92,air
+150,Wilie,Skyppe,Business,83,United States,California,France,Île-de-France,Female,45,12/3/2023,3/31/2023,£14047.42,air
+151,Ellis,Yepiskov,Business,62,United States,North Carolina,France,Midi-Pyrénées,Male,32,9/24/2023,4/12/2023,£11719.42,air
+152,Faunie,McSweeney,Business,18,United States,Mississippi,France,Corse,Female,86,11/7/2023,11/26/2023,£11872.88,air
+153,Marje,Crowcum,Business,52,United States,Texas,France,Basse-Normandie,Female,31,5/21/2023,12/6/2023,£12169.85,road
+154,Candice,Jepensen,Business,44,United States,California,United Kingdom,England,Female,80,8/7/2023,5/25/2023,£10860.08,air
+155,Jedediah,D'Alessandro,Business,4,United States,Arizona,France,Languedoc-Roussillon,Male,91,12/24/2023,4/27/2023,£11900.87,road
+156,Amie,Greatorex,Business,48,United States,Alabama,France,Provence-Alpes-Côte d'Azur,Female,35,9/23/2023,4/21/2023,£13298.12,air
+157,Willi,McSaul,Business,48,United States,Alabama,France,Languedoc-Roussillon,Male,41,10/20/2023,8/21/2023,£13383.38,road
+158,Kasper,Kemish,Business,87,United States,Ohio,France,Midi-Pyrénées,Male,41,2/12/2024,4/29/2023,£10217.11,road
+159,Noach,Carek,Business,46,United States,Minnesota,France,Île-de-France,Male,44,2/19/2024,1/22/2024,£14824.66,road
+160,Karyn,Simonson,Business,47,United States,Minnesota,France,Île-de-France,Female,87,6/23/2023,7/16/2023,£14871.77,air
+161,Germayne,Carruthers,Business,81,United States,Texas,France,Île-de-France,Male,99,7/28/2023,11/11/2023,£12389.22,air
+162,Kirbee,Claasen,Business,73,United States,Texas,France,Picardie,Female,71,4/18/2023,8/31/2023,£14192.50,air
+163,Idalia,Pusill,Business,21,United States,District of Columbia,France,Nord-Pas-de-Calais,Female,43,8/30/2023,5/16/2023,£12747.38,road
+164,Daria,Laughton,Business,97,United States,Texas,France,Franche-Comté,Female,48,6/24/2023,8/2/2023,£14454.19,air
+165,Barty,Newrick,Business,66,United States,California,France,Midi-Pyrénées,Male,64,10/11/2023,6/7/2023,£10121.49,air
+166,Allys,Malshinger,Business,63,United States,Virginia,France,Île-de-France,Female,99,4/16/2023,7/20/2023,£14692.69,air
+167,Gradey,Melchior,Business,10,United States,North Carolina,France,Picardie,Male,71,11/6/2023,1/3/2024,£10943.43,road
+168,Auguste,Jemmison,Business,54,United States,Texas,France,Rhône-Alpes,Female,41,7/30/2023,3/17/2024,£10964.67,road
+169,Winifred,Cowcha,Business,99,United States,Missouri,France,Haute-Normandie,Female,76,7/14/2023,11/11/2023,£12069.37,road
+170,Nita,Burnsall,Business,91,United States,Texas,France,Île-de-France,Female,64,6/5/2023,8/23/2023,£13787.80,road
+171,Karilynn,Capini,Business,15,United States,Delaware,France,Bretagne,Genderqueer,42,3/24/2023,10/3/2023,£10662.78,air
+172,Darline,Otson,Business,78,United States,Florida,France,Île-de-France,Female,63,6/28/2023,9/6/2023,£14671.00,road
+173,Larry,Gatus,Business,70,United States,Georgia,France,Franche-Comté,Male,41,1/16/2024,9/10/2023,£13710.37,air
+174,Georg,Petche,Business,77,United States,Washington,France,Midi-Pyrénées,Male,34,8/25/2023,3/6/2024,£14626.75,air
+175,Arlina,Le Bosse,Business,44,United States,Colorado,France,Centre,Female,75,7/27/2023,11/21/2023,£13651.98,air
+176,Bale,Pauncefoot,Business,60,United States,California,France,Alsace,Male,87,5/7/2023,5/6/2023,£11286.82,road
+177,Cathyleen,Ottey,Business,41,United States,Texas,France,Provence-Alpes-Côte d'Azur,Female,50,2/12/2024,3/27/2023,£10711.47,air
+178,Harlin,Kirkham,Business,31,United States,Texas,France,Bourgogne,Male,37,9/7/2023,10/30/2023,£14521.39,road
+179,Toddy,Cronshaw,Business,84,United States,California,France,Île-de-France,Male,21,11/2/2023,6/30/2023,£14893.63,road
+180,Adrian,Bramstom,Business,9,United States,Indiana,France,Rhône-Alpes,Female,1,7/5/2023,1/17/2024,£13317.03,air
+181,Patricio,Lemarie,Business,61,United States,Louisiana,France,Limousin,Male,68,2/6/2024,12/1/2023,£12377.76,air
+182,Thaddeus,Semor,Business,78,United States,Georgia,France,Rhône-Alpes,Male,50,11/18/2023,12/29/2023,£13385.14,road
+183,Clarance,Girodias,Business,83,United States,Florida,France,Bretagne,Male,40,6/20/2023,10/4/2023,£13463.41,road
+184,Catlee,Cotta,Business,32,United States,Illinois,France,Île-de-France,Female,62,3/21/2023,2/22/2024,£13852.64,air
+185,Rutter,Abrami,Business,8,United States,Texas,France,Midi-Pyrénées,Male,65,3/20/2023,7/9/2023,£12465.47,air
+186,Yorke,Gamlin,Business,65,United States,Pennsylvania,France,Lorraine,Male,95,2/17/2024,11/30/2023,£11622.24,road
+187,Amble,Scud,Business,13,United States,Oklahoma,France,Franche-Comté,Male,88,11/26/2023,9/17/2023,£13769.30,air
+188,Twyla,Hartle,Business,96,United States,Pennsylvania,France,Île-de-France,Female,79,2/22/2024,11/18/2023,£11477.60,road
+189,Kikelia,Piwall,Business,51,United States,New York,France,Nord-Pas-de-Calais,Agender,24,11/2/2023,3/14/2024,£12076.53,air
+190,Wenona,Doles,Business,81,United States,Pennsylvania,France,Franche-Comté,Female,54,4/11/2023,1/31/2024,£12279.29,road
+191,Loutitia,McNeilly,Business,99,United States,Texas,France,Île-de-France,Non-binary,68,7/23/2023,6/16/2023,£14136.60,road
+192,Godard,Dealy,Business,16,United States,District of Columbia,France,Midi-Pyrénées,Male,90,10/9/2023,12/11/2023,£10864.25,road
+193,Sharon,Sloy,Business,15,United States,Texas,France,Midi-Pyrénées,Female,7,8/21/2023,8/9/2023,£11995.16,road
+194,Maybelle,Ambler,Business,94,United States,Washington,France,Franche-Comté,Female,94,12/11/2023,8/5/2023,£13678.83,road
+195,Alister,Megarry,Business,37,United States,Pennsylvania,United Kingdom,England,Male,51,4/15/2023,2/6/2024,£10752.71,air
+196,Esteban,Kybird,Business,67,United States,Florida,France,Nord-Pas-de-Calais,Male,44,5/12/2023,1/11/2024,£10258.50,road
+197,Odille,Brounfield,Business,57,United States,Florida,United Kingdom,England,Female,94,4/29/2023,11/6/2023,£10076.76,road
+198,Demeter,Pinilla,Business,4,United States,Georgia,France,Haute-Normandie,Female,80,10/24/2023,9/15/2023,£12692.74,air
+199,Shandie,Collop,Business,18,United States,Texas,France,Bretagne,Female,77,10/23/2023,8/31/2023,£12915.28,air
+200,Terry,Le Monnier,Business,22,United States,New York,France,Haute-Normandie,Male,25,8/8/2023,8/12/2023,£12670.42,air
+201,Tiphanie,Moncreiffe,Business,71,United States,California,United Kingdom,England,Female,73,6/6/2023,11/23/2023,£12366.15,road
+202,Justus,Stening,Business,9,United States,Minnesota,France,Aquitaine,Male,86,12/4/2023,7/17/2023,£13678.18,air
+203,Stanton,Huniwall,Business,29,United States,Virginia,France,Centre,Male,29,5/29/2023,4/13/2023,£10297.14,road
+204,Yulma,Henke,Business,6,United States,Florida,France,Picardie,Male,38,4/25/2023,7/7/2023,£10542.72,air
+205,Von,Thickin,Business,86,United States,New York,France,Île-de-France,Genderqueer,49,2/28/2024,1/4/2024,£10500.87,road
+206,Michel,Benner,Business,24,United States,New York,France,Languedoc-Roussillon,Female,9,11/30/2023,9/23/2023,£12065.44,road
+207,Claiborn,Wooffitt,Business,30,United States,Ohio,France,Provence-Alpes-Côte d'Azur,Male,41,7/25/2023,5/13/2023,£14608.68,road
+208,Georg,Vowells,Business,77,United States,Georgia,France,Poitou-Charentes,Male,53,3/1/2024,4/9/2023,£11440.30,road
+209,Twila,Sparkes,Business,73,United States,New York,France,Île-de-France,Female,65,4/2/2023,10/13/2023,£10032.03,air
+210,Aloise,Loutheane,Business,55,United States,Ohio,France,Pays de la Loire,Female,64,8/3/2023,1/10/2024,£14336.84,air
+211,Tiertza,Nial,Business,71,United States,New York,France,Pays de la Loire,Female,36,11/17/2023,9/23/2023,£12636.02,air
+212,Khalil,Barfitt,Business,18,United States,Missouri,France,Pays de la Loire,Genderqueer,85,6/26/2023,8/30/2023,£11731.11,road
+213,Denys,Bradock,Business,91,United States,Michigan,France,Languedoc-Roussillon,Female,27,12/8/2023,11/18/2023,£14063.33,road
+214,Eleonore,Damsell,Business,62,United States,Maryland,France,Île-de-France,Female,79,2/5/2024,3/2/2024,£13814.97,road
+215,Dawna,Adlam,Business,90,United States,Oklahoma,France,Centre,Bigender,63,6/25/2023,10/26/2023,£13314.99,air
+216,Lonee,Humphrys,Business,64,United States,Michigan,France,Rhône-Alpes,Genderfluid,4,10/16/2023,4/25/2023,£10957.03,road
+217,Kari,Ablott,Business,47,United States,California,France,Île-de-France,Female,66,10/19/2023,6/27/2023,£10812.88,road
+218,Garret,Boldison,Business,29,United States,Florida,France,Centre,Male,17,6/13/2023,8/6/2023,£10470.21,road
+219,Salomo,Blazewski,Business,14,United States,District of Columbia,France,Île-de-France,Polygender,28,3/26/2023,1/18/2024,£10403.20,air
+220,Dionne,Duigenan,Business,67,United States,Kentucky,France,Nord-Pas-de-Calais,Female,51,5/18/2023,12/17/2023,£13519.34,road
+221,Fraze,Russ,Business,61,United States,California,France,Lorraine,Male,25,12/12/2023,3/29/2023,£10844.74,road
+222,Gray,Curley,Business,65,United States,Florida,France,Corse,Male,82,3/8/2024,6/26/2023,£14437.12,air
+223,Luisa,Hellin,Business,46,United States,Texas,France,Midi-Pyrénées,Female,96,10/26/2023,11/16/2023,£11272.96,road
+224,Ancell,Gammill,Business,81,United States,Oklahoma,France,Île-de-France,Male,77,3/4/2024,8/29/2023,£10723.63,road
+225,Jere,Raw,Business,1,United States,Utah,France,Île-de-France,Male,2,11/8/2023,1/29/2024,£11581.60,road
+226,Annelise,Hardaway,Business,12,United States,Indiana,France,Pays de la Loire,Female,36,6/22/2023,1/11/2024,£13118.60,road
+227,Devlin,Beadell,Business,6,United States,Texas,France,Centre,Male,83,3/6/2024,6/27/2023,£12997.91,air
+228,Maury,MacParland,Business,1,United States,Texas,France,Nord-Pas-de-Calais,Male,3,12/3/2023,1/8/2024,£12431.97,air
+229,Osborn,Laity,Business,90,United States,Utah,France,Provence-Alpes-Côte d'Azur,Male,68,9/17/2023,4/5/2023,£11844.25,road
+230,Levon,Turnpenny,Business,38,United States,Alabama,France,Île-de-France,Male,1,4/27/2023,7/27/2023,£10469.58,road
+231,Estell,Camin,Business,62,United States,Indiana,France,Pays de la Loire,Female,11,12/24/2023,7/6/2023,£13505.61,road
+232,Quill,Badby,Business,74,United States,Virginia,France,Aquitaine,Male,81,2/29/2024,2/8/2024,£12327.89,road
+233,Batholomew,Swetmore,Business,78,United States,California,France,Auvergne,Male,68,9/26/2023,7/30/2023,£11642.14,air
+234,Chrysa,Epsley,Business,25,United States,California,France,Midi-Pyrénées,Female,84,1/27/2024,12/20/2023,£10113.97,air
+235,Sly,Mallya,Business,13,United States,Texas,France,Île-de-France,Male,26,1/16/2024,11/15/2023,£11572.86,air
+236,Kathleen,O'Loghlen,Business,40,United States,Iowa,France,Île-de-France,Female,71,4/10/2023,9/12/2023,£12911.17,road
+237,Rania,Jerg,Business,33,United States,New York,France,Provence-Alpes-Côte d'Azur,Female,22,7/23/2023,4/27/2023,£14870.20,road
+238,Leena,Danielsen,Business,53,United States,North Carolina,France,Île-de-France,Female,27,7/7/2023,10/24/2023,£11812.38,road
+239,Adelle,Izzard,Business,36,United States,Oregon,France,Île-de-France,Female,90,7/3/2023,1/27/2024,£11566.30,road
+240,Ransom,Butterly,Business,35,United States,New York,France,Picardie,Non-binary,84,3/14/2024,2/28/2024,£11588.03,air
+241,Augustin,Lazenbury,Business,69,United States,New York,France,Nord-Pas-de-Calais,Male,84,10/5/2023,1/26/2024,£14796.82,road
+242,Nehemiah,Mountlow,Business,86,United States,Florida,France,Basse-Normandie,Male,73,6/3/2023,11/3/2023,£12753.84,air
+243,Hephzibah,Bim,Business,51,United States,New York,United Kingdom,Scotland,Female,31,10/25/2023,12/25/2023,£10969.57,air
+244,Cleavland,Wallentin,Business,72,United States,Texas,France,Lorraine,Male,87,10/31/2023,1/23/2024,£14724.32,road
+245,Giuditta,Springthorpe,Business,66,United States,California,France,Franche-Comté,Female,75,10/14/2023,3/1/2024,£11780.60,road
+246,Brandyn,Skatcher,Business,96,United States,Texas,France,Haute-Normandie,Male,65,7/22/2023,2/28/2024,£11572.59,road
+247,Scot,Aubri,Business,36,United States,Kansas,France,Île-de-France,Non-binary,7,3/26/2023,7/8/2023,£12944.33,road
+248,Ron,Elam,Business,63,United States,California,United Kingdom,England,Male,59,12/16/2023,8/22/2023,£13096.22,road
+249,Lulu,Balassa,Business,2,United States,District of Columbia,France,Île-de-France,Female,43,8/9/2023,11/23/2023,£11971.01,air
+250,Wolfgang,Eland,Business,43,United States,Georgia,France,Île-de-France,Male,73,6/23/2023,8/6/2023,£13007.21,air
+251,Vittorio,Bettleson,Business,48,United States,Washington,France,Limousin,Male,75,8/2/2023,5/23/2023,£14436.99,air
+252,Yorgos,Strivens,Business,51,United States,Ohio,France,Île-de-France,Male,72,4/11/2023,7/26/2023,£10417.88,air
+253,Linc,Shieber,Business,5,United States,Georgia,France,Bretagne,Male,81,5/5/2023,1/13/2024,£14250.16,road
+254,Isa,Rodear,Business,18,United States,Tennessee,France,Picardie,Male,33,7/19/2023,1/2/2024,£10343.48,road
+255,Nelie,Byne,Business,30,United States,Florida,France,Île-de-France,Female,32,4/28/2023,4/18/2023,£11768.87,road
+256,Barnett,Rother,Business,72,United States,Tennessee,France,Île-de-France,Male,50,6/28/2023,8/19/2023,£10357.79,road
+257,Chloris,Scranedge,Business,28,United States,Louisiana,France,Lorraine,Female,83,4/30/2023,7/1/2023,£14506.08,air
+258,Don,Cornes,Business,63,United States,West Virginia,France,Nord-Pas-de-Calais,Male,92,9/10/2023,1/13/2024,£12580.22,road
+259,Lana,Pellamont,Business,51,United States,Texas,France,Provence-Alpes-Côte d'Azur,Female,60,2/13/2024,12/11/2023,£10915.31,road
+260,Zerk,Allaway,Business,54,United States,Oregon,France,Rhône-Alpes,Agender,93,4/19/2023,3/25/2023,£14363.80,road
+261,Emilio,MacSween,Business,97,United States,Missouri,France,Île-de-France,Male,76,2/16/2024,3/2/2024,£14441.66,road
+262,Harrison,Ellson,Business,55,United States,Virginia,France,Pays de la Loire,Male,5,4/2/2023,5/27/2023,£12187.47,road
+263,Bern,Mammatt,Business,29,United States,California,France,Midi-Pyrénées,Male,30,11/29/2023,11/5/2023,£11431.99,air
+264,Lenora,Sealand,Business,46,United States,Texas,France,Picardie,Female,11,3/11/2024,1/3/2024,£10968.75,road
+265,Sydney,Berick,Business,17,United States,Illinois,France,Franche-Comté,Male,79,4/24/2023,7/1/2023,£10277.58,air
+266,Cyrille,Withrington,Business,17,United States,District of Columbia,France,Midi-Pyrénées,Polygender,84,4/12/2023,1/5/2024,£11835.29,road
+267,Ximenez,Merigot,Business,98,United States,New York,France,Île-de-France,Male,62,6/3/2023,4/27/2023,£13753.80,road
+268,Terrill,Vivien,Business,34,United States,California,France,Île-de-France,Male,7,10/30/2023,8/26/2023,£11367.55,road
+269,Pooh,Grigor,Business,89,United States,Tennessee,France,Lorraine,Female,60,8/1/2023,8/11/2023,£13110.28,road
+270,Freddie,Marc,Business,10,United States,Washington,France,Rhône-Alpes,Female,43,9/26/2023,6/29/2023,£11142.09,road
+271,Gawen,Wilbraham,Business,4,United States,New York,France,Bourgogne,Male,59,3/7/2024,10/20/2023,£13163.62,road
+272,Celestyna,Kewzick,Business,24,United States,Texas,France,Île-de-France,Female,63,12/1/2023,10/22/2023,£10329.13,road
+273,Nicoli,Macellar,Business,54,United States,North Carolina,France,Poitou-Charentes,Female,31,4/28/2023,10/9/2023,£13048.91,air
+274,Karlotte,Sudron,Business,28,United States,Missouri,France,Basse-Normandie,Female,69,1/3/2024,10/16/2023,£12059.32,road
+275,Blaire,Trunby,Business,85,United States,Texas,France,Île-de-France,Female,52,3/2/2024,7/13/2023,£14552.63,air
+276,Cord,Edgler,Business,60,United States,Connecticut,France,Alsace,Male,25,5/22/2023,4/27/2023,£11887.70,road
+277,Isidora,Stopps,Business,58,United States,Texas,France,Languedoc-Roussillon,Female,68,11/30/2023,8/25/2023,£11206.41,air
+278,Jaymie,Antonellini,Business,1,United States,Florida,France,Lorraine,Male,70,8/13/2023,10/15/2023,£10041.05,road
+279,Jarret,McKennan,Business,72,United States,Delaware,France,Pays de la Loire,Male,2,2/27/2024,1/29/2024,£12462.81,air
+280,Donelle,Fenners,Business,24,United States,Virginia,France,Lorraine,Female,64,10/8/2023,5/27/2023,£13949.47,road
+281,Suzette,McCandie,Business,35,United States,New Mexico,France,Île-de-France,Female,19,3/18/2023,5/23/2023,£13880.81,air
+282,Carling,Klejin,Business,70,United States,Texas,France,Île-de-France,Male,63,7/4/2023,1/3/2024,£11811.54,air
+283,Linus,Errol,Business,17,United States,Tennessee,France,Poitou-Charentes,Polygender,51,2/23/2024,10/7/2023,£11656.51,air
+284,Tim,Eyres,Business,21,United States,Texas,France,Haute-Normandie,Male,98,10/23/2023,3/15/2024,£13334.86,road
+285,Willi,Scarth,Business,45,United States,Indiana,France,Franche-Comté,Male,44,3/27/2023,12/9/2023,£13588.35,road
+286,Karlotta,Linguard,Business,72,United States,Kentucky,United Kingdom,England,Female,75,5/7/2023,4/22/2023,£13564.12,air
+287,Ted,Baughan,Business,66,United States,Kansas,United Kingdom,England,Male,53,5/13/2023,8/6/2023,£10341.94,road
+288,Witty,Koubek,Business,6,United States,California,France,Franche-Comté,Male,19,5/4/2023,12/12/2023,£11738.81,road
+289,Trixie,Berrygun,Business,66,United States,Virginia,France,Provence-Alpes-Côte d'Azur,Female,69,10/28/2023,12/26/2023,£13526.70,air
+290,Darsie,Romaint,Business,66,United States,Tennessee,France,Basse-Normandie,Female,74,1/14/2024,11/28/2023,£14138.00,road
+291,Gillie,Abade,Business,33,United States,Kentucky,France,Île-de-France,Female,24,6/11/2023,1/10/2024,£14134.02,air
+292,Naomi,Conry,Business,55,United States,Pennsylvania,France,Alsace,Female,61,7/27/2023,4/23/2023,£13432.57,air
+293,Leah,Gerault,Business,28,United States,Kentucky,United Kingdom,England,Female,75,2/7/2024,8/13/2023,£10756.91,road
+294,Emili,Mancktelow,Business,66,United States,Delaware,France,Rhône-Alpes,Female,98,2/7/2024,9/23/2023,£14700.12,road
+295,Nahum,Siggee,Business,13,United States,Ohio,France,Île-de-France,Male,61,3/1/2024,12/20/2023,£11433.27,road
+296,Conway,Kersley,Business,76,United States,Texas,France,Alsace,Agender,37,5/3/2023,12/29/2023,£10476.61,air
+297,Dennison,Fittall,Business,83,United States,Tennessee,France,Île-de-France,Male,97,12/1/2023,11/18/2023,£12127.49,air
+298,Ellwood,Struis,Business,90,United States,Florida,France,Île-de-France,Male,42,9/6/2023,6/11/2023,£14709.37,road
+299,Tuck,Regler,Business,11,United States,Tennessee,France,Champagne-Ardenne,Male,10,9/8/2023,1/1/2024,£11884.33,road
+300,Nickie,Blindmann,Business,91,United States,Texas,France,Languedoc-Roussillon,Female,51,8/23/2023,10/23/2023,£13882.69,air
+301,Leighton,Drinkwater,Business,71,United States,Oklahoma,France,Picardie,Male,41,8/15/2023,4/18/2023,£11613.24,air
+302,Sigfried,Genty,Business,75,United States,Florida,France,Île-de-France,Male,24,7/3/2023,8/17/2023,£10359.61,road
+303,Sophia,Budgen,Business,46,United States,Nebraska,France,Basse-Normandie,Female,2,3/9/2024,11/5/2023,£14299.21,road
+304,Marigold,Eddisforth,Business,11,United States,Alabama,France,Rhône-Alpes,Female,35,5/27/2023,9/13/2023,£10062.47,road
+305,Guillema,Quinet,Business,20,United States,Washington,France,Île-de-France,Female,6,10/24/2023,2/28/2024,£12504.16,air
+306,Natividad,Rigeby,Business,74,United States,Texas,France,Bretagne,Female,67,6/19/2023,5/2/2023,£10110.92,air
+307,Boy,Falla,Business,96,United States,California,France,Île-de-France,Male,68,4/14/2023,1/5/2024,£14854.06,air
+308,Pascale,Woltman,Business,62,United States,Maryland,France,Île-de-France,Male,82,4/17/2023,3/5/2024,£14364.14,air
+309,Della,Dummer,Business,28,United States,Arkansas,France,Île-de-France,Female,78,8/18/2023,3/14/2024,£13713.04,air
+310,Fancie,Billett,Business,98,United States,California,France,Pays de la Loire,Female,29,1/7/2024,7/4/2023,£10852.59,road
+311,Annabell,Chadwell,Business,9,United States,North Carolina,United Kingdom,Scotland,Female,22,11/5/2023,12/14/2023,£14730.06,air
+312,Fenelia,Bernier,Business,61,United States,Missouri,France,Franche-Comté,Female,26,12/17/2023,7/25/2023,£12300.81,road
+313,Lammond,Limb,Business,50,United States,District of Columbia,France,Provence-Alpes-Côte d'Azur,Male,3,5/13/2023,10/18/2023,£10737.27,road
+314,Skipton,Lemar,Business,34,United States,Texas,France,Île-de-France,Male,97,9/20/2023,8/17/2023,£10744.07,air
+315,Billie,Konertz,Business,46,United States,Ohio,France,Centre,Male,65,2/4/2024,6/11/2023,£12986.22,air
+316,Joye,Toppas,Business,21,United States,Kentucky,France,Île-de-France,Female,100,9/21/2023,7/30/2023,£13286.67,air
+317,Filmer,Yurkiewicz,Business,19,United States,Minnesota,France,Île-de-France,Male,90,4/13/2023,11/30/2023,£14956.33,air
+318,Darby,Roller,Business,17,United States,Ohio,France,Nord-Pas-de-Calais,Female,67,3/22/2023,11/28/2023,£10473.09,road
+319,Skip,Lanfare,Business,40,United States,Ohio,France,Île-de-France,Male,6,2/22/2024,6/9/2023,£14374.02,air
+320,Rinaldo,Sandwick,Business,62,United States,New York,France,Provence-Alpes-Côte d'Azur,Male,84,5/19/2023,2/9/2024,£12928.02,air
+321,Dinny,Hannum,Business,99,United States,Florida,France,Île-de-France,Female,90,5/27/2023,4/22/2023,£10431.78,air
+322,Karlyn,Pickervance,Business,77,United States,Minnesota,France,Île-de-France,Female,22,12/3/2023,11/13/2023,£11958.58,road
+323,Hillyer,Elcoux,Business,46,United States,Washington,France,Alsace,Bigender,15,4/24/2023,11/30/2023,£10043.98,air
+324,Rawley,Searson,Business,72,United States,Pennsylvania,France,Pays de la Loire,Male,34,8/20/2023,3/12/2024,£12210.32,air
+325,Jolee,Milland,Business,66,United States,Pennsylvania,France,Île-de-France,Female,56,11/12/2023,1/19/2024,£11171.08,road
+326,Teddie,Timlett,Business,47,United States,Indiana,France,Île-de-France,Female,36,10/5/2023,3/15/2024,£13868.24,road
+327,Catherin,Verden,Business,29,United States,Texas,France,Alsace,Female,71,4/5/2023,12/29/2023,£14254.86,road
+328,Ricky,Sidlow,Business,91,United States,California,France,Île-de-France,Female,35,4/6/2023,7/11/2023,£12793.18,air
+329,Pooh,Osgood,Business,56,United States,Oklahoma,France,Île-de-France,Female,83,6/8/2023,1/14/2024,£10620.48,air
+330,Griffith,Caruth,Business,79,United States,Tennessee,United Kingdom,England,Male,78,1/28/2024,12/1/2023,£12523.13,road
+331,Christophorus,Revie,Business,92,United States,New York,United Kingdom,England,Male,29,3/5/2024,3/4/2024,£13421.38,road
+332,Lucille,Pawson,Business,66,United States,Kentucky,France,Aquitaine,Female,6,9/21/2023,1/7/2024,£14858.25,air
+333,Charla,Creagh,Business,48,United States,Texas,France,Île-de-France,Female,3,8/7/2023,1/28/2024,£11910.92,road
+334,Tana,MacAlpine,Business,62,United States,Tennessee,France,Île-de-France,Female,25,4/20/2023,11/5/2023,£13970.93,road
+335,Valeda,Coulthard,Business,15,United States,Tennessee,United Kingdom,England,Female,72,5/18/2023,6/7/2023,£10332.69,air
+336,Julio,Iacomettii,Business,90,United States,Texas,France,Île-de-France,Male,17,10/18/2023,10/4/2023,£11049.98,air
+337,Eldridge,Braemer,Business,51,United States,Florida,France,Bretagne,Genderfluid,49,6/6/2023,2/12/2024,£14164.49,road
+338,Trixy,O'Spellissey,Business,78,United States,Texas,France,Alsace,Female,9,10/28/2023,11/13/2023,£12655.35,air
+339,Melony,Athy,Business,34,United States,Kansas,United Kingdom,England,Non-binary,14,2/18/2024,10/1/2023,£12892.13,air
+340,Alvy,Cosh,Business,41,United States,Texas,France,Rhône-Alpes,Male,64,4/15/2023,2/19/2024,£12737.45,air
+341,Annmaria,Hagerty,Business,80,United States,District of Columbia,France,Rhône-Alpes,Bigender,80,5/30/2023,3/7/2024,£13816.87,road
+342,Garvin,Tollemache,Business,42,United States,California,France,Bretagne,Male,59,10/31/2023,7/12/2023,£10945.66,road
+343,Lila,Garry,Business,6,United States,Wisconsin,France,Île-de-France,Female,88,1/13/2024,7/7/2023,£11041.70,air
+344,Eduard,Morrallee,Business,82,United States,California,United Kingdom,England,Male,35,11/5/2023,10/7/2023,£13631.25,road
+345,Mariele,Starzaker,Business,33,United States,Ohio,France,Île-de-France,Female,15,5/18/2023,5/16/2023,£13503.97,air
+346,Dulcy,Giacovazzo,Business,93,United States,Minnesota,France,Provence-Alpes-Côte d'Azur,Female,15,12/17/2023,9/2/2023,£13250.24,air
+347,Angelique,Westoff,Business,69,United States,Florida,France,Bourgogne,Bigender,38,6/22/2023,3/1/2024,£14606.01,air
+348,Jud,Beeby,Business,44,United States,California,France,Pays de la Loire,Male,69,1/27/2024,10/11/2023,£10464.69,air
+349,Flore,Kunc,Business,43,United States,Louisiana,France,Provence-Alpes-Côte d'Azur,Female,13,1/23/2024,11/16/2023,£12513.78,air
+350,Ignaz,Yersin,Business,88,United States,New York,France,Île-de-France,Male,65,3/2/2024,4/12/2023,£11960.73,air
+351,Nertie,Spick,Business,40,United States,Missouri,Dominican Republic,,Female,87,5/15/2023,3/14/2024,"$13,905.93 ",air
+352,Jed,Rossi,Business,52,United States,Texas,Jamaica,,Male,16,7/18/2023,11/4/2023,"$9,296.40 ",air
+353,Shani,Maha,Business,31,United States,California,Jamaica,,Female,59,9/7/2023,7/17/2023,"$8,726.82 ",air
+354,Ryan,Gerard,Business,35,United States,Arkansas,Jamaica,,Male,11,12/13/2023,7/19/2023,"$12,754.12 ",air
+355,Gregoire,Pantin,Business,91,United States,California,Dominican Republic,,Male,35,1/20/2024,5/23/2023,"$6,245.22 ",air
+356,Millie,Harrowing,Business,53,United States,Texas,Barbados,,Female,94,2/26/2024,2/16/2024,"$11,505.18 ",road
+357,Alvis,Belison,Business,4,United States,Florida,Dominican Republic,,Male,56,5/21/2023,8/6/2023,"$11,059.49 ",air
+358,Antone,Richie,Business,43,United States,Tennessee,Dominican Republic,,Male,97,4/16/2023,11/28/2023,"$9,795.14 ",road
+359,Wandie,Rathbone,Business,99,United States,Colorado,Dominican Republic,,Female,23,11/7/2023,10/18/2023,"$6,064.31 ",air
+360,Maximilianus,Fedynski,Business,17,United States,Arizona,Dominican Republic,,Male,33,2/23/2024,11/30/2023,"$5,386.38 ",air
+361,Claiborne,de Leon,Business,53,United States,California,Dominican Republic,,Male,97,3/13/2024,1/8/2024,"$8,708.67 ",air
+362,Ahmad,Nye,Business,83,United States,North Carolina,Dominican Republic,,Male,60,10/5/2023,4/10/2023,"$8,887.90 ",road
+363,Fredia,Stoffer,Business,53,United States,Minnesota,Dominican Republic,,Female,41,5/10/2023,3/15/2024,"$11,136.74 ",road
+364,Farly,Reisen,Business,51,United States,Massachusetts,Dominican Republic,,Male,51,9/25/2023,1/25/2024,"$5,078.38 ",air
+365,Pascale,Giottini,Business,32,United States,Louisiana,Barbados,,Male,29,7/8/2023,9/17/2023,"$9,985.54 ",air
+366,Sabine,Parsisson,Business,72,United States,Mississippi,Dominican Republic,,Female,74,8/7/2023,3/30/2023,"$10,421.96 ",road
+367,Sandor,Richards,Business,4,United States,Ohio,Jamaica,,Male,27,6/23/2023,12/7/2023,"$10,187.30 ",air
+368,Irwinn,Dyson,Business,99,United States,Florida,Dominican Republic,,Male,7,7/20/2023,2/9/2024,"$6,419.02 ",road
+369,Mozes,Twiddell,Business,10,United States,Oklahoma,Dominican Republic,,Male,50,4/26/2023,10/5/2023,"$8,894.43 ",road
+370,Rebbecca,Dericut,Business,56,United States,Florida,Jamaica,,Female,51,7/30/2023,11/2/2023,"$5,465.64 ",air
+371,Hazel,Blethin,Business,47,United States,Florida,Dominican Republic,,Female,6,1/28/2024,12/31/2023,"$12,136.84 ",air
+372,Zelig,Ramelot,Business,19,United States,Texas,Barbados,,Male,56,2/16/2024,6/14/2023,"$10,465.42 ",road
+373,Samson,Cottrell,Business,45,United States,District of Columbia,Dominican Republic,,Male,64,9/5/2023,11/23/2023,"$13,907.54 ",road
+374,La verne,Prettyjohn,Business,35,United States,Ohio,Jamaica,,Female,71,11/24/2023,11/20/2023,"$11,050.50 ",road
+375,Georgetta,Troppmann,Business,94,United States,Ohio,Dominican Republic,,Female,78,5/15/2023,8/8/2023,"$6,546.22 ",road
+376,Jacquenetta,Dressel,Business,79,United States,North Carolina,Dominican Republic,,Polygender,69,5/11/2023,12/6/2023,"$8,327.40 ",road
+377,Kenyon,Cootes,Business,39,United States,Louisiana,Dominican Republic,,Male,27,2/15/2024,6/29/2023,"$8,723.58 ",air
+378,Jobie,Giraudeau,Business,84,United States,District of Columbia,Barbados,,Female,67,12/14/2023,10/17/2023,"$10,330.52 ",road
+379,Kimmie,Anlay,Business,20,United States,District of Columbia,Dominican Republic,,Female,16,8/6/2023,8/1/2023,"$14,351.80 ",road
+380,Isidor,Claus,Business,31,United States,Oregon,Jamaica,,Male,76,2/29/2024,5/23/2023,"$8,894.93 ",road
+381,Hardy,Natalie,Business,90,United States,District of Columbia,Dominican Republic,,Male,30,1/3/2024,7/31/2023,"$10,580.76 ",road
+382,Robinia,Vedyashkin,Business,10,United States,Wisconsin,Jamaica,,Female,21,5/7/2023,8/10/2023,"$14,781.52 ",air
+383,Roger,Hulse,Business,51,United States,Iowa,Dominican Republic,,Male,75,6/3/2023,4/17/2023,"$13,288.91 ",road
+384,Ransell,Aguirrezabal,Business,94,United States,District of Columbia,Dominican Republic,,Male,81,11/18/2023,11/23/2023,"$13,476.67 ",road
+385,Zack,Pie,Business,38,United States,Michigan,Dominican Republic,,Male,84,5/17/2023,11/19/2023,"$11,175.68 ",air
+386,Arliene,Brinsden,Business,81,United States,Louisiana,Dominican Republic,,Female,39,3/26/2023,2/5/2024,"$6,477.44 ",road
+387,Ceciley,Basill,Business,69,United States,District of Columbia,Dominican Republic,,Bigender,72,4/16/2023,2/8/2024,"$7,886.92 ",air
+388,Kurtis,Kingerby,Business,45,United States,California,Barbados,,Male,78,5/23/2023,10/18/2023,"$13,602.00 ",air
+389,Erwin,Czajkowska,Business,76,United States,Georgia,Dominican Republic,,Male,41,12/29/2023,7/3/2023,"$12,389.82 ",road
+390,Rorke,Scotson,Business,62,United States,Kentucky,Dominican Republic,,Non-binary,88,2/15/2024,4/8/2023,"$10,270.97 ",air
+391,Tildie,Pfleger,Business,20,United States,Texas,Dominican Republic,,Polygender,25,11/13/2023,9/24/2023,"$5,424.66 ",road
+392,Editha,Peert,Business,15,United States,Oregon,Dominican Republic,,Female,73,8/31/2023,2/2/2024,"$12,259.71 ",air
+393,Levy,Shimmings,Business,2,United States,California,Dominican Republic,,Male,70,9/4/2023,5/9/2023,"$8,883.23 ",road
+394,Carey,Luscott,Business,20,United States,Ohio,Barbados,,Genderqueer,28,4/2/2023,6/14/2023,"$5,665.78 ",air
+395,Terry,Swalwell,Business,73,United States,Texas,Dominican Republic,,Male,22,9/13/2023,6/16/2023,"$14,750.20 ",road
+396,Sheffy,Clac,Business,1,United States,Mississippi,Dominican Republic,,Male,58,9/8/2023,4/8/2023,"$9,839.13 ",road
+397,Gloriana,Samart,Business,57,United States,Alaska,Jamaica,,Female,18,5/23/2023,4/15/2023,"$6,184.71 ",road
+398,Gusty,Glede,Business,41,United States,Kentucky,Dominican Republic,,Female,31,6/19/2023,2/24/2024,"$10,878.83 ",road
+399,Keely,Dain,Business,87,United States,Georgia,Dominican Republic,,Female,14,6/13/2023,2/16/2024,"$8,006.10 ",air
+400,Starlene,Bachs,Business,94,United States,District of Columbia,Jamaica,,Female,86,6/14/2023,8/20/2023,"$14,139.73 ",air
+401,Winifield,Guerola,Business,39,United States,Texas,Dominican Republic,,Male,64,1/11/2024,6/15/2023,"$12,555.77 ",road
+402,Brose,Whitelaw,Business,19,United States,Washington,Dominican Republic,,Male,21,12/23/2023,2/1/2024,"$12,643.74 ",road
+403,Gabie,Lardier,Business,58,United States,Ohio,Jamaica,,Female,42,4/27/2023,11/19/2023,"$11,038.34 ",air
+404,Royall,Geke,Business,31,United States,Utah,Dominican Republic,,Male,37,1/23/2024,10/1/2023,"$14,355.91 ",road
+405,Minnnie,Lamke,Business,71,United States,Virginia,Dominican Republic,,Female,64,8/27/2023,6/29/2023,"$8,857.08 ",air
+406,Dynah,Rotge,Business,47,United States,Florida,Dominican Republic,,Female,92,6/11/2023,12/12/2023,"$5,928.45 ",road
+407,Cherey,Leverich,Business,99,United States,Connecticut,Dominican Republic,,Female,89,11/14/2023,10/26/2023,"$14,031.37 ",air
+408,Aaron,Ilbert,Business,32,United States,Texas,Jamaica,,Male,29,10/14/2023,6/13/2023,"$12,638.53 ",road
+409,Felicio,Usborn,Business,73,United States,Kansas,Dominican Republic,,Male,7,4/11/2023,1/27/2024,"$11,842.58 ",road
+410,Hortensia,Laible,Business,46,United States,Tennessee,Dominican Republic,,Female,83,10/24/2023,10/26/2023,"$8,382.43 ",road
+411,Lida,Abel,Business,58,United States,Alabama,Jamaica,,Female,96,4/9/2023,3/7/2024,"$6,408.80 ",road
+412,Therine,Topper,Business,44,United States,Pennsylvania,Dominican Republic,,Female,21,6/26/2023,5/30/2023,"$13,167.36 ",air
+413,Meggi,Loutheane,Business,33,United States,Maryland,Dominican Republic,,Female,26,10/3/2023,8/27/2023,"$6,435.89 ",road
+414,Blanca,Silverston,Business,98,United States,Washington,Dominican Republic,,Female,43,9/28/2023,9/13/2023,"$9,045.54 ",air
+415,Tasha,Doerr,Business,38,United States,Alabama,Dominican Republic,,Female,51,1/15/2024,11/28/2023,"$14,896.95 ",air
+416,Marlon,Galpin,Business,53,United States,Florida,Dominican Republic,,Male,10,5/2/2023,7/24/2023,"$6,856.77 ",air
+417,Alanson,MacAnellye,Business,49,United States,Massachusetts,Jamaica,,Male,5,5/5/2023,11/8/2023,"$13,384.42 ",air
+418,Octavia,Zute,Business,28,United States,New York,Dominican Republic,,Female,21,6/16/2023,10/17/2023,"$6,369.65 ",air
+419,Dottie,Lambillion,Business,98,United States,Nevada,Dominican Republic,,Female,75,11/11/2023,3/4/2024,"$7,900.89 ",road
+420,Moritz,Oiller,Business,16,United States,Tennessee,Dominican Republic,,Male,19,4/14/2023,9/6/2023,"$5,241.89 ",air
+421,Sela,Convery,Business,20,United States,Missouri,Dominican Republic,,Female,94,11/4/2023,5/31/2023,"$14,915.54 ",road
+422,Rosaline,Devlin,Business,76,United States,Iowa,Dominican Republic,,Female,82,4/4/2023,1/22/2024,"$6,581.43 ",air
+423,Adolphe,Holbie,Business,67,United States,Florida,Jamaica,,Genderqueer,56,11/15/2023,12/25/2023,"$8,222.52 ",air
+424,Harley,Sturge,Business,31,United States,Alabama,Dominican Republic,,Female,70,5/30/2023,5/5/2023,"$9,299.72 ",road
+425,Jacquette,Coltman,Business,5,United States,California,Dominican Republic,,Female,45,7/18/2023,1/19/2024,"$9,990.72 ",road
+426,Ashlan,Wanell,Business,36,United States,New York,Dominican Republic,,Female,66,10/17/2023,3/22/2023,"$10,373.91 ",road
+427,Belita,Larkworthy,Business,17,United States,California,Dominican Republic,,Female,37,6/1/2023,7/16/2023,"$11,404.84 ",road
+428,Merry,Keoghane,Business,82,United States,North Carolina,Jamaica,,Female,9,10/29/2023,7/2/2023,"$6,074.56 ",road
+429,Geoffry,Sterrie,Business,19,United States,Tennessee,Dominican Republic,,Male,18,11/24/2023,6/26/2023,"$9,487.43 ",road
+430,Kaela,Ruske,Business,23,United States,Kentucky,Dominican Republic,,Female,72,7/2/2023,10/21/2023,"$5,762.90 ",road
+431,Nat,Rosser,Business,18,United States,Virginia,Dominican Republic,,Polygender,34,10/9/2023,7/20/2023,"$14,353.65 ",road
+432,Babs,Butcher,Business,68,United States,Texas,Dominican Republic,,Female,100,1/20/2024,2/7/2024,"$14,845.15 ",road
+433,Isaak,Tripe,Business,63,United States,New York,Dominican Republic,,Male,28,3/4/2024,11/29/2023,"$5,336.32 ",air
+434,Homere,Michelet,Business,49,United States,Virginia,Dominican Republic,,Male,72,5/20/2023,1/14/2024,"$6,327.64 ",air
+435,Harri,Hancke,Business,4,United States,Florida,Dominican Republic,,Female,21,12/27/2023,6/13/2023,"$5,334.70 ",air
+436,Arvy,Hullins,Business,57,United States,District of Columbia,Dominican Republic,,Male,42,5/12/2023,12/30/2023,"$14,523.14 ",road
+437,Welbie,De Carlo,Business,5,United States,Colorado,Jamaica,,Agender,79,8/3/2023,10/11/2023,"$13,949.03 ",road
+438,Frannie,Sperling,Business,63,United States,Maryland,Dominican Republic,,Female,4,2/18/2024,12/4/2023,"$6,015.22 ",air
+439,Mathias,Sinkins,Business,31,United States,North Carolina,Jamaica,,Male,92,3/30/2023,12/17/2023,"$5,509.60 ",road
+440,Mead,Aldus,Business,14,United States,Louisiana,Dominican Republic,,Female,60,5/24/2023,2/12/2024,"$9,380.54 ",air
+441,Phylys,Garrood,Business,79,United States,Alabama,Dominican Republic,,Female,7,2/9/2024,6/21/2023,"$9,682.32 ",air
+442,Constantine,Halladay,Business,45,United States,Tennessee,Dominican Republic,,Female,22,7/23/2023,6/14/2023,"$7,995.89 ",road
+443,Xerxes,Mintoft,Business,42,United States,District of Columbia,Jamaica,,Male,67,8/11/2023,9/23/2023,"$6,243.58 ",road
+444,Sisile,Mease,Business,64,United States,California,Dominican Republic,,Female,58,5/13/2023,1/7/2024,"$8,297.23 ",road
+445,Eleanor,Vittet,Business,79,United States,Illinois,Jamaica,,Female,77,11/29/2023,6/29/2023,"$11,046.52 ",air
+446,Maximo,Quarrell,Business,15,United States,Ohio,Jamaica,,Male,5,11/26/2023,5/2/2023,"$5,720.56 ",air
+447,Oona,Kyd,Business,57,United States,Kansas,Dominican Republic,,Female,75,6/11/2023,8/26/2023,"$13,747.10 ",air
+448,Vincent,Clancey,Business,19,United States,Connecticut,Jamaica,,Male,21,1/29/2024,2/16/2024,"$12,336.19 ",road
+449,Nathanial,Westover,Business,37,United States,New Mexico,Cayman Islands,,Bigender,29,3/15/2024,10/12/2023,"$10,550.00 ",road
+450,Jaclyn,Waldera,Business,17,United States,California,Jamaica,,Female,21,9/19/2023,1/10/2024,"$13,405.63 ",road
+451,Douglas,Paylie,Business,62,United States,Pennsylvania,Jamaica,,Male,16,4/23/2023,3/21/2023,"$7,091.90 ",road
+452,Wynn,Barnicott,Business,73,United States,Texas,Barbados,,Female,4,1/10/2024,12/10/2023,"$13,238.93 ",road
+453,Ruy,Santus,Business,42,United States,Florida,Dominican Republic,,Male,38,12/7/2023,5/8/2023,"$12,093.75 ",air
+454,Dennie,Edinboro,Business,98,United States,Texas,Dominican Republic,,Male,67,6/4/2023,3/18/2023,"$10,296.27 ",road
+455,Blythe,Cowmeadow,Business,49,United States,Minnesota,Dominican Republic,,Female,62,8/20/2023,6/8/2023,"$11,073.04 ",air
+456,Lauraine,Duckhouse,Business,53,United States,Utah,Barbados,,Female,73,5/30/2023,6/20/2023,"$12,138.60 ",road
+457,Dierdre,Pelling,Business,42,United States,New York,Jamaica,,Female,51,12/29/2023,10/21/2023,"$6,587.03 ",air
+458,Lavinie,Crut,Business,72,United States,Georgia,Jamaica,,Female,100,8/2/2023,6/30/2023,"$5,946.75 ",air
+459,Fianna,Eayrs,Business,71,United States,Louisiana,Dominican Republic,,Female,93,2/1/2024,10/7/2023,"$12,082.51 ",air
+460,Geno,Eves,Business,5,United States,Connecticut,Dominican Republic,,Male,37,3/13/2024,11/25/2023,"$12,340.14 ",air
+461,Roshelle,Brydone,Business,64,United States,Missouri,Dominican Republic,,Female,14,8/19/2023,11/30/2023,"$14,605.00 ",road
+462,Maddi,Barbier,Business,26,United States,Colorado,Jamaica,,Genderqueer,32,11/3/2023,7/29/2023,"$6,062.68 ",air
+463,Arel,Heiner,Business,50,United States,Virginia,Dominican Republic,,Male,83,9/20/2023,11/9/2023,"$14,683.51 ",air
+464,Horst,Langfat,Business,88,United States,Texas,Dominican Republic,,Male,24,7/12/2023,6/27/2023,"$11,171.37 ",air
+465,Cordi,Kenealy,Business,17,United States,Alabama,Dominican Republic,,Female,97,3/13/2024,3/13/2024,"$5,153.02 ",air
+466,Emlen,Antoniat,Business,35,United States,Pennsylvania,Dominican Republic,,Male,92,4/1/2023,7/19/2023,"$9,632.71 ",road
+467,Isabella,Hackworth,Business,29,United States,California,Cayman Islands,,Female,99,12/21/2023,3/17/2024,"$13,589.06 ",road
+468,Hank,MacLaig,Business,18,United States,New York,Dominican Republic,,Genderqueer,47,10/16/2023,2/1/2024,"$5,196.23 ",road
+469,Margette,Sexstone,Business,96,United States,Georgia,Dominican Republic,,Female,100,3/30/2023,9/11/2023,"$12,951.38 ",air
+470,Maurita,Shevlan,Business,13,United States,Colorado,Dominican Republic,,Female,97,11/22/2023,9/7/2023,"$5,650.23 ",road
+471,Gamaliel,Eleshenar,Business,76,United States,Florida,Jamaica,,Male,88,7/29/2023,5/31/2023,"$9,147.25 ",air
+472,Bard,Wassung,Business,97,United States,Texas,Dominican Republic,,Polygender,8,12/27/2023,6/10/2023,"$12,010.86 ",road
+473,Nola,Mouncey,Business,56,United States,Texas,Barbados,,Female,71,5/22/2023,12/4/2023,"$11,463.09 ",road
+474,Caleb,Sapsed,Business,46,United States,Louisiana,Dominican Republic,,Male,67,8/2/2023,1/27/2024,"$12,521.66 ",air
+475,Armstrong,Paskins,Business,89,United States,Alaska,Dominican Republic,,Male,12,2/19/2024,5/2/2023,"$7,837.94 ",air
+476,Lynn,Meckiff,Business,58,United States,Wisconsin,Dominican Republic,,Male,13,3/6/2024,5/4/2023,"$8,709.17 ",air
+477,Katerine,Lemmer,Business,82,United States,New York,Dominican Republic,,Female,16,1/25/2024,8/26/2023,"$7,172.02 ",road
+478,Florenza,Fewell,Business,41,United States,Indiana,Dominican Republic,,Female,51,11/14/2023,3/27/2023,"$7,561.75 ",air
+479,Griselda,Trafford,Business,95,United States,Louisiana,Dominican Republic,,Female,73,10/26/2023,9/10/2023,"$9,349.45 ",air
+480,Allyson,Telling,Business,57,United States,California,Dominican Republic,,Female,91,9/7/2023,12/21/2023,"$12,343.28 ",road
+481,Carolina,Attaway,Business,9,United States,Ohio,Jamaica,,Female,37,12/2/2023,2/3/2024,"$9,800.37 ",air
+482,Glenda,Killerby,Business,86,United States,Florida,Jamaica,,Female,12,9/17/2023,7/1/2023,"$10,643.48 ",road
+483,Ericha,Mushett,Business,97,United States,Texas,Dominican Republic,,Female,53,4/24/2023,10/8/2023,"$12,150.39 ",road
+484,Bernadina,Branni,Business,78,United States,Oklahoma,Dominican Republic,,Female,74,6/19/2023,12/5/2023,"$12,383.89 ",road
+485,Ronnie,Arnal,Business,99,United States,Indiana,Dominican Republic,,Female,32,9/1/2023,12/28/2023,"$5,763.57 ",air
+486,Judon,Lattie,Business,63,United States,California,Dominican Republic,,Male,48,5/15/2023,10/23/2023,"$14,064.12 ",road
+487,Gisele,Carlucci,Business,54,United States,Washington,Dominican Republic,,Female,87,10/9/2023,5/2/2023,"$7,793.59 ",air
+488,Putnem,Barke,Business,89,United States,Washington,Dominican Republic,,Male,80,12/18/2023,3/10/2024,"$8,392.38 ",air
+489,Petunia,Pury,Business,99,United States,Maryland,Dominican Republic,,Female,79,12/17/2023,2/20/2024,"$5,375.25 ",road
+490,Felice,Odams,Business,58,United States,Michigan,Jamaica,,Male,45,11/25/2023,12/13/2023,"$5,663.48 ",road
+491,Juliet,Gommowe,Business,67,United States,Florida,Barbados,,Female,28,5/7/2023,12/30/2023,"$14,037.95 ",road
+492,Oswald,Ricardet,Business,18,United States,Kentucky,Dominican Republic,,Male,13,7/17/2023,6/19/2023,"$6,675.13 ",air
+493,Fanchette,Bees,Business,81,United States,District of Columbia,Jamaica,,Female,17,12/12/2023,7/5/2023,"$10,722.19 ",road
+494,Hadlee,Mathivat,Business,7,United States,Wisconsin,Dominican Republic,,Male,64,5/3/2023,6/28/2023,"$14,846.16 ",air
+495,Sergeant,Abell,Business,69,United States,Pennsylvania,Dominican Republic,,Male,66,8/6/2023,12/8/2023,"$11,584.94 ",air
+496,Estevan,Chivers,Business,41,United States,New York,Dominican Republic,,Male,7,7/10/2023,9/3/2023,"$12,207.60 ",road
+497,Darryl,Pawelec,Business,75,United States,Illinois,Dominican Republic,,Non-binary,60,8/12/2023,7/3/2023,"$6,044.47 ",road
+498,Nikolia,Pakes,Business,80,United States,Nebraska,Dominican Republic,,Female,2,2/23/2024,2/21/2024,"$12,922.41 ",air
+499,Suzette,Tenby,Business,23,United States,New York,Jamaica,,Female,92,1/29/2024,11/26/2023,"$6,746.69 ",air
+500,Demetri,Mountney,Business,20,United States,Michigan,Dominican Republic,,Male,94,2/24/2024,3/30/2023,"$12,482.80 ",road
+501,Warden,Feeham,Business,84,United States,Kentucky,Jamaica,,Male,58,11/22/2023,2/2/2024,"$14,526.37 ",road
+502,Winona,Manass,Business,85,United States,California,Dominican Republic,,Female,67,1/12/2024,8/23/2023,"$5,031.18 ",road
+503,Jane,Kilbourne,Business,49,United States,District of Columbia,Barbados,,Female,11,9/16/2023,2/10/2024,"$6,644.22 ",air
+504,Channa,Donat,Business,97,United States,Virginia,Dominican Republic,,Female,89,5/13/2023,6/22/2023,"$12,369.06 ",road
+505,Ekaterina,Tippett,Business,52,United States,Illinois,Dominican Republic,,Female,44,10/10/2023,3/15/2024,"$8,842.43 ",air
+506,Graham,Overstone,Business,45,United States,California,Dominican Republic,,Bigender,42,7/17/2023,4/11/2023,"$14,179.95 ",road
+507,Agnella,Milbourne,Business,58,United States,South Dakota,Jamaica,,Female,53,6/28/2023,3/17/2024,"$11,748.21 ",air
+508,Carilyn,Cureton,Business,47,United States,Florida,Dominican Republic,,Polygender,35,10/22/2023,7/30/2023,"$12,426.68 ",air
+509,Debi,Pattillo,Business,91,United States,New Mexico,Dominican Republic,,Female,84,8/30/2023,11/24/2023,"$7,074.10 ",air
+510,Mar,Erni,Business,100,United States,Kentucky,Dominican Republic,,Male,32,8/20/2023,11/10/2023,"$12,486.91 ",road
+511,Cull,MacMorland,Business,3,United States,Michigan,Jamaica,,Male,28,2/24/2024,8/26/2023,"$14,788.03 ",air
+512,Dion,Hewson,Business,43,United States,Florida,Jamaica,,Female,34,2/5/2024,3/2/2024,"$10,625.74 ",road
+513,Jeremy,Scarr,Business,37,United States,Kentucky,Jamaica,,Male,22,6/3/2023,10/2/2023,"$6,322.84 ",air
+514,Tabb,Mitkcov,Business,72,United States,Louisiana,Dominican Republic,,Male,1,11/13/2023,2/22/2024,"$8,602.04 ",road
+515,Pietrek,Brown,Business,11,United States,Michigan,Dominican Republic,,Male,91,10/15/2023,1/19/2024,"$12,944.40 ",road
+516,Lynn,Goulder,Business,57,United States,Florida,Jamaica,,Female,75,6/25/2023,11/26/2023,"$11,757.61 ",air
+517,Jody,Thinn,Business,93,United States,Georgia,Dominican Republic,,Female,93,9/26/2023,4/12/2023,"$12,543.34 ",road
+518,Northrup,Benez,Business,13,United States,Georgia,Jamaica,,Male,25,3/25/2023,4/21/2023,"$6,199.68 ",road
+519,Kali,Corrington,Business,24,United States,Iowa,Dominican Republic,,Female,27,7/25/2023,7/31/2023,"$9,043.40 ",air
+520,Gay,Jury,Business,24,United States,District of Columbia,Dominican Republic,,Male,18,11/2/2023,3/22/2023,"$11,874.25 ",air
+521,Ara,Frantsev,Business,35,United States,Texas,Jamaica,,Male,65,7/25/2023,11/11/2023,"$9,861.70 ",road
+522,Leona,Drohan,Business,88,United States,Pennsylvania,Dominican Republic,,Female,48,10/1/2023,6/21/2023,"$5,537.76 ",air
+523,Gray,Kleinplatz,Business,51,United States,Illinois,Dominican Republic,,Male,9,4/17/2023,3/11/2024,"$13,807.53 ",road
+524,Haven,Beat,Business,30,United States,California,Jamaica,,Male,79,8/13/2023,5/1/2023,"$5,940.30 ",air
+525,Tanhya,Yesson,Business,18,United States,Alabama,Jamaica,,Female,43,3/13/2024,7/17/2023,"$6,394.77 ",air
+526,Greta,Thornham,Business,19,United States,Virginia,Dominican Republic,,Female,58,9/23/2023,10/22/2023,"$10,643.90 ",air
+527,Sula,Ost,Business,62,United States,Alabama,Jamaica,,Female,90,8/27/2023,1/9/2024,"$12,737.94 ",air
+528,Brynne,Fairnie,Business,34,United States,California,Dominican Republic,,Female,10,5/25/2023,2/21/2024,"$10,514.21 ",road
+529,Talya,Sach,Business,74,United States,Oklahoma,Dominican Republic,,Female,6,8/30/2023,1/8/2024,"$13,089.05 ",road
+530,Tymon,Bowkley,Business,26,United States,Alabama,Dominican Republic,,Male,65,5/15/2023,12/29/2023,"$13,892.62 ",road
+531,Laurence,Roderigo,Business,10,United States,California,Jamaica,,Male,50,1/20/2024,5/22/2023,"$6,301.39 ",air
+532,Alfons,Flippen,Business,56,United States,Nevada,Dominican Republic,,Male,11,9/4/2023,4/13/2023,"$7,183.06 ",road
+533,Ara,Dziwisz,Business,82,United States,Texas,Dominican Republic,,Male,66,1/1/2024,9/30/2023,"$5,920.40 ",road
+534,Lilith,Harome,Business,22,United States,Illinois,Jamaica,,Female,56,8/29/2023,12/14/2023,"$7,208.83 ",air
+535,Ingmar,Coleby,Business,68,United States,Georgia,Dominican Republic,,Male,2,12/21/2023,9/10/2023,"$5,595.84 ",air
+536,Devonne,Sallinger,Business,55,United States,Arizona,Dominican Republic,,Female,54,3/17/2024,1/17/2024,"$13,958.26 ",road
+537,Ilka,Ciciura,Business,31,United States,Virginia,Jamaica,,Female,72,4/23/2023,7/26/2023,"$13,044.61 ",road
+538,Stanley,Seyfart,Business,15,United States,New York,Jamaica,,Male,66,8/20/2023,6/1/2023,"$7,042.97 ",road
+539,Emmey,Guilaem,Business,83,United States,Nevada,Jamaica,,Non-binary,35,9/30/2023,2/1/2024,"$13,775.07 ",air
+540,Mahalia,McCleverty,Business,95,United States,Colorado,Dominican Republic,,Female,89,4/11/2023,7/7/2023,"$7,295.67 ",road
+541,Derward,Matterface,Business,17,United States,Indiana,Dominican Republic,,Male,74,7/30/2023,10/6/2023,"$14,254.83 ",road
+542,Kimball,Burkill,Business,16,United States,District of Columbia,Dominican Republic,,Male,100,2/7/2024,3/5/2024,"$8,074.80 ",air
+543,Marshal,Abrahart,Business,97,United States,Colorado,Jamaica,,Male,3,3/22/2023,7/4/2023,"$9,873.76 ",air
+544,Marijn,Longfield,Business,54,United States,Wisconsin,Dominican Republic,,Male,52,9/23/2023,1/21/2024,"$13,775.09 ",air
+545,Rafael,Janacek,Business,7,United States,Alabama,Jamaica,,Male,86,5/17/2023,9/22/2023,"$10,272.20 ",air
+546,Jena,Jakoubec,Business,78,United States,Florida,Dominican Republic,,Female,87,2/11/2024,11/23/2023,"$11,424.26 ",road
+547,Tybi,Noli,Business,54,United States,Texas,Jamaica,,Female,72,1/10/2024,12/26/2023,"$12,348.71 ",air
+548,Filbert,McMonies,Business,14,United States,Florida,Dominican Republic,,Male,2,2/10/2024,4/27/2023,"$6,607.18 ",air
+549,Timi,Summerside,Business,4,United States,New York,Dominican Republic,,Female,18,6/6/2023,3/22/2023,"$5,793.84 ",air
+550,Hildagard,Lemmanbie,Business,96,United States,Florida,Cayman Islands,,Female,26,7/30/2023,1/25/2024,"$13,047.64 ",air
+551,Rainer,Semerad,Business,97,United States,Michigan,Dominican Republic,,Male,28,7/6/2023,4/4/2023,"$10,628.92 ",road
+552,Port,Cattlow,Business,93,United States,Washington,Barbados,,Male,80,8/29/2023,7/23/2023,"$6,598.85 ",air
+553,Kally,Pantin,Business,52,United States,California,Dominican Republic,,Female,79,9/17/2023,3/12/2024,"$7,594.44 ",road
+554,Henka,Giotto,Business,9,United States,Minnesota,Dominican Republic,,Female,70,4/16/2023,6/1/2023,"$12,110.06 ",air
+555,Kenn,Hathaway,Business,31,United States,Wisconsin,Dominican Republic,,Genderqueer,35,6/4/2023,2/24/2024,"$13,888.41 ",air
+556,Bryana,Benazet,Business,4,United States,Pennsylvania,Dominican Republic,,Female,78,4/5/2023,5/29/2023,"$13,419.27 ",road
+557,Catharine,Lenard,Business,78,United States,New York,Dominican Republic,,Female,39,5/12/2023,4/17/2023,"$8,641.46 ",air
+558,Isidor,Doel,Business,81,United States,Oregon,Dominican Republic,,Male,57,1/12/2024,4/6/2023,"$5,626.14 ",air
+559,Corliss,Falconer-Taylor,Business,14,United States,District of Columbia,Barbados,,Female,75,10/15/2023,12/22/2023,"$9,485.94 ",road
+560,Delcine,Chester,Business,47,United States,Florida,Dominican Republic,,Female,47,8/16/2023,2/5/2024,"$6,411.86 ",air
+561,Thatch,Facher,Business,36,United States,California,Dominican Republic,,Male,100,9/14/2023,2/26/2024,"$13,848.69 ",air
+562,Barry,Ropartz,Business,17,United States,Colorado,Jamaica,,Female,39,6/8/2023,2/24/2024,"$14,153.55 ",road
+563,Jareb,Ranstead,Business,47,United States,California,Jamaica,,Male,77,9/15/2023,3/31/2023,"$5,432.66 ",road
+564,Park,Desantis,Business,84,United States,New Jersey,Dominican Republic,,Male,22,6/18/2023,6/14/2023,"$12,361.77 ",air
+565,Brendan,Abrahmovici,Business,5,United States,Florida,Dominican Republic,,Male,35,9/29/2023,7/26/2023,"$13,462.70 ",air
+566,Justina,Mival,Business,91,United States,Kansas,Dominican Republic,,Female,7,7/21/2023,8/14/2023,"$7,107.30 ",air
+567,Ewell,Belcher,Business,2,United States,California,Barbados,,Male,9,12/7/2023,2/26/2024,"$13,247.71 ",road
+568,Sargent,Bayliss,Business,38,United States,Florida,Dominican Republic,,Male,74,1/18/2024,11/10/2023,"$11,679.58 ",air
+569,Dewie,Garbett,Business,32,United States,California,Jamaica,,Male,68,4/16/2023,10/25/2023,"$12,132.12 ",air
+570,Jo-ann,Wimbridge,Business,17,United States,California,Jamaica,,Female,38,6/23/2023,1/7/2024,"$7,494.89 ",road
+571,Hastings,Isaq,Business,11,United States,Pennsylvania,Dominican Republic,,Male,8,8/5/2023,1/6/2024,"$13,248.91 ",air
+572,Nikos,Castille,Business,94,United States,California,Dominican Republic,,Male,52,9/7/2023,6/14/2023,"$9,237.50 ",air
+573,Amitie,MacAdie,Business,83,United States,Georgia,Jamaica,,Female,16,12/5/2023,4/2/2023,"$7,861.68 ",air
+574,Nanon,Riba,Business,75,United States,Pennsylvania,Dominican Republic,,Female,33,9/4/2023,2/14/2024,"$10,242.67 ",road
+575,Lexine,Lockwood,Business,95,United States,New York,Jamaica,,Female,7,10/13/2023,6/3/2023,"$7,049.22 ",air
+576,Dedra,Ferrige,Business,85,United States,Louisiana,Dominican Republic,,Female,59,3/9/2024,2/22/2024,"$5,853.80 ",road
+577,Martyn,McMillam,Business,8,United States,Tennessee,Dominican Republic,,Male,79,8/9/2023,12/27/2023,"$13,596.56 ",road
+578,Coleman,Walkey,Business,31,United States,Minnesota,Jamaica,,Male,51,4/20/2023,2/8/2024,"$8,156.80 ",road
+579,Bella,Moyne,Business,1,United States,Indiana,Jamaica,,Female,56,2/28/2024,6/2/2023,"$8,972.85 ",road
+580,Antoine,Ceely,Business,67,United States,Alaska,Dominican Republic,,Male,28,6/3/2023,1/29/2024,"$9,517.28 ",air
+581,Dorena,Pain,Business,50,United States,Minnesota,Dominican Republic,,Female,60,8/9/2023,5/10/2023,"$10,942.17 ",road
+582,Irv,Lohoar,Business,54,United States,Washington,Jamaica,,Male,47,3/22/2023,10/29/2023,"$13,233.53 ",road
+583,Lukas,Buddleigh,Business,30,United States,Florida,Dominican Republic,,Male,84,12/28/2023,11/29/2023,"$11,691.01 ",road
+584,Thurston,Roberts,Business,94,United States,Ohio,Jamaica,,Male,34,5/8/2023,2/1/2024,"$11,031.27 ",air
+585,Kelcy,Osanne,Business,47,United States,Texas,Dominican Republic,,Female,44,3/12/2024,7/2/2023,"$12,569.57 ",road
+586,Hubey,Trobey,Business,96,United States,Louisiana,Jamaica,,Male,95,11/20/2023,7/8/2023,"$5,374.97 ",road
+587,Enrico,Lavarack,Business,48,United States,New Mexico,Dominican Republic,,Bigender,18,12/22/2023,5/18/2023,"$8,318.88 ",road
+588,Annamaria,Downing,Business,50,United States,Arizona,Dominican Republic,,Polygender,75,4/9/2023,10/16/2023,"$5,712.06 ",road
+589,Leonidas,Antunez,Business,76,United States,California,Dominican Republic,,Male,4,4/2/2023,1/11/2024,"$6,238.89 ",air
+590,Chiquita,Jeanes,Business,47,United States,North Carolina,Jamaica,,Female,73,10/31/2023,12/19/2023,"$13,593.09 ",air
+591,Allyn,Ort,Business,19,United States,New York,Dominican Republic,,Male,19,12/12/2023,7/21/2023,"$8,902.90 ",road
+592,Neda,Houlahan,Business,66,United States,Texas,Dominican Republic,,Female,86,5/18/2023,4/29/2023,"$5,702.18 ",road
+593,Mahmud,Garrish,Business,29,United States,California,Jamaica,,Male,75,10/30/2023,6/15/2023,"$5,469.17 ",air
+594,Meade,Gerhartz,Business,75,United States,California,Dominican Republic,,Female,86,11/28/2023,7/11/2023,"$8,643.56 ",air
+595,Junia,Kitchingman,Business,8,United States,California,Dominican Republic,,Female,53,4/29/2023,8/25/2023,"$11,725.80 ",road
+596,Rafferty,Muzzlewhite,Business,91,United States,New York,Dominican Republic,,Male,34,3/9/2024,6/8/2023,"$7,897.13 ",air
+597,Aurelia,Melley,Business,57,United States,Georgia,Dominican Republic,,Genderqueer,26,10/16/2023,3/30/2023,"$5,592.24 ",road
+598,Celina,Warrillow,Business,57,United States,District of Columbia,Jamaica,,Agender,37,8/13/2023,3/17/2024,"$10,708.60 ",air
+599,Skippie,Beesley,Business,4,United States,Minnesota,Dominican Republic,,Male,57,2/3/2024,4/6/2023,"$6,195.11 ",air
+600,Myranda,Wannop,Business,37,United States,Louisiana,Dominican Republic,,Female,21,4/1/2023,1/27/2024,"$5,008.07 ",air
+601,Tuckie,Aysik,Business,4,United States,Florida,Dominican Republic,,Male,40,6/7/2023,2/4/2024,"$10,796.29 ",road
+602,Gretel,Himpson,Business,38,United States,Florida,Dominican Republic,,Female,90,10/31/2023,10/3/2023,"$11,165.10 ",road
+603,Mata,Huguet,Business,85,United States,District of Columbia,Dominican Republic,,Male,11,11/12/2023,5/5/2023,"$10,924.79 ",air
+604,Noak,Bernardes,Business,94,United States,Tennessee,Dominican Republic,,Male,31,10/29/2023,6/3/2023,"$14,702.64 ",road
+605,Emanuele,Dalgleish,Business,16,United States,Texas,Dominican Republic,,Male,38,6/6/2023,9/18/2023,"$14,905.30 ",air
+606,Garfield,Tivenan,Business,21,United States,California,Dominican Republic,,Male,62,8/14/2023,8/23/2023,"$6,573.80 ",air
+607,Ewart,Coon,Business,16,United States,Texas,Dominican Republic,,Male,72,11/10/2023,9/23/2023,"$8,807.38 ",air
+608,Adiana,Heggman,Business,71,United States,Florida,Dominican Republic,,Female,49,12/25/2023,8/14/2023,"$6,735.31 ",road
+609,Agosto,Abela,Business,46,United States,New York,Dominican Republic,,Male,70,2/28/2024,1/8/2024,"$10,847.03 ",road
+610,Rodrick,Ternault,Business,85,United States,Florida,Dominican Republic,,Male,70,11/25/2023,4/24/2023,"$5,515.46 ",road
+611,Edward,McIlvaney,Business,18,United States,Ohio,Dominican Republic,,Male,62,8/28/2023,4/23/2023,"$12,564.55 ",air
+612,Barbie,Look,Business,71,United States,Florida,Dominican Republic,,Female,25,9/27/2023,3/3/2024,"$10,174.42 ",air
+613,Arte,Healeas,Business,56,United States,Michigan,Dominican Republic,,Male,36,12/15/2023,10/31/2023,"$12,067.55 ",road
+614,Eben,Risely,Business,97,United States,Texas,Dominican Republic,,Male,54,1/24/2024,8/27/2023,"$11,433.57 ",road
+615,Ludwig,Trevino,Business,95,United States,North Carolina,Dominican Republic,,Male,58,5/27/2023,9/1/2023,"$12,141.09 ",road
+616,Dallis,Simenel,Business,95,United States,Missouri,Dominican Republic,,Male,21,12/13/2023,7/26/2023,"$13,489.44 ",road
+617,Emilee,Balasin,Business,100,United States,Nebraska,Barbados,,Female,95,2/14/2024,9/1/2023,"$7,402.40 ",air
+618,Salome,Venediktov,Business,60,United States,Nebraska,Dominican Republic,,Female,18,12/5/2023,6/26/2023,"$14,793.27 ",road
+619,Montgomery,Waddell,Business,73,United States,Florida,Dominican Republic,,Male,2,8/20/2023,10/1/2023,"$9,277.36 ",air
+620,Danna,O'Gavin,Business,22,United States,California,Dominican Republic,,Female,57,10/23/2023,11/7/2023,"$13,220.73 ",air
+621,Deni,Glenn,Business,99,United States,Missouri,Jamaica,,Polygender,5,7/11/2023,3/3/2024,"$9,451.70 ",air
+622,Gabriello,Steeden,Business,37,United States,Wyoming,Dominican Republic,,Non-binary,86,8/6/2023,3/14/2024,"$10,977.64 ",road
+623,Adrienne,Hullyer,Business,27,United States,Nebraska,Dominican Republic,,Agender,45,6/20/2023,8/20/2023,"$11,958.75 ",road
+624,Lemar,Husk,Business,79,United States,Idaho,Dominican Republic,,Male,25,9/17/2023,4/16/2023,"$14,490.63 ",air
+625,Joceline,O'Kerin,Business,53,United States,California,Dominican Republic,,Female,59,1/16/2024,4/22/2023,"$6,214.49 ",road
+626,Jaynell,Petrelli,Business,42,United States,Texas,Jamaica,,Female,25,9/19/2023,8/11/2023,"$7,777.93 ",air
+627,Kennith,Grzegorzewicz,Business,19,United States,Missouri,Dominican Republic,,Male,20,1/31/2024,12/11/2023,"$10,810.76 ",road
+628,Zacharie,Dhenin,Business,80,United States,New York,Dominican Republic,,Male,29,7/19/2023,3/19/2023,"$13,014.95 ",road
+629,Pippo,Spurway,Business,29,United States,Kansas,Dominican Republic,,Male,70,8/19/2023,6/22/2023,"$12,223.13 ",air
+630,Sigfried,Klempke,Business,94,United States,Arizona,Jamaica,,Male,4,1/24/2024,6/6/2023,"$12,024.49 ",road
+631,Wynnie,Karet,Business,90,United States,California,Barbados,,Female,75,4/25/2023,5/10/2023,"$10,080.45 ",road
+632,Thedric,Rummery,Business,98,United States,California,Dominican Republic,,Male,70,11/9/2023,6/25/2023,"$7,742.08 ",road
+633,Niles,Casarino,Business,55,United States,Pennsylvania,Jamaica,,Male,52,7/15/2023,7/17/2023,"$13,699.41 ",road
+634,Quintilla,Ace,Business,23,United States,Washington,Dominican Republic,,Female,44,3/10/2024,1/22/2024,"$14,019.14 ",road
+635,Tynan,Moggle,Business,1,United States,Texas,Jamaica,,Male,36,11/1/2023,6/28/2023,"$9,776.52 ",road
+636,Cris,Stiegar,Business,39,United States,Texas,Jamaica,,Male,1,11/21/2023,4/25/2023,"$6,252.93 ",road
+637,Rosabella,Chapman,Business,79,United States,Nevada,Barbados,,Genderqueer,60,10/20/2023,10/2/2023,"$13,608.66 ",air
+638,Pennie,Bacher,Business,17,United States,Texas,Dominican Republic,,Female,16,8/31/2023,11/2/2023,"$9,595.04 ",road
+639,Quincey,Rubinovitsch,Business,76,United States,California,Dominican Republic,,Male,1,7/5/2023,12/1/2023,"$13,397.92 ",air
+640,Hartwell,Theakston,Business,12,United States,Colorado,Dominican Republic,,Male,24,5/13/2023,12/4/2023,"$8,643.31 ",air
+641,Noah,Bagott,Business,8,United States,New York,Dominican Republic,,Male,49,11/21/2023,5/7/2023,"$11,980.37 ",air
+642,Franni,Whittleton,Business,43,United States,Ohio,Dominican Republic,,Female,8,10/26/2023,7/3/2023,"$5,231.84 ",air
+643,Ariadne,Tollmache,Business,17,United States,Nebraska,Barbados,,Female,9,10/15/2023,1/21/2024,"$12,322.12 ",air
+644,Amory,Pringley,Business,19,United States,District of Columbia,Dominican Republic,,Genderfluid,33,2/2/2024,3/14/2024,"$6,181.42 ",air
+645,Marchelle,Abrahami,Business,94,United States,Florida,Jamaica,,Female,93,1/5/2024,10/25/2023,"$6,390.75 ",road
+646,Pen,Tackell,Business,38,United States,Pennsylvania,Dominican Republic,,Male,60,3/4/2024,4/1/2023,"$6,668.42 ",air
+647,Harrietta,MacGaughie,Business,85,United States,Pennsylvania,Jamaica,,Female,81,1/27/2024,9/12/2023,"$9,375.89 ",road
+648,Hana,Everson,Business,38,United States,Kansas,Dominican Republic,,Female,3,5/9/2023,6/15/2023,"$12,450.60 ",road
+649,Akim,Nouch,Business,11,United States,District of Columbia,Dominican Republic,,Male,89,6/19/2023,12/22/2023,"$12,961.75 ",road
+650,Parrnell,Willavoys,Business,72,United States,Texas,Dominican Republic,,Male,91,2/22/2024,5/3/2023,"$14,611.26 ",road
+651,Evey,McAllaster,Business,79,United States,Louisiana,Hong Kong,,Female,3,8/20/2023,9/13/2023,"$5,499.41 ",air
+652,Omero,Lambregts,Business,61,United States,New Mexico,South Korea,Braga,Male,100,5/16/2023,2/24/2024,"$12,880.33 ",road
+653,Shara,Wyllcocks,Business,40,United States,California,South Korea,,Female,43,1/3/2024,9/16/2023,"$13,670.91 ",road
+654,Budd,Fairhall,Business,87,United States,Oregon,Tokyo,,Male,95,7/16/2023,12/20/2023,"$9,324.86 ",air
+655,Chev,Oliffe,Business,81,United States,North Carolina,Singapore,,Male,42,7/9/2023,11/2/2023,"$11,580.87 ",air
+656,Pennie,Sebley,Business,83,United States,Georgia,South Korea,,Male,46,5/1/2023,11/3/2023,"$6,391.69 ",air
+657,Clary,Rawlinson,Business,95,United States,California,Tokyo,Poitou-Charentes,Female,82,4/18/2023,1/2/2024,"$5,710.70 ",road
+658,Golda,Hegg,Business,84,United States,Connecticut,Hong Kong,Stockholm,Bigender,28,6/5/2023,5/26/2023,"$7,836.61 ",road
+659,Rancell,Gregolotti,Business,69,United States,Florida,Tokyo,Pays de la Loire,Male,43,2/28/2024,11/18/2023,"$6,771.38 ",road
+660,Hoebart,Basile,Business,90,United States,Virginia,South Korea,Stockholm,Male,63,10/17/2023,4/19/2023,"$8,099.02 ",air
+661,Jacinta,Hearson,Business,84,United States,Louisiana,Tokyo,,Female,55,1/20/2024,1/29/2024,"$10,875.53 ",road
+662,Timothee,Perrygo,Business,47,United States,New York,Singapore,,Male,12,2/10/2024,12/17/2023,"$14,888.46 ",road
+663,Brena,De Biasi,Business,97,United States,Illinois,Singapore,Dalarna,Female,18,4/5/2023,9/23/2023,"$10,773.19 ",road
+664,El,Bacher,Business,76,United States,Indiana,Singapore,,Male,95,3/31/2023,11/13/2023,"$14,134.88 ",air
+665,Edi,Olifaunt,Business,86,United States,Louisiana,Singapore,,Female,4,7/3/2023,12/8/2023,"$10,044.30 ",air
+666,Shelton,Reford,Business,10,United States,New York,South Korea,Lisboa,Genderqueer,59,5/20/2023,5/13/2023,"$5,716.38 ",road
+667,Peg,McArdle,Business,27,United States,Michigan,Singapore,,Female,4,5/12/2023,8/14/2023,"$13,653.39 ",air
+668,Aggie,Spragge,Business,79,United States,Montana,Hong Kong,,Female,5,6/3/2023,12/23/2023,"$5,624.99 ",road
+669,Ellis,Tamblingson,Business,11,United States,Florida,South Korea,,Male,29,8/7/2023,8/18/2023,"$9,837.71 ",air
+670,Agnese,Wrettum,Business,62,United States,Texas,Singapore,,Female,68,8/3/2023,4/13/2023,"$13,140.92 ",road
+671,Leonardo,Southerton,Business,89,United States,District of Columbia,Tokyo,,Male,59,10/10/2023,10/19/2023,"$10,082.95 ",road
+672,Malia,Richings,Business,42,United States,West Virginia,Hong Kong,Québec,Female,84,12/20/2023,1/22/2024,"$10,574.97 ",road
+673,Ainslie,Simonassi,Business,55,United States,New York,Tokyo,,Female,48,7/16/2023,4/8/2023,"$11,964.55 ",air
+674,Allister,Newlin,Business,37,United States,Michigan,Hong Kong,,Male,20,5/12/2023,4/4/2023,"$10,767.46 ",air
+675,Lexine,Jodlowski,Business,30,United States,California,Singapore,,Female,97,12/30/2023,2/14/2024,"$10,905.46 ",road
+676,Shurlocke,Caccavella,Business,98,United States,Colorado,Hong Kong,Michoacan De Ocampo,Male,96,8/29/2023,8/20/2023,"$6,953.56 ",road
+677,Warde,Spiaggia,Business,52,United States,Texas,South Korea,,Male,30,8/9/2023,5/19/2023,"$10,381.10 ",air
+678,Jamima,Howis,Business,54,United States,Colorado,Hong Kong,,Female,38,1/12/2024,6/28/2023,"$9,126.94 ",air
+679,Chrystal,Cruxton,Business,14,United States,Ohio,South Korea,,Female,51,1/16/2024,8/19/2023,"$6,617.47 ",road
+680,Roana,Bettam,Business,66,United States,Virginia,South Korea,,Female,69,7/17/2023,2/8/2024,"$12,858.68 ",air
+681,Read,Mozzini,Business,59,United States,California,South Korea,San Luis Potosi,Male,95,7/1/2023,7/14/2023,"$5,406.27 ",air
+682,Berta,Tanfield,Business,34,United States,California,South Korea,,Female,62,12/14/2023,11/16/2023,"$6,104.99 ",road
+683,Dario,Matejic,Business,83,United States,Nebraska,South Korea,,Agender,14,5/1/2023,1/4/2024,"$8,919.63 ",air
+684,Constantino,Schiersch,Business,57,United States,Wisconsin,Tokyo,,Male,53,2/20/2024,5/15/2023,"$7,320.49 ",air
+685,Ivett,Gallymore,Business,45,United States,North Carolina,Hong Kong,Västra Götaland,Female,76,8/10/2023,4/12/2023,"$6,085.58 ",road
+686,Johan,Ricart,Business,32,United States,Texas,Tokyo,,Male,74,9/14/2023,12/8/2023,"$7,693.99 ",air
+687,Kristin,Vynarde,Business,10,United States,Louisiana,Tokyo,,Female,95,6/4/2023,10/24/2023,"$9,491.96 ",air
+688,Catina,Kroin,Business,66,United States,Ohio,South Korea,,Female,10,6/11/2023,12/31/2023,"$11,587.37 ",air
+689,Willard,Nelm,Business,61,United States,Mississippi,South Korea,,Genderfluid,77,6/6/2023,8/19/2023,"$7,636.65 ",road
+690,Maxie,Sturrock,Business,84,United States,Florida,Singapore,,Female,55,1/31/2024,11/13/2023,"$12,112.79 ",air
+691,Kenn,Pick,Business,84,United States,Ohio,South Korea,,Male,90,6/12/2023,12/23/2023,"$14,887.95 ",road
+692,Tome,Jopke,Business,46,United States,California,Hong Kong,,Male,72,8/19/2023,4/20/2023,"$7,877.57 ",road
+693,Isador,Kochl,Business,21,United States,Florida,South Korea,,Male,29,8/3/2023,12/12/2023,"$7,934.39 ",air
+694,Bondy,Balleine,Business,11,United States,Texas,Tokyo,,Male,8,7/4/2023,5/7/2023,"$7,871.34 ",air
+695,Dorothee,Klaesson,Business,70,United States,Pennsylvania,Hong Kong,,Agender,98,11/27/2023,10/25/2023,"$12,506.35 ",road
+696,Sharai,Kisbey,Business,91,United States,District of Columbia,Singapore,,Female,76,11/25/2023,7/5/2023,"$7,409.95 ",road
+697,Delia,Troctor,Business,37,United States,Ohio,Tokyo,,Female,81,11/10/2023,6/25/2023,"$7,066.05 ",air
+698,Briney,Charsley,Business,57,United States,Tennessee,South Korea,Uppsala,Non-binary,25,11/14/2023,4/22/2023,"$6,628.68 ",air
+699,Parker,Michiel,Business,56,United States,California,South Korea,,Male,93,1/2/2024,11/20/2023,"$10,605.89 ",road
+700,Gleda,Cissell,Business,48,United States,Nevada,Tokyo,,Female,18,4/15/2023,11/18/2023,"$11,321.14 ",air
+701,Haslett,Cogzell,Business,63,United States,Illinois,Hong Kong,,Male,80,1/22/2024,5/21/2023,"$7,335.34 ",road
+702,Dalila,Jekel,Business,95,United States,California,Hong Kong,,Female,85,1/10/2024,2/17/2024,"$7,943.39 ",road
+703,Ailina,Ruperto,Business,32,United States,District of Columbia,Tokyo,,Female,38,3/17/2024,5/5/2023,"$9,268.57 ",air
+704,Lindsy,Merkel,Business,92,United States,Michigan,Tokyo,,Female,60,11/19/2023,2/11/2024,"$14,934.73 ",road
+705,Nicko,Gomby,Business,57,United States,North Carolina,Hong Kong,,Male,31,6/12/2023,4/30/2023,"$7,860.59 ",road
+706,Archibaldo,De Filippi,Business,69,United States,Indiana,Tokyo,Languedoc-Roussillon,Genderfluid,4,10/14/2023,4/3/2023,"$5,859.74 ",road
+707,Alejoa,McNirlan,Business,79,United States,Florida,Singapore,,Polygender,86,12/22/2023,12/2/2023,"$8,552.19 ",road
+708,Roley,Wardel,Business,62,United States,District of Columbia,Hong Kong,,Genderfluid,51,11/28/2023,5/23/2023,"$14,413.45 ",road
+709,Jamesy,Kirsch,Business,93,United States,Indiana,Hong Kong,,Male,6,3/11/2024,9/24/2023,"$13,544.42 ",road
+710,Ardyce,Galtone,Business,62,United States,California,Tokyo,Faro,Genderfluid,40,8/20/2023,10/1/2023,"$13,447.15 ",air
+711,Dill,D'Alessio,Business,15,United States,Illinois,South Korea,,Male,100,3/27/2023,1/17/2024,"$8,111.38 ",road
+712,Ruthann,Pawle,Business,45,United States,Texas,Tokyo,,Female,8,3/11/2024,7/11/2023,"$9,732.22 ",air
+713,Cora,Barneveld,Business,28,United States,Kansas,South Korea,,Female,16,1/16/2024,3/24/2023,"$6,134.06 ",road
+714,Dionis,Mantripp,Business,41,United States,Pennsylvania,Hong Kong,Pennsylvania,Female,2,6/5/2023,2/10/2024,"$8,084.61 ",road
+715,Marie-ann,Broe,Business,66,United States,California,Hong Kong,,Female,90,8/23/2023,4/9/2023,"$10,580.80 ",air
+716,Iago,Grimsditch,Business,84,United States,Pennsylvania,South Korea,Selangor,Agender,26,10/23/2023,7/11/2023,"$9,397.79 ",air
+717,Lotti,Caselick,Business,69,United States,California,Hong Kong,,Genderqueer,21,5/9/2023,3/29/2023,"$6,914.90 ",air
+718,Marven,Lazer,Business,55,United States,Pennsylvania,Hong Kong,,Male,64,11/16/2023,4/12/2023,"$10,982.40 ",road
+719,Eustace,Rubee,Business,90,United States,North Dakota,Tokyo,,Male,29,10/29/2023,11/18/2023,"$7,899.02 ",road
+720,Mel,Aleksich,Business,88,United States,California,Hong Kong,,Genderqueer,78,11/11/2023,5/24/2023,"$8,470.42 ",road
+721,Lyle,Albon,Business,98,United States,Kentucky,Singapore,Viana do Castelo,Male,46,12/8/2023,7/28/2023,"$12,151.27 ",air
+722,Diahann,Gladding,Business,20,United States,Nevada,Hong Kong,,Female,37,6/11/2023,6/30/2023,"$11,459.04 ",road
+723,Amity,Bernollet,Business,9,United States,Oklahoma,Hong Kong,,Female,15,10/28/2023,10/2/2023,"$11,425.85 ",air
+724,Zarla,McReath,Business,2,United States,Arizona,South Korea,,Female,57,7/5/2023,11/26/2023,"$12,203.46 ",air
+725,Lishe,Dummigan,Business,99,United States,Georgia,Singapore,,Female,39,4/3/2023,8/10/2023,"$11,235.59 ",air
+726,Rasia,Salt,Business,67,United States,Colorado,South Korea,,Female,50,1/11/2024,8/14/2023,"$5,873.99 ",air
+727,Brandi,Doncom,Business,41,United States,Georgia,Hong Kong,,Female,11,10/13/2023,9/8/2023,"$7,992.43 ",road
+728,Corri,Scotchmer,Business,38,United States,California,Tokyo,,Female,43,8/7/2023,12/8/2023,"$8,336.71 ",air
+729,Clio,Pipes,Business,80,United States,California,South Korea,,Female,50,10/14/2023,11/11/2023,"$5,824.44 ",road
+730,Nancy,Goodban,Business,82,United States,New York,Singapore,Bayern,Female,2,11/16/2023,1/10/2024,"$10,073.47 ",road
+731,Thain,Laise,Business,10,United States,Texas,Hong Kong,,Male,100,2/25/2024,5/12/2023,"$8,892.37 ",air
+732,Vinni,Bunston,Business,20,United States,Colorado,South Korea,,Bigender,96,10/3/2023,1/26/2024,"$9,482.85 ",air
+733,Paulette,Sargint,Business,21,United States,Texas,South Korea,,Female,13,9/26/2023,11/17/2023,"$10,453.29 ",road
+734,Joly,Kilpatrick,Business,6,United States,Illinois,Hong Kong,,Female,13,1/8/2024,4/20/2023,"$7,240.65 ",air
+735,Vinny,Haton,Business,63,United States,Arkansas,Hong Kong,,Female,76,6/20/2023,9/22/2023,"$9,196.68 ",road
+736,Billye,Widdowson,Business,28,United States,New York,Hong Kong,Faro,Polygender,21,10/15/2023,6/30/2023,"$5,537.26 ",road
+737,Essa,Crowthe,Business,55,United States,California,Tokyo,,Female,98,2/5/2024,11/12/2023,"$7,092.13 ",air
+738,Federica,Bixley,Business,1,United States,Virginia,Singapore,,Agender,44,10/12/2023,6/19/2023,"$7,224.57 ",air
+739,Georgena,Findlater,Business,30,United States,Texas,South Korea,,Female,71,3/28/2023,6/15/2023,"$5,421.27 ",road
+740,Eva,Yitzhak,Business,86,United States,Minnesota,Singapore,,Female,59,8/12/2023,8/24/2023,"$7,358.55 ",air
+741,Julianna,Mahood,Business,5,United States,Virginia,Tokyo,,Polygender,44,9/1/2023,8/11/2023,"$8,153.05 ",air
+742,Porter,Pringle,Business,49,United States,Nebraska,Hong Kong,,Male,30,12/13/2023,7/20/2023,"$10,442.79 ",road
+743,Zorana,Jeffcock,Business,83,United States,New York,Tokyo,Île-de-France,Female,96,4/1/2023,12/6/2023,"$9,645.61 ",air
+744,Sallyann,Zuenelli,Business,52,United States,California,South Korea,,Female,34,1/28/2024,10/16/2023,"$12,778.21 ",air
+745,Kinsley,Grimmett,Business,45,United States,Texas,Singapore,Emilia-Romagna,Male,84,2/28/2024,6/14/2023,"$11,326.05 ",road
+746,Giff,Scadding,Business,96,United States,Texas,Hong Kong,,Male,80,10/29/2023,3/30/2023,"$10,275.83 ",road
+747,Kelley,Nathan,Business,44,United States,New Jersey,Tokyo,Languedoc-Roussillon,Female,42,6/29/2023,8/30/2023,"$8,357.28 ",air
+748,Alonzo,Salaman,Business,35,United States,Washington,South Korea,,Male,15,11/10/2023,3/31/2023,"$8,544.56 ",road
+749,Zerk,Gotobed,Business,70,United States,Iowa,South Korea,,Male,66,1/26/2024,6/9/2023,"$9,753.24 ",road
+750,Whitman,Flounders,Business,8,United States,Tennessee,Singapore,,Bigender,77,3/19/2023,10/28/2023,"$11,217.53 ",air
+751,Ulrick,Sholem,Business,83,United States,North Carolina,South Korea,,Male,22,3/7/2024,12/8/2023,"$11,923.49 ",air
+752,Nicole,Menco,Business,31,United States,Pennsylvania,Hong Kong,,Agender,63,5/27/2023,6/27/2023,"$14,100.90 ",air
+753,Dennison,Doerrling,Business,6,United States,Florida,Tokyo,,Male,46,1/10/2024,8/1/2023,"$12,474.95 ",air
+754,Natasha,Cassel,Business,16,United States,Texas,South Korea,,Female,33,6/27/2023,6/10/2023,"$7,896.14 ",air
+755,Dwain,Odda,Business,57,United States,Kansas,Tokyo,Nova Scotia,Male,8,8/9/2023,8/5/2023,"$6,568.40 ",air
+756,Dalila,Ethington,Business,17,United States,New York,Tokyo,Aveiro,Female,40,2/14/2024,10/23/2023,"$6,451.61 ",air
+757,Winfred,Morten,Business,75,United States,Texas,Singapore,,Male,54,12/2/2023,12/9/2023,"$7,372.79 ",road
+758,Noble,Spadaro,Business,26,United States,Iowa,Tokyo,,Male,70,3/28/2023,9/4/2023,"$12,757.41 ",air
+759,Noam,Spearman,Business,70,United States,Kansas,Tokyo,,Male,47,6/14/2023,12/5/2023,"$6,105.67 ",road
+760,Dian,Stickings,Business,11,United States,New York,South Korea,,Female,45,5/7/2023,10/6/2023,"$10,235.85 ",air
+761,Kin,Larter,Business,68,United States,Louisiana,Hong Kong,,Male,4,5/8/2023,3/15/2024,"$7,020.64 ",air
+762,Saba,Nott,Business,35,United States,Texas,Singapore,,Female,81,3/1/2024,7/16/2023,"$8,284.09 ",air
+763,Gussy,Huggan,Business,19,United States,Oklahoma,Hong Kong,Québec,Female,74,5/1/2023,11/21/2023,"$14,603.98 ",air
+764,Jobie,Conn,Business,85,United States,Idaho,Hong Kong,,Female,18,8/13/2023,1/21/2024,"$5,796.23 ",road
+765,Marcelline,Escale,Business,48,United States,Florida,Singapore,,Female,87,12/10/2023,12/18/2023,"$10,498.13 ",road
+766,Kailey,Bracknall,Business,12,United States,Utah,South Korea,,Genderqueer,56,2/4/2024,11/18/2023,"$5,205.85 ",air
+767,Alyda,Evered,Business,70,United States,Ohio,Tokyo,,Female,14,4/9/2023,4/29/2023,"$14,979.73 ",air
+768,Rowena,Martinson,Business,56,United States,Minnesota,Singapore,,Female,52,2/12/2024,12/21/2023,"$6,219.77 ",road
+769,Enoch,Ruusa,Business,85,United States,District of Columbia,Hong Kong,,Genderqueer,92,5/10/2023,2/20/2024,"$9,073.12 ",road
+770,Lanny,Giercke,Business,16,United States,Iowa,Singapore,,Male,86,12/20/2023,9/11/2023,"$12,530.79 ",air
+771,Northrop,Leger,Business,52,United States,Missouri,Hong Kong,,Male,72,6/14/2023,10/12/2023,"$7,753.32 ",road
+772,Mamie,Gouly,Business,9,United States,Texas,Singapore,,Female,25,6/16/2023,6/10/2023,"$5,221.99 ",road
+773,Filia,Wickendon,Business,87,United States,Ohio,Singapore,,Female,33,12/2/2023,4/14/2023,"$11,795.96 ",road
+774,Burnaby,Hazeldean,Business,58,United States,Kansas,Singapore,,Male,42,9/17/2023,1/4/2024,"$8,559.68 ",road
+775,Rodolphe,Pammenter,Business,95,United States,Texas,Hong Kong,,Male,47,9/16/2023,12/12/2023,"$5,459.72 ",road
+776,Leupold,Pickworth,Business,4,United States,Ohio,Tokyo,,Male,54,8/13/2023,9/15/2023,"$5,820.20 ",air
+777,Grenville,Bourget,Business,79,United States,Oregon,Hong Kong,Castilla - Leon,Male,54,3/11/2024,6/10/2023,"$8,326.57 ",road
+778,Winslow,Beamond,Business,95,United States,South Carolina,South Korea,,Male,84,8/22/2023,6/22/2023,"$9,787.99 ",air
+779,Aindrea,Dibling,Business,59,United States,Georgia,South Korea,,Female,49,8/8/2023,8/31/2023,"$13,132.92 ",road
+780,Florian,Bertelmot,Business,4,United States,Washington,Tokyo,,Male,27,3/23/2023,11/20/2023,"$14,581.15 ",road
+781,Demetris,Cawthorn,Business,92,United States,District of Columbia,Singapore,Setúbal,Male,53,11/4/2023,5/25/2023,"$9,550.89 ",air
+782,Constantino,Ranscome,Business,27,United States,Washington,Tokyo,,Male,68,5/22/2023,3/11/2024,"$8,698.84 ",air
+783,Glenn,Greswell,Business,14,United States,Ohio,South Korea,Madrid,Agender,93,4/21/2023,3/18/2023,"$13,518.67 ",road
+784,Cristobal,Bigadike,Business,47,United States,Oregon,South Korea,,Male,23,5/15/2023,12/12/2023,"$12,286.71 ",road
+785,Jilleen,Garnett,Business,64,United States,South Carolina,South Korea,,Female,100,9/8/2023,3/11/2024,"$14,642.51 ",air
+786,Corissa,Luetkemeyer,Business,45,United States,Washington,South Korea,,Female,8,4/22/2023,6/14/2023,"$11,932.56 ",road
+787,Ethelin,Keigher,Business,59,United States,New Mexico,Hong Kong,,Female,14,5/7/2023,2/2/2024,"$14,011.82 ",air
+788,Jamie,Fedorski,Business,33,United States,Florida,Hong Kong,Gotland,Male,4,11/12/2023,7/31/2023,"$10,404.54 ",road
+789,Ellwood,Mechic,Business,95,United States,Texas,South Korea,,Male,32,1/24/2024,2/27/2024,"$9,569.99 ",air
+790,Jacquelyn,Greir,Business,42,United States,Kansas,Tokyo,,Agender,64,4/22/2023,7/4/2023,"$9,801.94 ",road
+791,Shirl,Rediers,Business,76,United States,Illinois,South Korea,,Female,68,11/6/2023,5/1/2023,"$12,169.55 ",road
+792,Jeanelle,McNea,Business,59,United States,Texas,Singapore,,Female,61,1/19/2024,7/24/2023,"$9,957.28 ",air
+793,John,Janz,Business,60,United States,Virginia,South Korea,,Male,98,6/3/2023,1/21/2024,"$13,675.29 ",road
+794,Fran,Partridge,Business,71,United States,Michigan,South Korea,,Female,74,3/11/2024,4/13/2023,"$12,205.77 ",air
+795,Orland,Jurisch,Business,68,United States,Illinois,Tokyo,Alabama,Male,100,5/3/2023,12/5/2023,"$8,896.18 ",air
+796,Sena,Renhard,Business,53,United States,Texas,Hong Kong,,Genderfluid,95,12/15/2023,6/21/2023,"$9,527.42 ",air
+797,Clemente,Southworth,Business,63,United States,Massachusetts,Tokyo,,Male,94,9/5/2023,9/17/2023,"$12,163.74 ",road
+798,Maynard,Pringley,Business,11,United States,Nebraska,Singapore,,Male,93,1/7/2024,10/17/2023,"$13,743.89 ",road
+799,Redd,O'Currigan,Business,84,United States,New York,South Korea,,Male,79,5/17/2023,11/30/2023,"$6,330.22 ",road
+800,Cosmo,Jahnisch,Business,30,United States,Mississippi,Singapore,,Male,92,4/28/2023,9/19/2023,"$7,171.16 ",road
+801,Linn,Visco,Business,15,United States,Montana,South Korea,,Female,37,7/29/2023,10/3/2023,"$13,819.94 ",road
+802,Gasparo,Stilliard,Business,24,United States,Pennsylvania,Hong Kong,,Male,50,1/16/2024,3/31/2023,"$9,816.36 ",air
+803,Elsinore,Cristofolini,Business,50,United States,Florida,Tokyo,Virginia,Female,82,11/1/2023,8/22/2023,"$8,905.27 ",road
+804,Koral,Hassekl,Business,73,United States,California,Singapore,,Female,98,10/22/2023,3/22/2023,"$5,859.26 ",air
+805,Forbes,Renny,Business,49,United States,Oklahoma,Hong Kong,Florida,Male,66,8/17/2023,4/11/2023,"$5,262.62 ",air
+806,Morgun,Krier,Business,29,United States,Florida,Hong Kong,,Male,74,5/9/2023,9/26/2023,"$7,656.42 ",air
+807,Arne,Meese,Business,98,United States,Kansas,Tokyo,,Male,24,8/10/2023,8/16/2023,"$11,815.35 ",air
+808,Avram,Kagan,Business,27,United States,Tennessee,Singapore,,Genderfluid,40,6/24/2023,5/23/2023,"$9,970.09 ",road
+809,Reynard,Coggan,Business,96,United States,Florida,Singapore,,Male,15,1/22/2024,7/1/2023,"$14,273.97 ",road
+810,Lezley,Franklen,Business,15,United States,Florida,Tokyo,,Male,17,10/21/2023,2/19/2024,"$11,916.76 ",road
+811,Edwina,Koppeck,Business,3,United States,California,Singapore,Stockholm,Female,69,6/17/2023,11/29/2023,"$10,663.72 ",air
+812,Basilius,Shalcras,Business,46,United States,Iowa,South Korea,,Male,21,6/9/2023,11/14/2023,"$9,336.49 ",air
+813,Keeley,Caron,Business,25,United States,Texas,Tokyo,,Female,21,5/22/2023,10/3/2023,"$5,607.86 ",road
+814,Nancie,Ravilus,Business,69,United States,Georgia,Singapore,,Female,68,8/15/2023,10/16/2023,"$7,170.86 ",air
+815,Berny,Flacke,Business,37,United States,Maryland,Hong Kong,,Non-binary,4,12/9/2023,1/14/2024,"$12,589.33 ",air
+816,Brander,Nicholes,Business,85,United States,Wyoming,Singapore,,Male,17,6/5/2023,8/5/2023,"$6,806.49 ",road
+817,Kristoforo,Marians,Business,42,United States,Ohio,Singapore,,Male,77,6/3/2023,10/28/2023,"$11,140.40 ",road
+818,Stormie,Snoday,Business,15,United States,New Jersey,Tokyo,,Female,79,5/17/2023,2/4/2024,"$10,163.94 ",road
+819,Mile,Brasseur,Business,18,United States,Missouri,Tokyo,,Male,65,2/16/2024,1/4/2024,"$8,415.88 ",air
+820,Mitchell,Lyford,Business,8,United States,Oregon,Tokyo,,Male,32,5/17/2023,4/27/2023,"$14,818.36 ",air
+821,Bethany,Caddan,Business,65,United States,Tennessee,Canada,,Female,82,11/2/2023,10/11/2023,"$12,734.59 ",road
+822,Pearla,Playdon,Business,16,United States,Ohio,Panama,Oslo,Female,89,6/30/2023,10/11/2023,"$9,772.30 ",road
+823,Amelie,Wollard,Business,58,United States,Texas,Canada,,Female,91,4/3/2023,4/10/2023,"$5,179.15 ",air
+824,Sandy,Upham,Business,46,United States,Texas,Panama,,Male,26,11/18/2023,3/8/2024,"$13,266.02 ",air
+825,Nilson,McCritchie,Business,61,United States,Florida,Canada,,Male,96,7/3/2023,7/13/2023,"$7,595.44 ",road
+826,Leeland,Amys,Business,57,United States,New York,Mexico,,Male,64,1/7/2024,9/1/2023,"$6,628.86 ",air
+827,Aili,Mattinson,Business,14,United States,New York,Panama,,Female,37,5/8/2023,1/11/2024,"$7,781.88 ",road
+828,Idaline,Matthesius,Business,81,United States,Virginia,Mexico,Québec,Female,67,8/3/2023,6/7/2023,"$14,873.15 ",road
+829,Parry,Coultas,Business,56,United States,District of Columbia,Mexico,,Male,26,9/18/2023,4/24/2023,"$7,340.88 ",road
+830,Clare,Osman,Business,53,United States,Arizona,Canada,,Female,12,9/13/2023,9/5/2023,"$8,238.06 ",road
+831,El,Mickleborough,Business,80,United States,Georgia,Panama,,Male,45,7/20/2023,8/28/2023,"$5,088.06 ",air
+832,Dorothy,Greenier,Business,7,United States,Ohio,Mexico,Auvergne,Female,32,7/29/2023,5/3/2023,"$10,145.18 ",road
+833,Jen,Gonnard,Business,79,United States,Florida,Mexico,,Female,21,8/15/2023,5/16/2023,"$7,105.50 ",road
+834,Barret,Bugge,Business,98,United States,California,Mexico,,Male,87,11/5/2023,3/3/2024,"$12,404.79 ",road
+835,Jayson,Dybbe,Business,41,United States,Kansas,Canada,,Male,10,3/20/2023,12/2/2023,"$12,800.32 ",road
+836,Shayne,Dovington,Business,40,United States,Pennsylvania,Canada,,Male,63,2/23/2024,10/4/2023,"$6,163.75 ",air
+837,Cordelia,Vallis,Business,67,United States,Texas,Costa Rica,,Agender,33,8/24/2023,1/7/2024,"$8,343.16 ",air
+838,Dallas,Proven,Business,41,United States,Wisconsin,Costa Rica,,Male,59,2/12/2024,11/25/2023,"$14,162.11 ",air
+839,Skip,Bingle,Business,57,United States,Virginia,Mexico,Auvergne,Male,16,10/1/2023,9/13/2023,"$6,363.15 ",air
+840,Nial,Kerford,Business,49,United States,Texas,Costa Rica,,Male,34,9/27/2023,1/25/2024,"$5,357.29 ",road
+841,Toni,Brownett,Business,38,United States,Texas,Mexico,Viana do Castelo,Genderqueer,3,5/12/2023,8/30/2023,"$11,930.79 ",air
+842,Verla,Stansall,Business,75,United States,Hawaii,Mexico,,Polygender,71,9/27/2023,11/10/2023,"$8,491.84 ",road
+843,Tandi,Gunderson,Business,55,United States,Kansas,Mexico,,Female,80,9/12/2023,5/27/2023,"$7,379.31 ",air
+844,Leann,Howarth,Business,97,United States,Alabama,Canada,,Female,49,10/5/2023,6/27/2023,"$8,114.30 ",road
+845,Morey,Peery,Business,74,United States,Washington,Mexico,,Male,31,3/9/2024,3/6/2024,"$8,569.43 ",road
+846,Isadora,Ryrie,Business,22,United States,Florida,Mexico,,Female,62,4/24/2023,3/4/2024,"$13,588.01 ",air
+847,Kalvin,McSpirron,Business,34,United States,Pennsylvania,Mexico,,Male,10,2/9/2024,2/1/2024,"$12,470.72 ",air
+848,Natalina,Dymick,Business,64,United States,Louisiana,Canada,,Female,52,10/19/2023,11/7/2023,"$9,027.27 ",road
+849,Jules,Larraway,Business,38,United States,Texas,Mexico,,Male,2,5/14/2023,11/17/2023,"$7,312.34 ",road
+850,Chilton,Kleingrub,Business,50,United States,California,Panama,,Non-binary,76,7/16/2023,6/29/2023,"$5,558.87 ",road
+851,Ninnetta,Couchman,Business,18,United States,California,Mexico,Skåne,Female,91,9/8/2023,1/11/2024,"$10,394.17 ",air
+852,Alfons,Catterson,Business,36,United States,Michigan,Canada,,Male,14,2/17/2024,2/15/2024,"$13,182.79 ",air
+853,Julissa,Piser,Business,80,United States,Florida,Costa Rica,Mexico,Female,2,5/26/2023,12/20/2023,"$7,176.67 ",air
+854,Edwina,Berrycloth,Business,85,United States,Kentucky,Costa Rica,Provincie Flevoland,Female,22,6/24/2023,3/7/2024,"$7,528.61 ",air
+855,Clyve,Dafter,Business,93,United States,Illinois,Canada,,Male,96,8/8/2023,4/5/2023,"$6,485.88 ",air
+856,Bone,Timbridge,Business,23,United States,New Jersey,Mexico,,Male,30,5/25/2023,8/28/2023,"$9,808.30 ",air
+857,Alie,MacAskie,Business,41,United States,New York,Panama,,Female,8,8/11/2023,4/5/2023,"$14,790.10 ",road
+858,Robina,Hazel,Business,40,United States,New York,Costa Rica,,Female,33,6/3/2023,11/26/2023,"$8,667.13 ",air
+859,Birdie,Stutte,Business,97,United States,Florida,Mexico,,Female,34,12/30/2023,4/26/2023,"$5,305.01 ",air
+860,Holt,Bearcock,Business,3,United States,Florida,Canada,,Polygender,9,7/3/2023,3/2/2024,"$10,956.59 ",road
+861,Maible,Rubrow,Business,27,United States,Texas,Canada,,Female,98,9/4/2023,4/9/2023,"$10,364.31 ",air
+862,Agathe,Ramsay,Business,84,United States,New Jersey,Mexico,Stockholm,Female,79,10/4/2023,5/29/2023,"$7,849.28 ",road
+863,Rodolph,Toten,Business,23,United States,Arizona,Costa Rica,,Polygender,87,6/8/2023,10/21/2023,"$6,930.31 ",road
+864,Dag,Vale,Business,64,United States,West Virginia,Costa Rica,,Male,91,2/21/2024,1/19/2024,"$13,980.52 ",air
+865,Libbey,Groven,Business,71,United States,California,Canada,,Female,12,1/31/2024,3/6/2024,"$7,758.23 ",road
+866,Broddy,Weaben,Business,27,United States,California,Mexico,,Male,1,1/20/2024,5/14/2023,"$10,450.60 ",air
+867,Celina,Von Welldun,Business,83,United States,Texas,Mexico,,Female,52,2/5/2024,2/14/2024,"$10,054.28 ",road
+868,Maxie,Riddle,Business,42,United States,District of Columbia,Canada,,Male,91,6/23/2023,11/8/2023,"$13,126.72 ",road
+869,Rona,Carefull,Business,40,United States,Texas,Panama,,Female,52,5/27/2023,12/12/2023,"$7,979.16 ",road
+870,Raleigh,Linfoot,Business,31,United States,Virginia,Mexico,,Male,99,12/16/2023,3/18/2023,"$12,049.62 ",road
+871,Willow,Hildred,Business,35,United States,North Carolina,Mexico,,Female,75,3/29/2023,7/4/2023,"$6,465.90 ",air
+872,Steffane,Ozintsev,Business,44,United States,Texas,Canada,,Female,57,6/1/2023,4/19/2023,"$12,561.72 ",air
+873,Ruddie,Sapp,Business,22,United States,New Mexico,Panama,,Non-binary,42,10/19/2023,3/28/2023,"$9,119.55 ",air
+874,Lamar,Hurl,Business,99,United States,Virginia,Canada,,Male,100,5/4/2023,3/4/2024,"$7,689.86 ",air
+875,Ellyn,McCurtain,Business,85,United States,Colorado,Panama,,Female,65,12/26/2023,6/30/2023,"$11,168.52 ",air
+876,Ardeen,Hurl,Business,69,United States,Ohio,Costa Rica,,Female,96,5/7/2023,3/6/2024,"$11,392.43 ",air
+877,Laryssa,Cauderlie,Business,47,United States,New York,Canada,,Female,42,3/28/2023,4/8/2023,"$12,948.44 ",road
+878,Pollyanna,Gudde,Business,94,United States,Florida,Mexico,,Female,68,12/5/2023,5/14/2023,"$12,827.76 ",road
+879,Agna,McKevin,Business,53,United States,Indiana,Panama,,Female,9,5/7/2023,8/18/2023,"$5,434.58 ",air
+880,Drusie,Meco,Business,80,United States,Virginia,Canada,,Female,75,8/28/2023,2/19/2024,"$11,289.65 ",road
+881,Adrea,Reven,Business,36,United States,Kansas,Mexico,,Female,27,11/4/2023,8/21/2023,"$12,686.93 ",road
+882,Parker,Lyle,Business,98,United States,New York,Panama,,Male,82,2/21/2024,7/29/2023,"$13,552.45 ",air
+883,Fleming,Buckthorp,Business,71,United States,Texas,Mexico,,Male,35,1/22/2024,5/9/2023,"$12,583.15 ",road
+884,Peder,Furman,Business,98,United States,Ohio,Canada,,Non-binary,42,12/5/2023,9/18/2023,"$6,592.01 ",road
+885,Wiatt,Beaney,Business,8,United States,Missouri,Mexico,,Male,38,1/2/2024,7/31/2023,"$13,265.99 ",air
+886,Lorene,Denham,Business,21,United States,California,Mexico,,Female,93,10/31/2023,8/12/2023,"$7,767.63 ",air
+887,Halsey,Ridel,Business,20,United States,Virginia,Panama,,Male,100,12/9/2023,1/16/2024,"$11,415.21 ",air
+888,Lesly,Sellor,Business,68,United States,New York,Mexico,,Female,48,1/3/2024,10/8/2023,"$9,562.61 ",road
+889,Rodina,Sell,Business,16,United States,Arizona,Mexico,,Female,88,9/29/2023,3/17/2024,"$6,003.13 ",road
+890,Debbi,Gommes,Business,67,United States,California,Mexico,,Female,95,7/28/2023,1/10/2024,"$13,822.06 ",road
+891,Sandy,Cantera,Business,24,United States,Virginia,Canada,,Male,93,10/2/2023,12/15/2023,"$5,984.63 ",road
+892,Netta,Broom,Business,77,United States,Florida,Costa Rica,California,Female,63,10/19/2023,1/4/2024,"$12,591.18 ",road
+893,Joanne,Greeno,Business,14,United States,Pennsylvania,Mexico,,Female,77,5/19/2023,2/24/2024,"$8,986.07 ",air
+894,Yehudit,Pavolillo,Business,4,United States,Georgia,Canada,,Male,50,4/11/2023,8/29/2023,"$10,305.72 ",road
+895,Cristionna,Szymczyk,Business,77,United States,California,Panama,Ilha de São Miguel,Female,89,11/17/2023,1/8/2024,"$10,892.21 ",road
+896,Barthel,Lebel,Business,62,United States,Florida,Panama,,Male,2,6/30/2023,6/4/2023,"$5,916.94 ",air
+897,Waly,Elders,Business,23,United States,Connecticut,Panama,,Female,42,4/2/2023,6/4/2023,"$13,098.20 ",road
+898,Federica,Reside,Business,53,United States,Indiana,Costa Rica,,Female,2,6/28/2023,6/9/2023,"$6,841.68 ",air
+899,Rosaleen,Fitzgerald,Business,18,United States,Arkansas,Canada,,Female,21,4/28/2023,8/11/2023,"$11,813.35 ",air
+900,Karolina,Slee,Business,21,United States,Texas,Mexico,,Female,71,10/16/2023,10/24/2023,"$7,420.48 ",air
+901,Emmalyn,Marxsen,Business,27,United States,Missouri,Canada,,Female,47,4/8/2023,12/11/2023,"$13,864.72 ",air
+902,Izabel,Kretchmer,Business,75,United States,Pennsylvania,Mexico,Provincie Noord-Holland,Female,98,11/12/2023,7/20/2023,"$6,890.70 ",air
+903,Domenic,Kloss,Business,28,United States,Texas,Canada,Uppsala,Male,51,6/25/2023,9/28/2023,"$12,983.72 ",road
+904,Benedikta,Mannooch,Business,80,United States,West Virginia,Canada,,Female,85,12/15/2023,12/16/2023,"$14,785.70 ",air
+905,Maryanne,Lishmund,Business,4,United States,Missouri,Canada,,Female,68,2/19/2024,10/9/2023,"$14,846.94 ",air
+906,Napoleon,Cursons,Business,3,United States,Illinois,Panama,,Male,11,9/22/2023,8/11/2023,"$12,523.52 ",road
+907,Kathe,Yapp,Business,4,United States,Ohio,Costa Rica,Västmanland,Female,44,9/10/2023,4/28/2023,"$13,936.62 ",road
+908,Madelina,Haylock,Business,69,United States,Pennsylvania,Mexico,California,Female,50,6/11/2023,12/12/2023,"$7,043.87 ",air
+909,Solly,Hubbis,Business,20,United States,Florida,Mexico,,Male,98,5/14/2023,6/1/2023,"$13,685.74 ",air
+910,Franny,Malbon,Business,65,United States,Connecticut,Canada,,Female,65,2/22/2024,5/5/2023,"$6,152.76 ",road
+911,Batholomew,Dyzart,Business,6,United States,Florida,Panama,,Male,96,10/4/2023,5/18/2023,"$13,142.74 ",air
+912,Brianne,De Domenico,Business,64,United States,California,Costa Rica,,Genderfluid,19,1/23/2024,7/24/2023,"$8,318.14 ",road
+913,Tamara,Barratt,Business,93,United States,Virginia,Mexico,,Non-binary,25,1/20/2024,12/28/2023,"$14,356.63 ",air
+914,Wandis,Jeskins,Business,59,United States,Texas,Costa Rica,,Non-binary,73,4/9/2023,9/13/2023,"$12,129.81 ",road
+915,Mackenzie,Aubry,Business,39,United States,North Carolina,Mexico,,Male,54,5/26/2023,12/18/2023,"$12,482.27 ",air
+916,Jori,Paquet,Business,10,United States,Texas,Mexico,,Female,26,3/14/2024,1/15/2024,"$6,083.66 ",road
+917,Alleyn,Chevolleau,Business,81,United States,Ohio,Costa Rica,,Male,82,11/25/2023,1/11/2024,"$13,783.36 ",road
+918,Devina,Harragin,Business,81,United States,Nebraska,Mexico,,Female,43,4/15/2023,5/21/2023,"$8,103.73 ",air
+919,Fairlie,Krause,Business,84,United States,Colorado,Mexico,,Male,42,7/20/2023,2/22/2024,"$5,084.85 ",road
+920,Martainn,McNirlin,Business,32,United States,New York,Costa Rica,,Male,62,5/3/2023,4/9/2023,"$10,512.39 ",road
+921,Jolie,Balling,Business,55,United States,Florida,Canada,,Female,56,10/30/2023,2/20/2024,"$7,715.29 ",air
+922,Richy,Stooke,Business,78,United States,Texas,Canada,,Male,29,8/12/2023,9/8/2023,"$8,580.45 ",road
+923,Gianna,Blind,Business,67,United States,Florida,Costa Rica,,Female,37,4/3/2023,10/18/2023,"$13,551.15 ",road
+924,Kary,Whitta,Business,35,United States,California,Costa Rica,,Female,48,5/15/2023,1/20/2024,"$6,696.80 ",air
+925,Guthry,Oldfield,Business,86,United States,New York,Mexico,,Male,36,6/18/2023,10/8/2023,"$12,657.54 ",road
+926,Cullen,Shellcross,Business,38,United States,Michigan,Mexico,,Male,86,6/11/2023,8/31/2023,"$9,300.89 ",air
+927,Georgiana,Magrannell,Business,1,United States,Virginia,Canada,,Female,43,12/17/2023,1/16/2024,"$8,618.32 ",road
+928,Whitby,Gooderridge,Business,98,United States,Florida,Costa Rica,,Male,74,10/30/2023,2/8/2024,"$5,210.34 ",road
+929,Urban,Ondrus,Business,12,United States,Oklahoma,Canada,,Male,36,2/9/2024,1/28/2024,"$13,622.52 ",air
+930,Fonsie,Potte,Business,25,United States,New York,Canada,,Male,19,9/26/2023,1/29/2024,"$7,495.04 ",road
+931,Alejandrina,Iwanowski,Business,76,United States,Texas,Costa Rica,Mexico,Female,35,5/8/2023,5/3/2023,"$8,652.25 ",air
+932,Kelsi,Ogle,Business,22,United States,Louisiana,Panama,,Agender,42,3/5/2024,3/13/2024,"$5,563.43 ",road
+933,Barnebas,Sykes,Business,19,United States,California,Costa Rica,,Male,49,9/15/2023,2/12/2024,"$14,179.00 ",road
+934,Isadore,Das,Business,41,United States,Louisiana,Canada,Gävleborg,Male,77,7/1/2023,8/9/2023,"$9,550.50 ",air
+935,My,Floyd,Business,30,United States,New Jersey,Canada,,Male,72,10/23/2023,7/11/2023,"$12,414.23 ",air
+936,Kandy,O' Clovan,Business,64,United States,Kansas,Mexico,Franche-Comté,Female,94,2/24/2024,6/11/2023,"$11,127.69 ",air
+937,Sapphire,Marquess,Business,94,United States,Oklahoma,Mexico,,Female,38,12/19/2023,12/24/2023,"$13,064.90 ",road
+938,Thebault,Ciccerale,Business,54,United States,Virginia,Canada,,Male,16,1/23/2024,11/10/2023,"$14,666.34 ",air
+939,Alanson,Leyzell,Business,56,United States,Virginia,Mexico,Veracruz Llave,Male,37,5/30/2023,2/15/2024,"$9,691.17 ",road
+940,Ber,O'Duggan,Business,93,United States,Virginia,Mexico,Hamburg,Male,71,12/21/2023,6/5/2023,"$6,687.47 ",road
+941,Holly,Cottom,Business,13,United States,Washington,Mexico,,Female,85,2/10/2024,5/12/2023,"$7,603.83 ",air
+942,Nicol,Beauchamp,Business,74,United States,Missouri,Canada,,Polygender,20,2/2/2024,7/16/2023,"$10,063.26 ",air
+943,Spenser,Shillingford,Business,18,United States,Pennsylvania,Mexico,,Male,56,3/17/2024,12/12/2023,"$8,040.50 ",air
+944,Devan,Luton,Business,29,United States,New York,Mexico,Île-de-France,Female,59,11/2/2023,10/13/2023,"$11,605.22 ",air
+945,Mada,Winyard,Business,62,United States,Florida,Canada,,Female,52,2/11/2024,8/23/2023,"$12,937.42 ",road
+946,Courtnay,Ainslee,Business,11,United States,Pennsylvania,Canada,,Female,40,7/19/2023,12/5/2023,"$10,274.42 ",air
+947,Christian,Fitchen,Business,65,United States,Indiana,Mexico,,Male,14,10/10/2023,6/11/2023,"$7,808.22 ",air
+948,Gottfried,Spadari,Business,94,United States,Georgia,Panama,Halland,Male,49,11/24/2023,8/25/2023,"$11,272.20 ",air
+949,Eloisa,MacGinley,Business,35,United States,Florida,Canada,,Genderqueer,63,6/16/2023,7/31/2023,"$9,577.43 ",road
+950,Gaylene,Lightwood,Business,67,United States,California,Mexico,,Genderqueer,41,8/11/2023,12/18/2023,"$12,967.20 ",road
+951,Alicea,Rayhill,Business,20,United States,North Carolina,Canada,Madrid,Female,78,11/12/2023,3/12/2024,"$7,872.37 ",air
+952,Sibyl,Shawe,Business,64,United States,Florida,Costa Rica,,Female,74,5/22/2023,12/25/2023,"$6,848.67 ",air
+953,Carlie,Ewers,Business,20,United States,Pennsylvania,Canada,,Male,92,10/21/2023,6/9/2023,"$5,295.17 ",air
+954,Veronike,Glover,Business,92,United States,Texas,Costa Rica,,Female,81,10/19/2023,9/19/2023,"$7,716.52 ",road
+955,Amity,Girt,Business,30,United States,Illinois,Mexico,,Non-binary,28,3/10/2024,2/28/2024,"$7,032.10 ",air
+956,Pace,Kinnear,Business,85,United States,District of Columbia,Canada,,Male,100,10/3/2023,6/3/2023,"$11,031.78 ",air
+957,Waylen,Dioniso,Business,45,United States,Texas,Canada,,Male,38,8/18/2023,8/15/2023,"$11,369.22 ",air
+958,Fidelio,Olivari,Business,12,United States,Illinois,Canada,,Male,35,2/29/2024,12/18/2023,"$11,044.57 ",road
+959,Hayes,Haylett,Business,90,United States,New York,Mexico,Bretagne,Male,19,12/24/2023,6/12/2023,"$12,973.87 ",road
+960,Alphard,Laurent,Business,47,United States,Tennessee,Canada,,Male,2,7/8/2023,7/7/2023,"$12,822.06 ",road
+961,Damien,How,Business,71,United States,Mississippi,Mexico,Stockholm,Male,35,6/22/2023,3/12/2024,"$11,375.22 ",road
+962,Jason,Vials,Business,56,United States,Texas,Panama,,Male,32,12/11/2023,7/27/2023,"$6,183.97 ",road
+963,Hinda,Dumbare,Business,30,United States,Missouri,Canada,,Female,61,7/31/2023,5/25/2023,"$9,210.94 ",air
+964,Leopold,Chatburn,Business,83,United States,California,Panama,,Male,90,4/24/2023,12/4/2023,"$14,351.89 ",air
+965,Ly,Jarrett,Business,15,United States,North Carolina,Canada,,Bigender,73,9/22/2023,4/18/2023,"$7,160.64 ",air
+966,Vivyan,Kirstein,Business,26,United States,California,Mexico,Aveiro,Female,99,10/10/2023,5/30/2023,"$12,155.47 ",air
+967,Asa,Ladyman,Business,26,United States,Kansas,Mexico,,Male,51,10/29/2023,6/14/2023,"$8,704.28 ",road
+968,King,Gutridge,Business,55,United States,Colorado,Canada,,Male,33,12/7/2023,7/6/2023,"$5,623.57 ",road
+969,Aida,Petruskevich,Business,80,United States,Virginia,Panama,,Female,31,10/5/2023,5/16/2023,"$9,217.66 ",road
+970,Ethelred,O'Hear,Business,36,United States,Colorado,Panama,,Male,1,12/23/2023,8/23/2023,"$11,768.74 ",road
+971,Ivar,Heyworth,Business,35,United States,Virginia,Mexico,,Genderqueer,14,1/11/2024,6/13/2023,"$14,127.89 ",road
+972,Bobbye,Ivanishin,Business,49,United States,South Dakota,Mexico,,Female,99,2/13/2024,2/19/2024,"$13,877.11 ",road
+973,Magnum,Thurstan,Business,76,United States,District of Columbia,Costa Rica,,Male,8,3/13/2024,6/23/2023,"$13,466.97 ",road
+974,Jeana,Deinhardt,Business,37,United States,Alaska,Mexico,,Female,30,3/6/2024,10/19/2023,"$12,380.44 ",road
+975,Ashlan,Kennermann,Business,86,United States,California,Canada,,Female,98,4/25/2023,11/4/2023,"$7,400.67 ",air
+976,Audrie,Shakshaft,Business,54,United States,New York,Canada,,Female,81,9/30/2023,3/28/2023,"$14,891.97 ",road
+977,Jarrid,Apted,Business,59,United States,Iowa,Mexico,,Male,76,2/13/2024,8/15/2023,"$8,764.58 ",road
+978,Suzanne,Jagiela,Business,56,United States,Texas,Canada,,Female,67,9/11/2023,4/29/2023,"$13,296.62 ",road
+979,Milissent,Poyntz,Business,23,United States,California,Canada,Stockholm,Female,27,11/18/2023,5/18/2023,"$9,115.38 ",road
+980,Brynn,Nield,Business,74,United States,North Carolina,Mexico,,Female,74,7/28/2023,5/5/2023,"$14,781.02 ",air
+981,Annetta,Stoop,Business,15,United States,Missouri,Panama,,Female,78,11/21/2023,3/29/2023,"$9,988.05 ",air
+982,Dario,Cowwell,Business,74,United States,Florida,Panama,Västmanland,Male,87,9/27/2023,5/19/2023,"$6,807.99 ",air
+983,Dorise,Giovannacci,Business,29,United States,Texas,Mexico,,Female,61,11/26/2023,12/5/2023,"$10,382.93 ",road
+984,Berget,Goode,Business,12,United States,North Dakota,Costa Rica,,Female,36,3/23/2023,1/21/2024,"$8,933.78 ",road
+985,Bartholomew,Ensor,Business,37,United States,California,Canada,Veracruz Llave,Male,25,3/31/2023,11/23/2023,"$11,379.92 ",road
+986,Merrile,Hugnet,Business,35,United States,New Mexico,Panama,,Female,89,11/2/2023,7/15/2023,"$5,759.11 ",air
+987,Nick,Veillard,Business,82,United States,California,Mexico,,Male,29,7/12/2023,11/14/2023,"$10,715.07 ",air
+988,Bert,Scapelhorn,Business,5,United States,Florida,Costa Rica,,Agender,67,5/4/2023,6/1/2023,"$10,112.89 ",road
+989,Deck,Manhare,Business,83,United States,Indiana,Panama,,Male,62,5/15/2023,1/9/2024,"$14,236.75 ",road
+990,Myrilla,Campaigne,Business,71,United States,Indiana,Canada,,Female,10,4/6/2023,11/20/2023,"$5,944.89 ",road

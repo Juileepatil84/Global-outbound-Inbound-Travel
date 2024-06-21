@@ -1,0 +1,501 @@
+id,first_name,last_name,visa_type,passport_number,nationality,state,destination country,destination state,gender,age,entry date,degree_type,major,exit date,institution,estimated expenses,start_date,end_date,transportion mode
+1,Courtenay,Belsham,Student,8769041273,India,Gujarat,United States,Louisiana,F,18,8/5/2023,Bachelor's,Psychology,12/22/2023,New Mexico State University,$20777.83,1/8/2023,12/23/2024,air
+2,Sibella,Di Gregorio,Student,4142172652,India,Uttar Pradesh,United States,Texas,F,22,8/9/2023,Master's,Business Administration,7/5/2023,Evangel University,$16455.36,1/12/2023,3/21/2024,air
+3,Gelya,Brislan,Student,6866085142,India,Uttar Pradesh,United States,Texas,F,34,9/4/2023,Master's,Psychology,2/5/2023,United States Merchant Marine Academy,$20594.42,1/22/2023,5/8/2025,air
+4,Tirrell,Strother,Student,2352194663,India,Gujarat,United States,Georgia,M,30,8/20/2023,Master's,Business Administration,1/13/2023,California School of Professional Psychology - Los Angels,$17100.93,1/30/2023,9/2/2024,air
+5,Karee,Holdworth,Student,9596602932,India,Andhra Pradesh,United States,New Jersey,F,23,9/11/2023,Master's,Business Administration,10/31/2023,Angelo State University,$20022.91,1/3/2023,5/7/2025,air
+6,Fayre,McGinney,Student,2777196889,India,Uttar Pradesh,United States,Maryland,F,35,8/6/2023,Bachelor's,Computer Science,5/27/2023,Central College,$21480.99,1/16/2023,9/1/2024,air
+7,Dari,Edlyn,Student,9708268868,India,Uttar Pradesh,United States,Virginia,F,28,8/29/2023,Master's,Business Administration,3/9/2024,United States Military Academy,$14907.40,1/27/2023,4/24/2024,air
+8,Carolee,Stollberg,Student,6597390229,India,Uttar Pradesh,United States,Arkansas,F,30,9/12/2023,Bachelor's,Computer Science,6/18/2024,"St. Francis College, Loretto",$21904.43,1/14/2023,1/19/2024,air
+9,Kattie,Gentil,Student,3217351589,India,Andhra Pradesh,United States,Minnesota,F,25,8/8/2023,Master's,Computer Science,4/26/2024,Northwest College of Art,$14157.48,1/17/2023,2/6/2025,air
+10,De witt,Philippard,Student,3245907135,India,Uttar Pradesh,United States,New York,M,26,8/3/2023,Master's,Psychology,3/28/2023,State University of New York at Oswego,$15925.04,1/29/2023,5/8/2024,air
+11,Pearce,McCosh,Student,5607896213,India,Andhra Pradesh,United States,North Carolina,M,25,8/28/2023,Master's,Computer Science,2/18/2025,Spertus Institute of Jewish Studies,$14838.39,1/5/2023,2/24/2025,air
+12,Darcy,Vanyard,Student,7424435810,India,Uttar Pradesh,United States,Florida,F,33,8/10/2023,Master's,Business Administration,11/12/2023,Calvin College,$15462.60,1/5/2023,7/5/2024,air
+13,Amalee,Jury,Student,6873420448,India,Gujarat,United States,California,F,22,8/10/2023,Master's,Business Administration,8/11/2023,Lipscomb University,$14601.34,1/1/2023,5/25/2025,air
+14,Hildegarde,Maha,Student,7301104188,India,Andhra Pradesh,United States,District of Columbia,F,24,8/19/2023,Master's,Business Administration,1/9/2025,"Davenport College of Business, Kalamazoo",$13757.69,1/25/2023,9/24/2024,air
+15,Analiese,De Miranda,Student,8828204950,India,Gujarat,United States,Texas,F,26,8/21/2023,Master's,Business Administration,4/9/2025,Grove City College,$14349.26,1/9/2023,9/22/2024,air
+16,Murray,Narey,Student,2809366524,India,Gujarat,United States,Alabama,M,27,8/2/2023,Master's,Computer Science,11/6/2024,"California State University, Fullerton",$13881.70,1/21/2023,1/15/2025,air
+17,Laurens,Lacroutz,Student,9399218159,India,Andhra Pradesh,United States,Michigan,M,30,8/30/2023,Bachelor's,Business Administration,5/27/2024,Trident University,$23613.10,1/18/2023,1/28/2025,air
+18,Agnella,Leggan,Student,3813141087,India,Andhra Pradesh,United States,Colorado,F,21,8/27/2023,Bachelor's,Business Administration,1/26/2023,"Davenport College of Business, Lansing",$24008.87,1/2/2023,2/5/2025,air
+19,Brena,Zambon,Student,9474472888,India,Andhra Pradesh,United States,Texas,F,32,9/5/2023,Master's,Computer Science,8/19/2024,University of Tennessee - Chattanooga,$15628.19,1/30/2023,2/11/2025,air
+20,Demetris,Apted,Student,2727673510,India,Andhra Pradesh,United States,Alabama,M,34,8/14/2023,Master's,Psychology,9/14/2023,New England Institute of Technology,$20979.79,1/15/2023,1/30/2025,air
+21,Tann,Bahia,Student,4669888158,India,Gujarat,United States,Illinois,M,27,8/4/2023,Bachelor's,Computer Science,8/9/2024,Ohio State University - Newark,$13253.77,1/8/2023,4/1/2025,air
+22,Klarrisa,Kinsey,Student,3466800721,India,Andhra Pradesh,United States,Louisiana,F,31,9/9/2023,Master's,Computer Science,4/27/2025,Hood College,$10188.05,1/4/2023,2/4/2024,air
+23,Marcelia,World,Student,6538385078,India,Uttar Pradesh,United States,Nevada,F,28,8/25/2023,Bachelor's,Computer Science,8/17/2023,Delta International University,$23348.66,1/21/2023,7/3/2024,air
+24,Tamarra,Pedrick,Student,8457215521,India,Uttar Pradesh,United States,Louisiana,F,27,9/3/2023,Master's,Computer Science,3/29/2023,Louisiana State University at Eunice,$16844.00,1/12/2023,1/14/2024,air
+25,Angie,Pallesen,Student,8307299575,India,Andhra Pradesh,United States,Georgia,F,23,8/31/2023,Master's,Business Administration,4/18/2024,University of Vermont,$11648.75,1/25/2023,11/12/2024,air
+26,Walther,Flemmich,Student,4007781512,India,Uttar Pradesh,United States,District of Columbia,M,27,8/27/2023,Master's,Computer Science,3/7/2023,Harrington Institute of Interior Design,$24745.16,1/30/2023,5/15/2024,air
+27,Lucila,Lambden,Student,6936597321,India,Andhra Pradesh,United States,Illinois,F,19,8/28/2023,Master's,Psychology,2/14/2024,Ouachita Baptist University,$17978.38,1/24/2023,5/6/2024,air
+28,Newton,Bilbrooke,Student,6395916331,India,Andhra Pradesh,United States,Texas,M,18,9/5/2023,Master's,Business Administration,6/7/2023,Hardin-Simmons University,$18925.93,1/13/2023,3/13/2025,air
+29,Meade,Jirasek,Student,5426786177,India,Uttar Pradesh,United States,Missouri,F,25,8/21/2023,Master's,Business Administration,9/17/2024,Hesser College,$18541.72,1/22/2023,12/7/2024,air
+30,Anastasie,Pringley,Student,3268344178,India,Uttar Pradesh,United States,Texas,F,34,8/5/2023,Master's,Business Administration,12/9/2023,Free University (Virginia Theological University),$23380.17,1/7/2023,3/27/2024,air
+31,Zorine,Maffioletti,Student,9766417077,India,Uttar Pradesh,United States,Indiana,F,33,8/10/2023,Master's,Computer Science,6/7/2024,Rhode Island College,$23363.82,1/21/2023,1/2/2024,air
+32,Garrick,Garvan,Student,8798791012,India,Gujarat,United States,Florida,M,25,8/21/2023,Master's,Computer Science,1/13/2024,Carroll College Helena,$11073.94,1/1/2023,8/17/2024,air
+33,Derward,Cursons,Student,8509095269,India,Gujarat,United States,Washington,M,30,8/3/2023,Master's,Psychology,1/4/2025,Illinois College of Optometry,$23348.37,1/21/2023,1/15/2025,air
+34,Lissi,Cordeiro,Student,6809465551,India,Andhra Pradesh,United States,Michigan,F,26,8/22/2023,Bachelor's,Computer Science,3/23/2025,Western Washington University,$12665.82,1/23/2023,1/30/2024,air
+35,Margo,Pouck,Student,5825430630,India,Andhra Pradesh,United States,California,F,19,9/10/2023,Master's,Computer Science,12/30/2024,Gwynedd-Mercy College,$18033.04,1/27/2023,1/1/2025,air
+36,Jock,Wawer,Student,2071052973,India,Andhra Pradesh,United States,Florida,M,26,8/6/2023,Bachelor's,Computer Science,2/18/2024,Ohio Valley College,$14680.69,1/29/2023,1/27/2024,air
+37,Thornton,Orneblow,Student,7342841962,India,Andhra Pradesh,United States,Oregon,M,26,8/16/2023,Bachelor's,Computer Science,4/6/2025,"University of Washington, Tacoma",$11283.59,1/12/2023,5/17/2024,air
+38,Barris,Wyre,Student,8544638750,India,Andhra Pradesh,United States,Georgia,M,20,8/2/2023,Master's,Computer Science,1/7/2023,Clearwater Christian College,$10205.37,1/17/2023,5/14/2024,air
+39,Thomasina,Magrannell,Student,6789495893,India,Andhra Pradesh,United States,New Jersey,F,31,9/12/2023,Master's,Business Administration,11/15/2024,Thomas College Maine,$19039.72,1/23/2023,9/16/2024,air
+40,Rollie,Woakes,Student,8853505617,India,Uttar Pradesh,United States,Maryland,M,20,8/24/2023,Bachelor's,Computer Science,12/29/2024,Eastern Illinois University,$21678.32,1/23/2023,3/5/2024,air
+41,Corinna,Shotbolt,Student,6648071377,India,Uttar Pradesh,United States,North Carolina,F,18,8/20/2023,Master's,Business Administration,12/25/2023,University of Connecticut at Avery Point,$11845.00,1/8/2023,3/16/2025,air
+42,Cassie,Hawney,Student,5387286322,India,Uttar Pradesh,United States,District of Columbia,F,34,8/6/2023,Master's,Computer Science,4/5/2023,Sinte Gleska University,$11390.54,1/26/2023,3/8/2024,air
+43,Aldridge,Axleby,Student,7747464996,India,Andhra Pradesh,United States,Florida,M,21,8/30/2023,Master's,Psychology,10/23/2024,Lake Superior State University,$18917.91,1/18/2023,9/14/2024,air
+44,Vittorio,Foulkes,Student,9828033475,India,Gujarat,United States,Arizona,M,18,8/30/2023,Bachelor's,Business Administration,7/7/2023,University of Texas Health Center at Tyler,$11698.27,1/1/2023,5/17/2025,air
+45,Bernette,Lanbertoni,Student,8286437501,India,Andhra Pradesh,United States,Illinois,F,21,9/3/2023,Master's,Computer Science,9/11/2024,Trinity University,$15494.60,1/10/2023,6/25/2024,air
+46,Tony,Vickors,Student,8191599502,India,Uttar Pradesh,United States,Michigan,F,28,8/9/2023,Master's,Computer Science,11/10/2023,Providence College,$24209.78,1/10/2023,1/23/2025,air
+47,Grayce,Hesse,Student,6299445405,India,Andhra Pradesh,United States,Illinois,F,20,8/7/2023,Master's,Business Administration,1/30/2025,Reformed Bible College,$24678.04,1/8/2023,7/18/2024,air
+48,Moritz,Coupland,Student,6490184939,India,Andhra Pradesh,United States,Texas,M,18,8/19/2023,Master's,Business Administration,1/14/2025,Eckerd College,$20789.50,1/19/2023,3/7/2024,air
+49,Alene,Deble,Student,7071598507,India,Uttar Pradesh,United States,Washington,F,29,8/13/2023,Master's,Computer Science,8/18/2023,Wichita State University,$11940.31,1/10/2023,7/7/2024,air
+50,Skip,Deneve,Student,8147157559,India,Andhra Pradesh,United States,Colorado,M,29,9/6/2023,Bachelor's,Computer Science,6/5/2024,New York College of Podiatric Medicine,$24635.27,1/3/2023,5/15/2024,air
+51,Toby,Gaudin,Student,5698969692,India,Andhra Pradesh,United States,Florida,M,26,9/8/2023,Bachelor's,Computer Science,1/17/2024,Rhode Island School of Design,$24384.92,1/6/2023,2/19/2024,air
+52,Delilah,Tarbath,Student,2183942145,India,Uttar Pradesh,United States,Michigan,F,30,8/8/2023,Master's,Business Administration,3/23/2023,American InterContinental University - Georgia,$13333.95,1/17/2023,2/12/2025,air
+53,Lyndy,Skellon,Student,9981103903,India,Gujarat,United States,Florida,F,23,8/27/2023,Master's,Computer Science,11/26/2024,Sheldon Jackson College,$12417.04,1/26/2023,5/27/2025,air
+54,Stefania,Ridolfi,Student,7750635378,India,Andhra Pradesh,United States,Texas,F,29,8/31/2023,Master's,Computer Science,3/9/2025,University of Central Arkansas,$15527.88,1/22/2023,3/24/2024,air
+55,Vanya,Power,Student,8929490309,India,Uttar Pradesh,United States,Tennessee,M,30,8/5/2023,Master's,Computer Science,4/30/2024,Gonzaga University,$10888.32,1/2/2023,2/10/2024,air
+56,Maddi,McPharlain,Student,3744717319,India,Uttar Pradesh,United States,Illinois,F,18,8/25/2023,Master's,Computer Science,4/20/2024,Pace University,$16893.66,1/9/2023,6/3/2024,air
+57,Ellie,Adshede,Student,6694270073,India,Uttar Pradesh,United States,California,F,32,9/9/2023,Master's,Computer Science,1/10/2024,Evangel University,$19704.22,1/15/2023,8/19/2024,air
+58,Fayette,Sharer,Student,4900885096,India,Andhra Pradesh,United States,Colorado,F,32,8/27/2023,Master's,Business Administration,6/5/2023,Webber College,$13454.42,1/30/2023,4/21/2024,air
+59,Petr,Howey,Student,8182243699,India,Uttar Pradesh,United States,Colorado,M,26,9/11/2023,Master's,Business Administration,9/11/2024,College of Notre Dame,$13269.06,1/29/2023,4/12/2025,air
+60,Katey,Ponsford,Student,2623088991,India,Gujarat,United States,Connecticut,F,30,8/22/2023,Master's,Computer Science,5/8/2023,College of St. Elizabeth,$23458.50,1/10/2023,10/27/2024,air
+61,Deloria,Wraith,Student,7115566646,India,Andhra Pradesh,United States,Virginia,F,30,8/21/2023,Master's,Psychology,5/30/2023,Alderson Broaddus College,$20056.97,1/30/2023,7/20/2024,air
+62,Inger,Kovacs,Student,5038822375,India,Uttar Pradesh,United States,Connecticut,F,28,8/1/2023,Master's,Computer Science,12/29/2024,National Technological University,$11008.19,1/24/2023,12/9/2024,air
+63,Ancell,Mumberson,Student,1563326122,India,Andhra Pradesh,United States,Texas,M,29,8/4/2023,Master's,Computer Science,4/15/2024,College Misericordia,$15707.71,1/27/2023,11/24/2024,air
+64,Colleen,McFadyen,Student,7542222184,India,Gujarat,United States,New York,F,30,9/1/2023,Bachelor's,Computer Science,1/12/2024,Northwestern College Iowa,$22905.01,1/13/2023,3/24/2024,air
+65,Roger,De Malchar,Student,8964197984,India,Gujarat,United States,New Jersey,M,21,9/6/2023,Master's,Business Administration,8/25/2024,Indiana University-Purdue University at Indianapolis,$24831.96,1/9/2023,11/27/2024,air
+66,Linda,Varran,Student,9365241415,India,Uttar Pradesh,United States,California,F,32,9/8/2023,Master's,Computer Science,11/11/2024,"California State University, Monterey Bay",$14352.25,1/10/2023,12/14/2024,air
+67,Giacomo,Bootherstone,Student,1938436487,India,Uttar Pradesh,United States,Georgia,M,22,8/10/2023,Master's,Computer Science,6/16/2023,Brooklyn Law School,$14152.61,1/25/2023,12/23/2023,air
+68,Sanderson,Pitone,Student,6405358587,India,Uttar Pradesh,United States,Texas,M,26,8/25/2023,Master's,Psychology,10/11/2023,Bryant University,$18114.50,1/17/2023,3/2/2025,air
+69,Allyce,Ducker,Student,2647402552,India,Uttar Pradesh,United States,Iowa,F,22,8/4/2023,Master's,Psychology,8/9/2024,International Academy of  Merchandising and Design Chicago,$12449.13,1/10/2023,1/31/2024,air
+70,Benjamin,McCritchie,Student,6964001418,India,Andhra Pradesh,United States,Pennsylvania,M,32,8/24/2023,Master's,Business Administration,8/25/2024,Salve Regina University,$10480.13,1/6/2023,8/18/2024,air
+71,Sonja,Tindley,Student,4770567138,India,Uttar Pradesh,United States,Tennessee,F,34,8/20/2023,Bachelor's,Business Administration,12/10/2024,College of St. Benedict and St. John's University,$21351.50,1/10/2023,11/9/2024,air
+72,Dennie,O' Dornan,Student,6147816671,India,Uttar Pradesh,United States,Georgia,F,23,8/22/2023,Master's,Business Administration,2/25/2023,University of Sioux Falls,$23850.62,1/2/2023,12/1/2024,air
+73,Coreen,Code,Student,8373353938,India,Uttar Pradesh,United States,California,F,34,8/20/2023,Master's,Computer Science,6/23/2023,Colorado Technical University,$18496.18,1/14/2023,11/29/2024,air
+74,Dmitri,Order,Student,3683621899,India,Andhra Pradesh,United States,Alabama,M,32,8/24/2023,Master's,Computer Science,1/8/2023,The Cooper Union for the Advancement of Science and Art,$22957.98,1/1/2023,5/9/2024,air
+75,Zola,Moggach,Student,6092755899,India,Uttar Pradesh,United States,New Jersey,F,20,8/15/2023,Master's,Business Administration,2/17/2025,San Francisco Art Institute,$10581.83,1/28/2023,11/7/2024,air
+76,Tucky,McBeath,Student,9253384069,India,Andhra Pradesh,United States,California,M,30,8/26/2023,Bachelor's,Computer Science,1/4/2024,Colby College,$18878.19,1/22/2023,2/13/2024,air
+77,Prinz,Nijs,Student,2241673660,India,Gujarat,United States,Washington,M,32,8/30/2023,Bachelor's,Computer Science,9/8/2024,Wofford College,$21007.58,1/1/2023,1/19/2024,air
+78,Paulita,Flott,Student,9363319467,India,Gujarat,United States,Florida,F,25,8/18/2023,Master's,Business Administration,2/15/2023,Lake Forest Graduate School of Management,$15484.70,1/3/2023,6/12/2024,air
+79,Odelia,Browse,Student,4456231816,India,Gujarat,United States,Kentucky,F,26,9/14/2023,Master's,Computer Science,4/23/2024,Fielding Institute,$21692.63,1/21/2023,7/22/2024,air
+80,Gladys,De Meyer,Student,1770859532,India,Uttar Pradesh,United States,California,F,23,8/4/2023,Bachelor's,Psychology,11/12/2024,University of Great Falls,$23961.79,1/16/2023,1/24/2024,air
+81,Garnette,Goodley,Student,6582276985,India,Uttar Pradesh,United States,California,F,33,8/16/2023,Master's,Computer Science,5/22/2023,Talladega College,$14617.63,1/26/2023,1/22/2024,air
+82,Lois,Swindlehurst,Student,9359285612,India,Andhra Pradesh,United States,Texas,F,26,9/14/2023,Bachelor's,Business Administration,4/7/2023,"National American University, Kansas City",$22236.75,1/9/2023,1/21/2024,air
+83,Annissa,Fenne,Student,4459707442,India,Gujarat,United States,New York,F,25,8/31/2023,Master's,Computer Science,3/28/2023,University of Michigan - Flint,$14109.49,1/28/2023,7/25/2024,air
+84,Sybille,Grahlman,Student,5009050162,India,Gujarat,United States,Florida,F,30,8/19/2023,Master's,Computer Science,5/11/2023,Air Force Institute of Technology,$11215.88,1/5/2023,6/21/2024,air
+85,Hana,Leishman,Student,2478627880,India,Andhra Pradesh,United States,Ohio,F,25,8/14/2023,Master's,Psychology,1/10/2024,The Master's College,$17307.52,1/24/2023,2/21/2024,air
+86,Pepi,Decort,Student,1950228775,India,Andhra Pradesh,United States,Nebraska,F,18,8/28/2023,Bachelor's,Business Administration,12/10/2024,The College of Westchester,$16899.64,1/16/2023,10/22/2024,air
+87,Paxton,Kirley,Student,1233077803,India,Gujarat,United States,Virginia,M,31,8/30/2023,Master's,Psychology,12/2/2023,Bard Graduate Center for Studies in the Decorative Arts,$13104.88,1/26/2023,12/7/2024,air
+88,Kizzie,Regorz,Student,6964820593,India,Andhra Pradesh,United States,Maryland,F,32,9/8/2023,Bachelor's,Business Administration,3/28/2023,California School of Professional Psychology - San Diego,$17694.78,1/24/2023,11/28/2024,air
+89,Frederico,Turbill,Student,1476350267,India,Gujarat,United States,North Dakota,M,25,9/11/2023,Master's,Computer Science,6/26/2023,Montreat College,$21650.74,1/6/2023,2/27/2025,air
+90,Kingsly,Bleckly,Student,5979867726,India,Gujarat,United States,Texas,M,21,8/9/2023,Bachelor's,Business Administration,4/1/2025,University of Rio Grande,$21295.70,1/14/2023,3/4/2024,air
+91,Quinn,Wavell,Student,5422387906,India,Andhra Pradesh,United States,Texas,F,28,8/15/2023,Master's,Computer Science,3/1/2023,Ball State University,$15312.74,1/2/2023,6/9/2024,air
+92,Isador,Burle,Student,4646437306,India,Uttar Pradesh,United States,New York,M,29,9/8/2023,Master's,Computer Science,3/20/2023,Texas A&M University - Corpus Christi,$12122.98,1/17/2023,4/20/2025,air
+93,Corty,Galfour,Student,2990752094,India,Andhra Pradesh,United States,Kentucky,M,34,8/21/2023,Bachelor's,Computer Science,7/31/2023,John Paul the Great Catholic University,$21154.50,1/23/2023,1/23/2024,air
+94,Pietra,Burkart,Student,7050723504,India,Uttar Pradesh,United States,District of Columbia,F,22,9/9/2023,Bachelor's,Psychology,5/15/2023,Rosemont College,$24041.32,1/6/2023,1/6/2025,air
+95,Brandise,McCaughren,Student,8439715569,India,Uttar Pradesh,United States,California,F,25,8/29/2023,Master's,Business Administration,6/3/2024,"City University of New York, John Jay College of Criminal Justice",$10525.99,1/2/2023,7/28/2024,air
+96,Berkeley,Gissing,Student,4679091481,India,Uttar Pradesh,United States,Illinois,M,29,8/9/2023,Master's,Computer Science,8/24/2024,"Taylor University, Fort Wayne Campus",$15046.09,1/12/2023,9/16/2024,air
+97,Leontine,Oty,Student,4194785160,India,Uttar Pradesh,United States,Delaware,F,29,8/24/2023,Master's,Business Administration,8/23/2023,Stanford University,$21876.39,1/8/2023,5/22/2024,air
+98,Zeke,Mennell,Student,3306773227,India,Uttar Pradesh,United States,Alaska,M,34,9/11/2023,Master's,Computer Science,6/25/2024,Lee University,$23154.97,1/15/2023,8/1/2024,air
+99,Darlleen,MacCague,Student,9728353895,India,Andhra Pradesh,United States,Texas,F,19,8/26/2023,Master's,Psychology,9/4/2023,College of Mount St. Joseph,$24959.20,1/21/2023,7/15/2024,air
+100,Roseline,Wolfendale,Student,8540155191,India,Uttar Pradesh,United States,Pennsylvania,F,34,8/25/2023,Bachelor's,Psychology,12/10/2024,Manhattan Christian College,$11792.88,1/3/2023,12/13/2024,air
+101,Ari,Sorsbie,Student,7032497573,India,Gujarat,United States,California,M,30,9/6/2023,Master's,Business Administration,10/25/2024,Northeastern Ohio University College of Medicine,$23765.89,1/7/2023,8/3/2024,air
+102,Mitch,Lothlorien,Student,2203464830,India,Andhra Pradesh,United States,California,M,28,9/11/2023,Bachelor's,Computer Science,12/30/2023,"Florida Metropolitan University, Tampa College Lakeland",$22506.32,1/15/2023,2/25/2025,air
+103,Timothy,Bernier,Student,7380771551,India,Gujarat,United States,New Mexico,M,35,9/9/2023,Bachelor's,Computer Science,4/19/2025,University of South Carolina - Aiken,$15616.64,1/13/2023,5/22/2025,air
+104,Moss,Gunton,Student,1567778752,India,Gujarat,United States,Virginia,M,28,8/9/2023,Master's,Psychology,1/31/2024,Cleveland Institute of Art,$16068.79,1/28/2023,7/29/2024,air
+105,Tiertza,Whitely,Student,3571063012,India,Andhra Pradesh,United States,Texas,F,20,8/17/2023,Master's,Computer Science,11/2/2023,"University of Maine, Fort Kent",$19321.94,1/7/2023,1/25/2025,air
+106,Elyn,Vuitton,Student,1498465786,India,Gujarat,United States,New York,F,29,8/10/2023,Master's,Psychology,6/15/2023,The College of Insurance,$12561.76,1/7/2023,3/21/2025,air
+107,Zuzana,Pinsent,Student,7593652148,India,Andhra Pradesh,United States,Massachusetts,F,29,8/3/2023,Master's,Computer Science,12/2/2023,Pacifica Graduate Institute,$14256.69,1/16/2023,1/8/2025,air
+108,Marlon,Plowman,Student,9076654082,India,Uttar Pradesh,United States,California,M,34,9/4/2023,Master's,Business Administration,1/9/2025,Wesley College Mississippi,$19125.48,1/28/2023,5/16/2024,air
+109,Alphonse,Westell,Student,5199157520,India,Andhra Pradesh,United States,Kentucky,M,19,8/5/2023,Master's,Business Administration,5/8/2024,Northwestern State University of Louisiana,$18074.82,1/4/2023,3/25/2025,air
+110,Mirna,Osgardby,Student,1309328103,India,Uttar Pradesh,United States,Texas,F,20,8/29/2023,Master's,Computer Science,6/8/2024,Bethany College California,$24646.64,1/10/2023,1/6/2025,air
+111,Colman,Coulthart,Student,9504904341,India,Andhra Pradesh,United States,Louisiana,M,28,9/6/2023,Bachelor's,Computer Science,1/8/2025,Fred Hutchinson Cancer Research Center,$19767.39,1/19/2023,2/24/2025,air
+112,Anatole,Rainton,Student,2761908752,India,Gujarat,United States,Utah,M,24,8/23/2023,Master's,Computer Science,4/25/2023,United States Coast Guard Academy,$16539.01,1/13/2023,12/28/2024,air
+113,Kaleb,Marryatt,Student,1696000808,India,Gujarat,United States,District of Columbia,M,22,8/13/2023,Bachelor's,Business Administration,2/14/2024,Rivier College,$15685.48,1/9/2023,3/31/2025,air
+114,Erwin,Duberry,Student,4902901333,India,Andhra Pradesh,United States,District of Columbia,M,23,8/25/2023,Master's,Computer Science,1/29/2024,Westminster College New Wilmington,$15044.23,1/11/2023,8/6/2024,air
+115,Johna,Koschke,Student,9965488661,India,Gujarat,United States,Oklahoma,F,20,8/6/2023,Master's,Computer Science,5/31/2024,Colorado College,$14949.71,1/5/2023,8/4/2024,air
+116,Dyann,Baylay,Student,9795425607,India,Uttar Pradesh,United States,Alaska,F,28,8/7/2023,Master's,Computer Science,11/14/2024,VanderCook College of Music,$21184.33,1/13/2023,8/2/2024,air
+117,Waite,Pflieger,Student,7485078990,India,Uttar Pradesh,United States,Colorado,M,33,8/10/2023,Master's,Computer Science,12/18/2023,Texas Wesleyan University,$20764.11,1/7/2023,2/22/2025,air
+118,Odella,Jewiss,Student,9294429056,India,Uttar Pradesh,United States,Nevada,F,26,9/10/2023,Master's,Computer Science,3/19/2024,"Long Island University, Southampton College",$15074.32,1/28/2023,11/4/2024,air
+119,Virgie,Drance,Student,1144170854,India,Gujarat,United States,Georgia,M,34,9/4/2023,Master's,Computer Science,1/15/2023,Westminster College New Wilmington,$18465.02,1/4/2023,11/5/2024,air
+120,Donnajean,Snazle,Student,9476473182,India,Uttar Pradesh,United States,Florida,F,32,8/21/2023,Master's,Computer Science,1/31/2023,Mid-Continent Baptist Bible College,$11801.59,1/28/2023,6/8/2024,air
+121,Susannah,Bracher,Student,2758330234,India,Andhra Pradesh,United States,Virginia,F,20,8/15/2023,Master's,Business Administration,6/24/2023,"Cleveland Chiropractic College, Kansas City",$21390.75,1/6/2023,1/14/2025,air
+122,Pieter,Novotne,Student,1663301573,India,Gujarat,United States,Kentucky,M,30,8/29/2023,Bachelor's,Computer Science,11/23/2024,Erskine College,$20660.38,1/13/2023,10/12/2024,air
+123,Victor,Matczak,Student,8346572351,India,Uttar Pradesh,United States,North Carolina,M,21,8/1/2023,Bachelor's,Computer Science,5/7/2024,NAES College,$21795.36,1/7/2023,11/27/2024,air
+124,Obie,Colledge,Student,4423978873,India,Andhra Pradesh,United States,Arkansas,M,28,8/9/2023,Master's,Psychology,10/18/2023,Eastern Kentucky University,$19250.27,1/23/2023,1/29/2025,air
+125,Sondra,Belton,Student,6120299270,India,Andhra Pradesh,United States,Texas,F,33,8/2/2023,Master's,Psychology,12/1/2024,"Rasmussen College, Florida Campuses",$13691.66,1/19/2023,2/25/2025,air
+126,Peyter,Iglesia,Student,5009657437,India,Gujarat,United States,Alabama,M,34,8/29/2023,Master's,Computer Science,11/18/2023,Tri-College University,$10271.09,1/25/2023,1/14/2025,air
+127,Abramo,Lindblom,Student,6017628576,India,Andhra Pradesh,United States,District of Columbia,M,29,8/5/2023,Master's,Business Administration,7/23/2023,Appalachian Bible College,$17709.98,1/30/2023,11/9/2024,air
+128,Florry,Maunton,Student,6185941310,India,Andhra Pradesh,United States,Delaware,F,24,9/3/2023,Master's,Computer Science,1/24/2024,Lander University,$19248.33,1/14/2023,8/3/2024,air
+129,Humbert,Puddicombe,Student,8831225526,India,Uttar Pradesh,United States,Utah,M,29,9/13/2023,Master's,Business Administration,2/20/2023,The College of St. Scholastica,$21251.35,1/23/2023,5/1/2025,air
+130,Adara,Scanlon,Student,7579935556,India,Andhra Pradesh,United States,Michigan,F,28,8/6/2023,Master's,Computer Science,4/12/2024,Antioch University,$18034.36,1/5/2023,8/18/2024,air
+131,Patrizius,Jolly,Student,6386294214,India,Andhra Pradesh,United States,Rhode Island,M,20,9/7/2023,Bachelor's,Business Administration,7/28/2023,The Leadership Institute of Seattle,$17995.44,1/3/2023,7/5/2024,air
+132,Manuel,Bubbins,Student,2232349234,India,Uttar Pradesh,United States,District of Columbia,M,33,8/28/2023,Bachelor's,Business Administration,4/16/2025,College of DuPage,$16600.21,1/7/2023,4/4/2024,air
+133,Catherin,Lavery,Student,7485665445,India,Andhra Pradesh,United States,District of Columbia,F,19,8/16/2023,Master's,Computer Science,6/15/2023,University of Arkansas (System),$18313.94,1/23/2023,11/5/2024,air
+134,Yehudi,Brisse,Student,7346424229,India,Uttar Pradesh,United States,Kansas,M,26,8/17/2023,Master's,Computer Science,2/22/2024,Mount Ida College,$21475.43,1/24/2023,2/7/2024,air
+135,Sallie,Luety,Student,3838634848,India,Uttar Pradesh,United States,California,F,20,8/11/2023,Master's,Business Administration,4/11/2024,The New School,$20195.68,1/18/2023,1/5/2025,air
+136,Cindee,Lochran,Student,8408855506,India,Uttar Pradesh,United States,Tennessee,F,22,9/9/2023,Master's,Computer Science,5/3/2023,Eckerd College,$17311.19,1/12/2023,9/23/2024,air
+137,Gabbi,Husby,Student,1564866779,India,Uttar Pradesh,United States,Virginia,F,23,9/4/2023,Master's,Psychology,8/5/2024,Coastal Carolina University,$23367.65,1/16/2023,10/3/2024,air
+138,Boonie,Lofty,Student,2270044438,India,Gujarat,United States,Georgia,M,25,9/12/2023,Master's,Business Administration,2/21/2023,American Conservatory Theater,$20511.89,1/13/2023,1/29/2024,air
+139,Eileen,Bulley,Student,9818362353,India,Uttar Pradesh,United States,Alaska,F,30,8/17/2023,Master's,Business Administration,9/10/2023,Lake Erie College,$18126.47,1/22/2023,11/4/2024,air
+140,Hildegarde,Caldecutt,Student,6985335961,India,Andhra Pradesh,United States,Pennsylvania,F,18,8/16/2023,Master's,Computer Science,9/23/2024,Gardner Webb University,$22847.59,1/27/2023,3/14/2024,air
+141,Briny,McKeurton,Student,2690930377,India,Andhra Pradesh,United States,Colorado,F,29,8/26/2023,Master's,Psychology,6/14/2024,Aquinas College,$18990.77,1/9/2023,2/19/2025,air
+142,Felice,Borsi,Student,5636319896,India,Uttar Pradesh,United States,Alaska,M,18,9/14/2023,Master's,Computer Science,1/19/2024,Southwestern College Kansas,$18416.62,1/7/2023,2/23/2024,air
+143,Halette,Zohrer,Student,4649803364,India,Andhra Pradesh,United States,Florida,F,35,9/6/2023,Master's,Psychology,10/5/2023,University of Illinois,$24231.16,1/4/2023,5/17/2025,air
+144,Dun,Romanin,Student,3823136299,India,Andhra Pradesh,United States,Georgia,M,32,9/1/2023,Master's,Psychology,8/6/2023,University of Findlay,$18476.67,1/5/2023,6/25/2024,air
+145,Lavinia,Annesley,Student,7945386412,India,Gujarat,United States,Georgia,F,27,8/18/2023,Bachelor's,Business Administration,4/5/2023,Middle Tennessee State University,$21785.07,1/18/2023,5/12/2025,air
+146,Val,McLanachan,Student,3985914536,India,Uttar Pradesh,United States,Massachusetts,F,31,8/18/2023,Master's,Business Administration,2/10/2023,Pennsylvania State University - Milton S.Hershey Medical Center,$14187.44,1/19/2023,9/7/2024,air
+147,Yule,Olanda,Student,5626921268,India,Andhra Pradesh,United States,Florida,M,19,9/4/2023,Master's,Psychology,1/22/2025,College of Visual Arts,$20706.78,1/30/2023,2/21/2025,air
+148,Venus,Terry,Student,2639532979,India,Andhra Pradesh,United States,Florida,F,22,8/6/2023,Master's,Business Administration,4/19/2024,Elmira College,$18991.99,1/19/2023,5/13/2025,air
+149,Adelle,Kneafsey,Student,7380083978,India,Uttar Pradesh,United States,Virginia,F,24,9/10/2023,Master's,Computer Science,11/21/2023,"University of California, Oakland",$20296.18,1/13/2023,1/3/2025,air
+150,Faustina,Peschmann,Student,3275506982,India,Uttar Pradesh,United States,Indiana,F,20,8/23/2023,Bachelor's,Business Administration,8/13/2023,"University of California, Oakland",$15413.67,1/1/2023,5/26/2024,air
+151,Fawnia,Simoni,Student,4784523547,India,Gujarat,United States,Missouri,F,28,9/3/2023,Bachelor's,Computer Science,4/3/2023,The Southern Christian University,$19278.61,1/5/2023,3/9/2024,air
+152,Magnum,Hayden,Student,3768542462,India,Uttar Pradesh,United States,Tennessee,M,30,8/24/2023,Master's,Psychology,2/13/2024,Bluefield College,$21915.78,1/5/2023,6/23/2024,air
+153,Reggi,Wilber,Student,7220716834,India,Andhra Pradesh,United States,Nebraska,F,23,8/1/2023,Master's,Business Administration,12/16/2023,Kansas Wesleyan University,$17874.45,1/13/2023,11/14/2024,air
+154,Christalle,Kitchin,Student,4103108697,India,Gujarat,United States,Virginia,F,19,9/4/2023,Bachelor's,Computer Science,1/8/2025,Canisius College,$15232.80,1/18/2023,6/3/2024,air
+155,Lydie,Niccols,Student,1065045371,India,Uttar Pradesh,United States,North Carolina,F,34,8/13/2023,Bachelor's,Business Administration,4/12/2024,Lycoming College,$13269.60,1/22/2023,1/27/2024,air
+156,Tabb,Phethean,Student,6943603757,India,Gujarat,United States,Oklahoma,M,35,8/17/2023,Master's,Business Administration,9/13/2023,University of Wyoming,$15847.81,1/22/2023,10/11/2024,air
+157,Oliviero,Romain,Student,5502776920,India,Andhra Pradesh,United States,Texas,M,21,9/7/2023,Master's,Psychology,6/15/2023,"University of Maine, Orono",$12111.13,1/4/2023,4/16/2024,air
+158,Husein,Yuille,Student,2349050210,India,Andhra Pradesh,United States,California,M,19,8/21/2023,Master's,Computer Science,1/30/2025,Maryville University of St. Louis,$10193.04,1/21/2023,3/1/2025,air
+159,Leontine,Trice,Student,3970912320,India,Gujarat,United States,Iowa,F,32,9/14/2023,Master's,Psychology,3/8/2024,Eastern Connecticut State University,$10119.20,1/3/2023,9/9/2024,air
+160,Gerrard,Leipelt,Student,1917887707,India,Gujarat,United States,Alaska,M,23,8/27/2023,Master's,Computer Science,2/10/2024,Dallas Baptist University,$21496.70,1/1/2023,4/9/2024,air
+161,Gannon,Stummeyer,Student,1124164302,India,Gujarat,United States,Pennsylvania,M,31,8/3/2023,Master's,Computer Science,9/29/2023,Antioch University,$23076.82,1/10/2023,8/3/2024,air
+162,Raffaello,Stower,Student,1117253003,India,Uttar Pradesh,United States,Texas,M,28,8/14/2023,Bachelor's,Computer Science,7/24/2023,Lehigh Univervsity,$22561.13,1/11/2023,9/24/2024,air
+163,Emilee,Jodrelle,Student,2724734944,India,Gujarat,United States,California,F,32,9/11/2023,Master's,Business Administration,10/20/2024,Samford University,$20981.79,1/19/2023,11/26/2024,air
+164,Fionna,Blowfield,Student,2138456814,India,Gujarat,United States,Florida,F,20,8/20/2023,Master's,Computer Science,10/23/2024,Southeastern Baptist College,$13414.44,1/24/2023,4/27/2025,air
+165,Brett,Spur,Student,5861458462,India,Andhra Pradesh,United States,Florida,M,22,8/25/2023,Bachelor's,Business Administration,9/18/2023,MGH Institute of Health Professions,$15654.87,1/18/2023,6/9/2024,air
+166,Fran,Lewcock,Student,4636604540,India,Gujarat,United States,New York,F,27,8/30/2023,Master's,Business Administration,10/12/2024,Medical University of South Carolina,$10957.64,1/29/2023,10/2/2024,air
+167,Fanya,Iredale,Student,9415557805,India,Uttar Pradesh,United States,Washington,F,30,8/30/2023,Master's,Business Administration,10/3/2023,Midland Lutheran College,$24707.15,1/3/2023,8/11/2024,air
+168,Tasia,Pavlik,Student,9047639395,India,Uttar Pradesh,United States,Ohio,F,26,8/15/2023,Bachelor's,Business Administration,9/11/2023,Grand View College,$13046.38,1/5/2023,9/8/2024,air
+169,Ruddie,Schulken,Student,8507272833,India,Uttar Pradesh,United States,District of Columbia,M,18,9/1/2023,Master's,Business Administration,8/5/2023,Central Methodist College,$15730.69,1/21/2023,8/17/2024,air
+170,Waly,Trowl,Student,3193476521,India,Uttar Pradesh,United States,Missouri,F,31,8/17/2023,Bachelor's,Computer Science,6/12/2024,St. Joseph College of Nursing,$16409.47,1/1/2023,1/18/2025,air
+171,Gabey,Burfoot,Student,5337596205,India,Gujarat,United States,Wisconsin,F,30,8/27/2023,Master's,Psychology,12/14/2024,Morningside College,$10062.29,1/23/2023,11/7/2024,air
+172,Sanford,Gotcher,Student,5263210104,India,Andhra Pradesh,United States,Pennsylvania,M,22,9/7/2023,Master's,Computer Science,12/3/2023,Goucher College,$23975.91,1/8/2023,5/2/2024,air
+173,Darcy,Brice,Student,7925827533,India,Andhra Pradesh,United States,Florida,M,21,8/2/2023,Master's,Computer Science,3/3/2024,The Johns Hopkins University,$22966.91,1/20/2023,8/22/2024,air
+174,Carena,Leivesley,Student,9322813837,India,Andhra Pradesh,United States,Arizona,F,22,8/11/2023,Bachelor's,Computer Science,7/12/2023,Paine College,$20331.73,1/20/2023,5/27/2024,air
+175,Correy,Bockett,Student,4234865873,India,Gujarat,United States,Connecticut,F,32,8/8/2023,Master's,Business Administration,4/7/2025,University of Wisconsin - Platteville,$10219.83,1/3/2023,12/6/2024,air
+176,Timofei,Marlen,Student,5506770301,India,Gujarat,United States,New Jersey,M,31,8/26/2023,Bachelor's,Psychology,9/18/2024,University of the South,$18342.52,1/13/2023,5/22/2025,air
+177,Allys,Sterre,Student,9892933771,India,Gujarat,United States,District of Columbia,F,35,8/25/2023,Master's,Business Administration,10/31/2024,Columbia College South Carolina,$22662.46,1/3/2023,7/13/2024,air
+178,Charity,McCreath,Student,7654767369,India,Uttar Pradesh,United States,North Carolina,F,25,8/9/2023,Master's,Computer Science,1/10/2025,"Teachers College, Columbia University",$13463.72,1/16/2023,10/13/2024,air
+179,Ali,Dudney,Student,7001121022,India,Uttar Pradesh,United States,Michigan,M,24,8/3/2023,Master's,Business Administration,1/16/2025,The College of New Jersey,$12971.75,1/16/2023,6/13/2024,air
+180,Margeaux,Daffern,Student,4970304649,India,Andhra Pradesh,United States,Florida,F,19,8/30/2023,Master's,Computer Science,6/28/2024,Grantham University,$13118.88,1/15/2023,7/21/2024,air
+181,Tobiah,Clemerson,Student,6025371936,India,Andhra Pradesh,United States,District of Columbia,M,29,9/6/2023,Master's,Computer Science,10/22/2024,Texas A&M International University,$23833.54,1/18/2023,11/5/2024,air
+182,Hayden,Heindrich,Student,6664876345,India,Uttar Pradesh,United States,Michigan,M,28,8/8/2023,Bachelor's,Computer Science,3/16/2024,Conway School of Landscape Design,$23152.40,1/7/2023,3/30/2025,air
+183,Pru,Headly,Student,6800789725,India,Andhra Pradesh,United States,Oklahoma,F,35,8/1/2023,Bachelor's,Business Administration,2/2/2024,California College for Health Sciences,$22459.93,1/23/2023,1/12/2025,air
+184,Sean,Adamiak,Student,3802329922,India,Uttar Pradesh,United States,California,F,21,9/8/2023,Master's,Computer Science,6/24/2024,Jamestown College,$13562.20,1/5/2023,11/12/2024,air
+185,Janean,Kuschek,Student,6068594853,India,Andhra Pradesh,United States,Georgia,F,26,9/14/2023,Bachelor's,Psychology,9/30/2023,Middlebury College,$11235.71,1/14/2023,1/6/2024,air
+186,Rockwell,Elby,Student,3573975396,India,Uttar Pradesh,United States,District of Columbia,M,21,8/29/2023,Master's,Computer Science,9/7/2024,The Chicago School of Professional Psychology,$19606.01,1/17/2023,7/4/2024,air
+187,Rainer,Parfitt,Student,4501585881,India,Andhra Pradesh,United States,Florida,M,25,8/26/2023,Bachelor's,Business Administration,2/13/2023,University of South Carolina - Sumter,$12920.75,1/12/2023,8/16/2024,air
+188,Lindy,Reford,Student,7864567203,India,Uttar Pradesh,United States,Arizona,F,24,9/9/2023,Bachelor's,Computer Science,7/4/2024,The College of Westchester,$21442.80,1/15/2023,3/21/2024,air
+189,Malinde,Dilston,Student,5533470186,India,Andhra Pradesh,United States,Kentucky,F,26,9/5/2023,Master's,Business Administration,5/25/2023,Mary Washington College,$12476.84,1/17/2023,1/30/2024,air
+190,Mora,Frudd,Student,6701853382,India,Uttar Pradesh,United States,Virginia,F,31,8/9/2023,Master's,Computer Science,2/1/2023,Canisius College,$14939.35,1/29/2023,3/27/2024,air
+191,Jolee,Haensel,Student,9934486156,India,Andhra Pradesh,United States,Oklahoma,F,31,8/14/2023,Master's,Business Administration,2/3/2024,Shoreline Community College,$16337.48,1/2/2023,7/1/2024,air
+192,Kimmi,Cobbin,Student,3035112392,India,Andhra Pradesh,United States,Texas,F,31,9/5/2023,Master's,Business Administration,3/27/2024,University of Massachusetts at Lowell,$20072.67,1/18/2023,11/6/2024,air
+193,Hailey,Extence,Student,2799081254,India,Uttar Pradesh,United States,Pennsylvania,M,34,8/9/2023,Master's,Computer Science,1/5/2025,Kaplan University,$22545.37,1/2/2023,4/15/2025,air
+194,Frazier,Tame,Student,5747330376,India,Gujarat,United States,District of Columbia,M,23,9/10/2023,Bachelor's,Business Administration,3/8/2023,Washington and Lee University,$16861.58,1/6/2023,9/30/2024,air
+195,Baird,Braunes,Student,7384307852,India,Gujarat,United States,Arizona,M,22,8/22/2023,Master's,Computer Science,7/4/2023,Radford University,$24648.47,1/1/2023,2/28/2025,air
+196,Melly,Mingay,Student,8003285604,India,Gujarat,United States,Texas,F,32,8/18/2023,Master's,Computer Science,2/29/2024,IMPAC University,$22023.54,1/22/2023,4/6/2024,air
+197,Lowrance,Daulton,Student,8905206650,India,Andhra Pradesh,United States,Washington,M,21,8/13/2023,Master's,Computer Science,12/3/2024,Canisius College,$20160.01,1/22/2023,5/24/2024,air
+198,Lara,Alfonsini,Student,5013482026,India,Gujarat,United States,Wisconsin,F,20,8/27/2023,Master's,Business Administration,1/13/2024,Ferris State University,$10233.38,1/30/2023,9/12/2024,air
+199,Robinetta,Caen,Student,1554321822,India,Gujarat,United States,Florida,F,35,9/6/2023,Master's,Business Administration,6/2/2023,Florida Institute of Technology,$18320.07,1/9/2023,11/5/2024,air
+200,Broderick,Fanton,Student,6517541336,India,Gujarat,United States,Nebraska,M,32,9/5/2023,Master's,Computer Science,5/1/2024,Kansas Wesleyan University,$18235.62,1/25/2023,3/22/2025,air
+201,Charmine,Order,Student,6649687107,India,Uttar Pradesh,United States,Colorado,F,25,9/9/2023,Master's,Computer Science,2/25/2024,MacMurray College,$20706.39,1/12/2023,5/8/2024,air
+202,Byrle,Collibear,Student,7823764972,India,Uttar Pradesh,United States,Georgia,M,23,9/4/2023,Master's,Computer Science,2/20/2024,Hodges University,$21965.90,1/11/2023,1/4/2024,air
+203,Wang,Stollberg,Student,6794173957,India,Uttar Pradesh,United States,Michigan,M,21,9/10/2023,Bachelor's,Computer Science,7/31/2023,Harvey Mudd College,$15398.23,1/14/2023,1/19/2024,air
+204,Kristine,Winton,Student,7918360517,India,Gujarat,United States,Florida,F,35,9/6/2023,Master's,Computer Science,12/5/2023,Samford University,$17003.20,1/21/2023,4/13/2025,air
+205,Sergio,Milsom,Student,6044602347,India,Gujarat,United States,New Jersey,M,18,8/23/2023,Master's,Computer Science,8/29/2023,Columbia International University,$10768.85,1/12/2023,3/22/2024,air
+206,Eilis,Ferrara,Student,4010792737,India,Andhra Pradesh,United States,New Mexico,F,30,9/11/2023,Master's,Computer Science,11/23/2023,College for Financial Planning,$19918.65,1/28/2023,1/19/2025,air
+207,Freemon,Dunbobbin,Student,2464260354,India,Andhra Pradesh,United States,Washington,M,27,8/21/2023,Master's,Psychology,10/21/2024,Loyola College in Maryland,$22835.54,1/8/2023,5/20/2024,air
+208,Merla,Wellman,Student,8811058510,India,Uttar Pradesh,United States,Washington,F,33,8/25/2023,Master's,Computer Science,1/30/2024,Metropolitan State University,$14411.91,1/19/2023,8/18/2024,air
+209,Louisette,Waliszewski,Student,5098002059,India,Andhra Pradesh,United States,California,F,33,8/18/2023,Master's,Computer Science,3/23/2025,University of Mississippi,$13512.86,1/14/2023,3/26/2025,air
+210,Richie,Crepin,Student,5173262352,India,Gujarat,United States,Louisiana,M,22,8/8/2023,Master's,Computer Science,2/26/2024,Morehead State University,$12835.04,1/26/2023,3/18/2024,air
+211,Rodney,Margiotta,Student,1066583789,India,Gujarat,United States,Washington,M,23,9/2/2023,Bachelor's,Computer Science,10/31/2023,Oakland University,$17083.66,1/1/2023,4/9/2024,air
+212,Tori,Musla,Student,8261406325,India,Uttar Pradesh,United States,Oregon,F,35,8/11/2023,Master's,Computer Science,6/11/2024,Oklahoma State University - Institute of Technology,$10576.31,1/5/2023,5/1/2025,air
+213,Genevieve,Gallegos,Student,6674330002,India,Gujarat,United States,Washington,F,35,8/9/2023,Master's,Computer Science,9/7/2024,Kansas City Art Institute,$12408.56,1/12/2023,7/26/2024,air
+214,Xaviera,Mustin,Student,2385643867,India,Andhra Pradesh,United States,Nevada,F,33,8/7/2023,Master's,Business Administration,1/22/2024,Atlantic University,$23221.05,1/19/2023,5/1/2024,air
+215,Myer,Pilfold,Student,7548142494,India,Gujarat,United States,Wyoming,M,34,8/12/2023,Master's,Computer Science,7/1/2024,Uniformed Services Universty of the Health Sciences,$17851.10,1/8/2023,2/19/2025,air
+216,Georgette,McArt,Student,4915864573,India,Gujarat,United States,Ohio,F,18,9/2/2023,Bachelor's,Computer Science,6/20/2023,Wheaton College Massachusetts,$13505.65,1/15/2023,3/31/2024,air
+217,Michel,Coultass,Student,6628110704,India,Uttar Pradesh,United States,Kansas,F,24,8/1/2023,Master's,Computer Science,10/8/2024,Virginia Union University,$19295.49,1/20/2023,3/3/2024,air
+218,Haskell,Toppin,Student,7811048572,India,Andhra Pradesh,United States,Colorado,M,22,8/21/2023,Master's,Computer Science,2/12/2024,Lindsey Wilson College,$12446.94,1/28/2023,2/25/2025,air
+219,Trstram,Kibel,Student,2336250070,India,Andhra Pradesh,United States,Kansas,M,18,8/22/2023,Bachelor's,Computer Science,9/19/2023,Gratz College,$24821.05,1/12/2023,12/9/2024,air
+220,Grace,Marchington,Student,2335714879,India,Andhra Pradesh,United States,Virginia,F,32,8/8/2023,Master's,Business Administration,4/17/2023,Alabama State University,$20498.82,1/14/2023,8/20/2024,air
+221,Stanleigh,Thrush,Student,5311671828,India,Andhra Pradesh,United States,California,M,31,8/21/2023,Master's,Computer Science,11/21/2024,Woodbury University,$19777.42,1/21/2023,1/13/2025,air
+222,Diana,Culkin,Student,3528969765,India,Gujarat,United States,New Jersey,F,33,9/9/2023,Bachelor's,Computer Science,4/7/2024,Meredith College,$21127.71,1/20/2023,1/5/2024,air
+223,Torin,Catterill,Student,4901360836,India,Gujarat,United States,Connecticut,M,35,8/27/2023,Master's,Computer Science,10/29/2024,Seattle Pacific University,$11303.23,1/20/2023,6/24/2024,air
+224,Artemus,O'Donnelly,Student,4157820512,India,Andhra Pradesh,United States,California,M,27,9/1/2023,Bachelor's,Computer Science,1/30/2023,Oklahoma State University,$15109.33,1/11/2023,12/6/2024,air
+225,Bearnard,Leonardi,Student,3812766838,India,Andhra Pradesh,United States,Pennsylvania,M,27,8/12/2023,Master's,Computer Science,4/30/2023,California Baptist College,$11511.20,1/12/2023,4/9/2024,air
+226,Teddie,Fattori,Student,1889366637,India,Andhra Pradesh,United States,Arizona,F,18,8/25/2023,Master's,Business Administration,8/24/2023,Abilene Christian University,$22143.56,1/1/2023,7/6/2024,air
+227,Sallyanne,Hughesdon,Student,4936082710,India,Uttar Pradesh,United States,Maryland,F,26,8/24/2023,Master's,Business Administration,2/28/2024,Illinois State University,$11820.95,1/21/2023,2/13/2024,air
+228,Yorke,Lukovic,Student,8972971686,India,Andhra Pradesh,United States,Minnesota,M,33,8/25/2023,Master's,Computer Science,5/4/2023,Shippensburg University of Pennsylvania,$11729.97,1/6/2023,2/20/2024,air
+229,Xever,Redon,Student,3882655939,India,Gujarat,United States,California,M,22,8/23/2023,Master's,Business Administration,12/31/2023,Columbus State University,$16969.22,1/10/2023,2/14/2024,air
+230,Izzy,Landis,Student,3000993567,India,Uttar Pradesh,United States,Louisiana,M,21,9/9/2023,Bachelor's,Business Administration,3/13/2023,Sanford-Brown Institute,$19203.50,1/2/2023,1/30/2024,air
+231,Tito,Bucknell,Student,3862486211,India,Andhra Pradesh,United States,Hawaii,M,31,8/15/2023,Bachelor's,Computer Science,6/11/2024,East Central University,$11832.64,1/23/2023,1/12/2024,air
+232,Brandais,Grinsted,Student,7956775828,India,Uttar Pradesh,United States,California,F,21,8/3/2023,Master's,Computer Science,1/19/2024,University of Connecticut at Stamford,$21616.82,1/11/2023,11/16/2024,air
+233,Ogdan,Monkeman,Student,6326782249,India,Gujarat,United States,Texas,M,32,8/2/2023,Master's,Business Administration,3/12/2024,Grace Bible College,$22021.67,1/7/2023,4/6/2025,air
+234,Camel,Balogun,Student,9468096739,India,Gujarat,United States,West Virginia,F,28,8/12/2023,Master's,Computer Science,12/18/2023,Silver Lake College,$23701.42,1/18/2023,6/7/2024,air
+235,Bella,Kinkaid,Student,3251783471,India,Andhra Pradesh,United States,Texas,F,29,8/24/2023,Master's,Computer Science,7/20/2023,Oberlin College,$14428.23,1/24/2023,7/6/2024,air
+236,Mella,Bowcher,Student,7869093487,India,Uttar Pradesh,United States,Minnesota,F,32,8/12/2023,Master's,Computer Science,6/10/2024,Mount Marty College,$23914.82,1/5/2023,3/7/2024,air
+237,Brook,Nussen,Student,6048799965,India,Andhra Pradesh,United States,Florida,F,18,8/28/2023,Master's,Computer Science,12/16/2024,Walsh College of Accountancy and Business Administration,$12837.67,1/13/2023,12/27/2023,air
+238,Alberik,Goodread,Student,7474769926,India,Uttar Pradesh,United States,Indiana,M,31,9/13/2023,Master's,Computer Science,6/7/2024,Hagerstown Community College,$10420.07,1/25/2023,3/18/2024,air
+239,Ardath,Watkiss,Student,2502914554,India,Andhra Pradesh,United States,California,F,21,9/3/2023,Master's,Computer Science,4/14/2025,King's College,$13831.01,1/19/2023,8/31/2024,air
+240,Pierce,Yuille,Student,1512985554,India,Uttar Pradesh,United States,District of Columbia,M,34,8/21/2023,Bachelor's,Computer Science,7/16/2023,ITT Technical Institute Maitland,$19368.28,1/13/2023,6/1/2024,air
+241,Teresita,Oger,Student,9726385865,India,Uttar Pradesh,United States,Pennsylvania,F,35,8/12/2023,Master's,Computer Science,10/16/2023,Sheldon Jackson College,$23417.26,1/5/2023,4/19/2024,air
+242,Alec,Keaton,Student,8683953242,India,Andhra Pradesh,United States,Hawaii,M,34,8/16/2023,Bachelor's,Psychology,6/14/2023,Olivet Nazarene University,$15668.80,1/15/2023,12/24/2023,air
+243,Adrianna,Stollenberg,Student,7710247778,India,Uttar Pradesh,United States,Texas,F,34,8/23/2023,Master's,Computer Science,6/23/2024,University of Colorado at Denver,$23233.96,1/23/2023,12/21/2024,air
+244,Eugine,Clowney,Student,2192876953,India,Uttar Pradesh,United States,Iowa,F,18,8/30/2023,Master's,Computer Science,4/29/2025,University of New Mexico,$19569.18,1/16/2023,4/6/2024,air
+245,Bernelle,Pevsner,Student,8967596553,India,Uttar Pradesh,United States,Ohio,F,30,8/15/2023,Master's,Computer Science,3/9/2023,South Dakota School of Mines and Technology,$13582.89,1/23/2023,9/15/2024,air
+246,Vidovic,Damiral,Student,9149790160,India,Andhra Pradesh,United States,Pennsylvania,M,19,8/6/2023,Bachelor's,Computer Science,2/25/2023,Baker College of Cadillac,$16781.43,1/14/2023,4/19/2025,air
+247,Mychal,Furmston,Student,8630039898,India,Gujarat,United States,Kentucky,M,31,8/23/2023,Master's,Computer Science,5/17/2024,Western State University College of Law,$20503.26,1/15/2023,2/15/2025,air
+248,Hasty,Wisham,Student,8354560405,India,Uttar Pradesh,United States,Colorado,M,26,8/17/2023,Bachelor's,Computer Science,4/28/2024,Ramapo College of New Jersey,$19680.78,1/11/2023,8/20/2024,air
+249,Lorine,Tennet,Student,5948888159,India,Gujarat,United States,District of Columbia,F,29,8/23/2023,Master's,Computer Science,4/5/2025,National Defense University,$12147.89,1/8/2023,1/28/2025,air
+250,Edgardo,Fardell,Student,6836981100,India,Gujarat,United States,Florida,M,34,9/10/2023,Master's,Computer Science,12/21/2023,George Mason University,$15515.85,1/19/2023,2/24/2025,air
+251,Nikolia,Toopin,Student,1405370410,India,Gujarat,United States,California,F,27,8/18/2023,Master's,Computer Science,2/20/2024,Metropolitan State College of Denver,$10146.71,1/13/2023,3/16/2025,air
+252,Jimmy,Cotte,Student,1413464632,India,Uttar Pradesh,United States,Kentucky,M,20,8/10/2023,Master's,Computer Science,11/30/2023,Hartford College for Women,$23910.11,1/22/2023,3/23/2024,air
+253,Angie,Roft,Student,2831132120,India,Uttar Pradesh,United States,Alabama,M,28,8/9/2023,Bachelor's,Business Administration,5/25/2024,Goucher College,$19654.26,1/23/2023,3/30/2025,air
+254,Lolita,Conway,Student,1955159899,India,Andhra Pradesh,United States,Massachusetts,F,22,9/1/2023,Master's,Psychology,4/14/2025,"Concordia University, Portland",$21343.64,1/16/2023,8/18/2024,air
+255,Ynez,McKinney,Student,1173343023,India,Andhra Pradesh,United States,Nevada,F,26,8/2/2023,Master's,Business Administration,9/26/2024,College of Charleston,$19587.82,1/22/2023,9/15/2024,air
+256,Aime,Koopman,Student,2270870301,India,Andhra Pradesh,United States,Florida,F,30,8/6/2023,Master's,Business Administration,4/2/2025,Pillsbury Baptist Bible College,$18719.26,1/28/2023,3/22/2025,air
+257,Rosco,Thurgood,Student,3662080443,India,Uttar Pradesh,United States,Colorado,M,27,8/4/2023,Master's,Computer Science,8/17/2024,Carlow College,$24815.66,1/6/2023,3/19/2025,air
+258,Derek,Llop,Student,9368946772,India,Andhra Pradesh,United States,Kansas,M,34,8/22/2023,Master's,Business Administration,2/2/2023,Phillips Graduate Institute,$23994.65,1/8/2023,1/21/2025,air
+259,Reuven,Amsden,Student,9180319143,India,Uttar Pradesh,United States,Texas,M,28,8/27/2023,Master's,Business Administration,9/1/2023,Divine Word College,$24122.91,1/18/2023,1/16/2025,air
+260,Kristen,Meadley,Student,3009654243,India,Gujarat,United States,Texas,F,26,8/16/2023,Master's,Computer Science,4/17/2024,Rochester Institute of Technology,$24527.25,1/3/2023,4/20/2025,air
+261,Hermia,Moncreiff,Student,1656373618,India,Andhra Pradesh,United States,Indiana,F,29,8/29/2023,Master's,Business Administration,8/7/2023,Brigham Young University Hawaii,$15217.81,1/7/2023,2/13/2024,air
+262,Carmon,Kinder,Student,7138549487,India,Andhra Pradesh,United States,Washington,F,28,8/10/2023,Master's,Psychology,3/22/2025,Baptist Bible College of Pennsylvania,$14418.18,1/22/2023,5/13/2025,air
+263,Marina,Mehmet,Student,9674382117,India,Andhra Pradesh,United States,Indiana,F,23,9/6/2023,Bachelor's,Computer Science,3/3/2023,Temple University School of Podiatric Medicine,$17910.45,1/30/2023,4/27/2024,air
+264,Elli,Eldon,Student,5416952991,India,Uttar Pradesh,United States,Virginia,F,24,9/12/2023,Bachelor's,Computer Science,5/31/2024,Indiana Wesleyan University,$14828.52,1/27/2023,2/24/2025,air
+265,Deina,McKinnell,Student,9305919346,India,Andhra Pradesh,United States,Virginia,F,31,9/10/2023,Master's,Computer Science,7/5/2024,Robert Morris College,$20041.73,1/14/2023,7/15/2024,air
+266,Ernest,Slide,Student,1621604567,India,Uttar Pradesh,United States,Nevada,M,32,8/21/2023,Master's,Business Administration,6/30/2024,Lee University,$18609.37,1/23/2023,9/19/2024,air
+267,Rossy,Haresign,Student,8565189787,India,Gujarat,United States,South Carolina,M,24,8/9/2023,Bachelor's,Computer Science,3/8/2024,"Florida Metropolitan University, Tampa College Lakeland",$14209.72,1/27/2023,2/1/2025,air
+268,Karil,Loraine,Student,6067850667,India,Andhra Pradesh,United States,Tennessee,F,31,9/8/2023,Master's,Business Administration,9/28/2024,Purdue University Calumet,$23243.14,1/5/2023,1/1/2024,air
+269,Keane,Bracher,Student,3412436266,India,Uttar Pradesh,United States,District of Columbia,M,19,8/27/2023,Bachelor's,Computer Science,8/4/2024,Connecticut College,$18309.02,1/13/2023,3/26/2024,air
+270,Shermy,Macieiczyk,Student,5646682473,India,Uttar Pradesh,United States,Kentucky,M,24,9/1/2023,Master's,Computer Science,4/19/2025,University of Charleston,$13615.86,1/6/2023,6/1/2024,air
+271,Franky,Dimitru,Student,3074002657,India,Uttar Pradesh,United States,New York,M,24,8/23/2023,Bachelor's,Computer Science,12/18/2023,Pennsylvania State University - Abington,$14369.74,1/4/2023,6/12/2024,air
+272,Myrah,Sumsion,Student,5595802629,India,Uttar Pradesh,United States,California,F,30,8/11/2023,Master's,Computer Science,5/2/2024,American University,$18839.46,1/17/2023,10/4/2024,air
+273,Candide,Andersch,Student,2358498127,India,Andhra Pradesh,United States,West Virginia,F,32,9/6/2023,Bachelor's,Business Administration,8/6/2023,Ohio Wesleyan University,$23689.09,1/3/2023,4/15/2025,air
+274,Micky,Tankard,Student,1034083103,India,Gujarat,United States,Connecticut,F,24,8/25/2023,Master's,Computer Science,1/9/2023,Grand Canyon University,$11063.87,1/25/2023,2/28/2024,air
+275,Letta,Byfford,Student,3329258678,India,Andhra Pradesh,United States,Tennessee,F,35,8/6/2023,Master's,Business Administration,3/11/2025,"Davenport College of Business, Lansing",$14185.76,1/8/2023,2/9/2025,air
+276,Christoph,Peeke,Student,7236710826,India,Uttar Pradesh,United States,Pennsylvania,M,35,8/28/2023,Master's,Business Administration,4/22/2024,Alcorn State University,$12195.03,1/25/2023,12/3/2024,air
+277,Neysa,Bonner,Student,7558659534,India,Gujarat,United States,Indiana,F,18,8/13/2023,Master's,Business Administration,1/31/2024,Louisiana State University at Alexandria,$23316.89,1/30/2023,5/13/2024,air
+278,Livia,Corney,Student,7309712829,India,Uttar Pradesh,United States,Florida,F,33,8/15/2023,Master's,Computer Science,12/11/2023,Wellesley College,$23766.18,1/17/2023,12/28/2024,air
+279,Ingelbert,Ragate,Student,2239882193,India,Andhra Pradesh,United States,Montana,M,22,8/14/2023,Master's,Computer Science,11/1/2023,Moraine Valley Community College,$12251.38,1/24/2023,3/22/2025,air
+280,Brewster,Ames,Student,6911469166,India,Uttar Pradesh,United States,Michigan,M,35,9/10/2023,Master's,Psychology,7/5/2024,Robert Morris College of Chicago,$14570.30,1/15/2023,8/23/2024,air
+281,Blisse,Kirke,Student,9695786854,India,Gujarat,United States,West Virginia,F,27,8/6/2023,Bachelor's,Computer Science,11/4/2024,Duke University,$17668.48,1/1/2023,4/22/2024,air
+282,Meara,Crankshaw,Student,2435110174,India,Gujarat,United States,District of Columbia,F,25,8/17/2023,Master's,Business Administration,12/20/2024,Judson College Marion,$19503.54,1/13/2023,4/26/2025,air
+283,Bendix,Diss,Student,3498339018,India,Andhra Pradesh,United States,Utah,M,24,8/17/2023,Bachelor's,Business Administration,1/23/2025,California College of Arts and Crafts,$24818.31,1/6/2023,11/22/2024,air
+284,Cassandry,Spurrier,Student,1362214876,India,Uttar Pradesh,United States,Wisconsin,F,29,9/12/2023,Master's,Psychology,10/9/2023,Pacifica Graduate Institute,$10792.51,1/16/2023,3/26/2025,air
+285,Evangelina,Hevey,Student,8769139515,India,Uttar Pradesh,United States,South Carolina,F,19,8/24/2023,Master's,Computer Science,1/14/2025,Mid-America Nazarene University,$18257.50,1/14/2023,2/16/2024,air
+286,Durant,Dabbs,Student,5503327131,India,Gujarat,United States,Pennsylvania,M,30,8/3/2023,Master's,Psychology,3/14/2025,Christian Brothers University,$13362.87,1/1/2023,1/29/2024,air
+287,Minnnie,Yearnsley,Student,3686840286,India,Gujarat,United States,Florida,F,18,8/15/2023,Master's,Computer Science,4/24/2025,San Joaquin College of Law,$17281.96,1/29/2023,3/15/2024,air
+288,Gui,Mollitt,Student,8015502934,India,Uttar Pradesh,United States,Pennsylvania,F,29,8/4/2023,Master's,Computer Science,3/26/2025,University of Massachusetts at Lowell,$24731.07,1/26/2023,5/26/2024,air
+289,Nicholas,O'Nolan,Student,2860211004,India,Andhra Pradesh,United States,Arizona,M,28,8/28/2023,Master's,Computer Science,1/14/2025,Nazarene Bible College,$16337.47,1/19/2023,12/31/2023,air
+290,Billy,Stollman,Student,3347598647,India,Andhra Pradesh,United States,Florida,M,22,8/18/2023,Master's,Computer Science,2/11/2023,Baker College of Flint,$11821.42,1/6/2023,4/21/2025,air
+291,Dalis,Showler,Student,9550989634,India,Gujarat,United States,Minnesota,M,27,8/8/2023,Master's,Computer Science,7/16/2023,Southwestern University,$23603.05,1/5/2023,4/22/2025,air
+292,Em,Stolberger,Student,3934149121,India,Andhra Pradesh,United States,District of Columbia,F,18,8/12/2023,Master's,Computer Science,11/13/2024,Mary Washington College,$21380.92,1/3/2023,1/19/2024,air
+293,Barnie,Ladel,Student,3274104238,India,Uttar Pradesh,United States,South Carolina,M,24,8/29/2023,Master's,Computer Science,3/22/2024,University of New England,$22539.34,1/16/2023,3/15/2024,air
+294,Angil,Deakes,Student,8934569988,India,Uttar Pradesh,United States,Wisconsin,F,23,8/4/2023,Master's,Computer Science,2/15/2024,Rockhurst College,$16639.81,1/29/2023,4/20/2025,air
+295,Michal,Rubenov,Student,6498850191,India,Andhra Pradesh,United States,New York,M,24,8/28/2023,Master's,Business Administration,4/19/2024,Greenville College,$11480.40,1/2/2023,9/8/2024,air
+296,Mersey,Danielut,Student,7088595759,India,Andhra Pradesh,United States,Missouri,F,27,8/6/2023,Master's,Computer Science,1/1/2025,Liberty University,$20079.82,1/30/2023,5/5/2024,air
+297,Sylvia,Everix,Student,8712201504,India,Andhra Pradesh,United States,Nevada,F,24,8/18/2023,Master's,Business Administration,2/15/2025,"Concordia University, Portland",$19463.20,1/20/2023,11/16/2024,air
+298,Graham,Kernan,Student,7864666670,India,Uttar Pradesh,United States,Delaware,M,24,9/10/2023,Master's,Computer Science,4/10/2024,Palmer College of Chiropractic West,$20142.83,1/2/2023,4/19/2024,air
+299,Roda,Savell,Student,3996817997,India,Andhra Pradesh,United States,Virginia,F,24,8/11/2023,Bachelor's,Computer Science,3/11/2024,Eastern Kentucky University,$13475.12,1/27/2023,4/24/2025,air
+300,Clare,Cowin,Student,1833741751,India,Andhra Pradesh,United States,Washington,M,29,9/10/2023,Master's,Computer Science,2/19/2024,Jarvis Christian College,$14703.68,1/20/2023,10/30/2024,air
+301,Eziechiele,Le Sieur,Student,3587871023,India,Uttar Pradesh,United States,Louisiana,M,26,8/12/2023,Master's,Computer Science,2/7/2025,Medaille College,$13861.59,1/1/2023,3/10/2024,air
+302,Adam,Sinnat,Student,9614610790,India,Gujarat,United States,California,M,28,8/19/2023,Master's,Computer Science,1/4/2023,York College Nebraska,$14230.63,1/3/2023,10/31/2024,air
+303,Pernell,Doe,Student,4806225491,India,Andhra Pradesh,United States,Virginia,M,32,8/15/2023,Master's,Business Administration,3/6/2025,Tennessee Temple University,$17208.44,1/16/2023,7/9/2024,air
+304,Leisha,Houten,Student,2064672051,India,Gujarat,United States,Texas,F,35,8/9/2023,Master's,Computer Science,9/1/2023,Loyola Marymount University,$21265.78,1/22/2023,2/14/2025,air
+305,Hartley,McKeefry,Student,2687788287,India,Uttar Pradesh,United States,Virginia,M,34,8/25/2023,Master's,Computer Science,1/23/2023,Marquette University,$16645.63,1/26/2023,4/18/2025,air
+306,Elias,Callaby,Student,3694384625,India,Andhra Pradesh,United States,Arkansas,M,28,8/29/2023,Master's,Computer Science,2/12/2025,York College Nebraska,$14540.14,1/12/2023,7/23/2024,air
+307,Filia,Tommasi,Student,6755052347,India,Gujarat,United States,Maryland,F,20,8/9/2023,Master's,Business Administration,11/17/2023,University of Arkansas at Little Rock,$10128.02,1/3/2023,12/29/2023,air
+308,Hynda,Plunket,Student,9523158890,India,Gujarat,United States,North Carolina,F,23,8/4/2023,Master's,Computer Science,10/16/2023,Grantham University,$19108.48,1/7/2023,8/29/2024,air
+309,Michaelina,Divell,Student,2775639381,India,Gujarat,United States,New Jersey,F,25,8/19/2023,Bachelor's,Computer Science,2/21/2024,Hillsdale College,$13790.80,1/18/2023,5/19/2025,air
+310,Wilburt,Dwane,Student,7450778634,India,Gujarat,United States,District of Columbia,M,25,8/26/2023,Master's,Computer Science,8/13/2023,University of Texas at San Antonio,$24977.69,1/16/2023,5/18/2025,air
+311,Karlan,Hurlston,Student,3370350469,India,Uttar Pradesh,United States,Oklahoma,M,21,8/14/2023,Master's,Psychology,4/24/2025,Albany State University,$16159.69,1/22/2023,2/22/2025,air
+312,Bing,Doudney,Student,4038494819,India,Uttar Pradesh,United States,Arkansas,M,32,8/7/2023,Master's,Computer Science,12/30/2024,Illinois College of Optometry,$13423.15,1/14/2023,8/4/2024,air
+313,Violetta,Sirett,Student,2613739449,India,Uttar Pradesh,United States,Florida,F,33,9/12/2023,Master's,Business Administration,1/24/2023,University of Minnesota - Twin Cities Campus,$15189.23,1/11/2023,2/4/2025,air
+314,Chelsae,Coultous,Student,2347864561,India,Andhra Pradesh,United States,Florida,F,25,9/3/2023,Master's,Computer Science,3/26/2025,Louisiana State University at Alexandria,$24767.05,1/24/2023,5/10/2024,air
+315,Zorana,Chitty,Student,6782024113,India,Gujarat,United States,Alabama,F,20,8/3/2023,Bachelor's,Computer Science,4/12/2023,University of Wisconsin - River Falls,$23976.53,1/17/2023,4/15/2024,air
+316,Gilda,Landor,Student,3913038699,India,Andhra Pradesh,United States,Illinois,F,25,9/14/2023,Bachelor's,Business Administration,7/16/2023,Boise State University,$12812.00,1/15/2023,2/2/2024,air
+317,Nilson,Chessill,Student,3959957754,India,Andhra Pradesh,United States,Alabama,M,20,8/12/2023,Master's,Computer Science,7/24/2024,"DeVry Institute of Technology, Decatur",$15698.45,1/8/2023,1/18/2024,air
+318,Freeman,Kirkhouse,Student,5333328894,India,Andhra Pradesh,United States,Georgia,M,30,9/3/2023,Bachelor's,Business Administration,1/27/2025,University of Central Arkansas,$23140.06,1/30/2023,12/19/2024,air
+319,Cari,Clayton,Student,9022682720,India,Uttar Pradesh,United States,Tennessee,F,27,8/13/2023,Bachelor's,Computer Science,2/11/2025,Forest Institute of Professional Psychology,$23597.38,1/24/2023,3/28/2024,air
+320,Seana,Pomphrett,Student,4499958494,India,Gujarat,United States,Ohio,F,19,8/21/2023,Master's,Psychology,12/9/2024,Blackburn College,$15791.63,1/21/2023,4/11/2025,air
+321,Ronald,Severn,Student,2943945103,India,Gujarat,United States,Arizona,M,19,8/30/2023,Master's,Computer Science,12/10/2024,Newschool of Architecture and Design,$11090.74,1/15/2023,1/9/2024,air
+322,Sherwood,Gossington,Student,2224026694,India,Uttar Pradesh,United States,Washington,M,22,9/6/2023,Master's,Psychology,6/18/2023,Mount St. Clare College,$12916.20,1/28/2023,11/26/2024,air
+323,Eloisa,Rentz,Student,9794508479,India,Gujarat,United States,Florida,F,31,9/12/2023,Master's,Business Administration,3/5/2024,St. Michael's College,$23569.26,1/13/2023,11/28/2024,air
+324,Jacquie,Grivori,Student,6627981922,India,Andhra Pradesh,United States,California,F,26,8/1/2023,Master's,Psychology,4/17/2024,Bryn Athyn College of the New Church,$13054.43,1/4/2023,10/16/2024,air
+325,Kalie,Miere,Student,6243148304,India,Gujarat,United States,Illinois,F,30,8/29/2023,Master's,Computer Science,3/13/2024,University of Colorado Health Sciences Center,$10477.50,1/23/2023,1/17/2025,air
+326,Dominica,Thuillier,Student,8346948136,India,Andhra Pradesh,United States,Virginia,F,30,8/28/2023,Bachelor's,Computer Science,1/5/2025,"CollegeAmerica, Phoenix",$20455.55,1/14/2023,7/12/2024,air
+327,Rebeca,McKaile,Student,1753810748,India,Uttar Pradesh,United States,Louisiana,F,19,8/6/2023,Master's,Computer Science,2/12/2024,University of Northern Virginia,$19281.75,1/28/2023,1/22/2025,air
+328,Raquela,Yann,Student,2462127748,India,Andhra Pradesh,United States,Arizona,F,31,8/11/2023,Master's,Business Administration,12/29/2023,University of West Los Angeles,$18053.79,1/18/2023,12/27/2023,air
+329,Almeria,Habercham,Student,2120511498,India,Gujarat,United States,California,F,27,8/19/2023,Master's,Psychology,2/28/2025,Virginia State University,$18063.10,1/24/2023,3/1/2024,air
+330,Vinson,Carder,Student,7050591418,India,Andhra Pradesh,United States,Hawaii,M,31,8/20/2023,Master's,Computer Science,9/26/2024,St. Mary's University of Minnesota,$21013.87,1/21/2023,8/29/2024,air
+331,Bridget,Clayworth,Student,4429013631,India,Andhra Pradesh,United States,Nevada,F,23,8/10/2023,Master's,Psychology,3/23/2025,Trinity College of Florida,$22393.28,1/19/2023,8/29/2024,air
+332,Estel,Millins,Student,5264031013,India,Uttar Pradesh,United States,California,F,34,8/7/2023,Bachelor's,Business Administration,4/7/2024,University of Oklahoma Health Sciences Center,$21123.89,1/5/2023,5/25/2025,air
+333,Barton,Yetton,Student,7469587934,India,Gujarat,United States,Nevada,M,33,8/26/2023,Bachelor's,Computer Science,4/12/2025,Winthrop University,$21086.78,1/2/2023,12/3/2024,air
+334,Galven,Sickert,Student,2040532296,India,Andhra Pradesh,United States,South Dakota,M,18,8/1/2023,Master's,Business Administration,9/28/2024,Indiana University at Bloomington,$20111.35,1/20/2023,8/12/2024,air
+335,Virgil,Mingo,Student,4915169224,India,Gujarat,United States,Pennsylvania,M,35,9/14/2023,Bachelor's,Business Administration,2/3/2024,Knoxville College,$22602.26,1/11/2023,3/6/2024,air
+336,Bronny,Wabersinke,Student,5586985134,India,Uttar Pradesh,United States,New York,M,35,8/8/2023,Master's,Computer Science,1/13/2023,School of the Museum of Fine Arts,$22116.65,1/2/2023,2/18/2025,air
+337,Quintina,Manon,Student,9512130519,India,Uttar Pradesh,United States,Texas,F,22,8/6/2023,Bachelor's,Computer Science,7/29/2024,Edison Community College,$10415.78,1/4/2023,8/1/2024,air
+338,Sascha,Latch,Student,3062180528,India,Gujarat,United States,California,M,21,9/11/2023,Master's,Business Administration,2/14/2025,University of North Carolina at Charlotte,$23183.82,1/18/2023,5/28/2025,air
+339,Tallou,Moret,Student,9864337867,India,Andhra Pradesh,United States,Ohio,F,29,8/5/2023,Master's,Computer Science,7/24/2023,The Rockefeller University,$20284.88,1/20/2023,7/24/2024,air
+340,Amandie,Mullan,Student,2775501640,India,Uttar Pradesh,United States,Colorado,F,25,8/31/2023,Master's,Computer Science,2/26/2025,"Washington State University, Tri-Cities",$10249.41,1/18/2023,4/17/2025,air
+341,Grove,MacCarlich,Student,2542592792,India,Andhra Pradesh,United States,California,M,29,8/1/2023,Bachelor's,Computer Science,5/8/2023,Mount Olive College,$24879.81,1/9/2023,5/26/2025,air
+342,Cathe,Andriesse,Student,1600590595,India,Andhra Pradesh,United States,Washington,F,30,8/12/2023,Master's,Business Administration,5/13/2023,Springfield College,$21155.28,1/27/2023,8/29/2024,air
+343,Drucill,Van Rembrandt,Student,7497250757,India,Uttar Pradesh,United States,Alabama,F,25,8/16/2023,Master's,Computer Science,7/8/2024,St. Joseph's College New York,$20729.68,1/8/2023,5/1/2024,air
+344,Agosto,Sidebotton,Student,1570517558,India,Gujarat,United States,New York,M,32,8/26/2023,Bachelor's,Business Administration,12/18/2024,Evangel University,$15350.08,1/10/2023,1/23/2024,air
+345,Cash,Hannaway,Student,8748518050,India,Gujarat,United States,Tennessee,M,19,8/23/2023,Master's,Computer Science,6/30/2023,Colorado Christian University,$15771.51,1/4/2023,4/5/2024,air
+346,Andeee,Wyldbore,Student,8406409427,India,Uttar Pradesh,United States,Mississippi,F,23,8/13/2023,Bachelor's,Business Administration,8/30/2024,Caldwell College,$11889.53,1/28/2023,2/5/2025,air
+347,Jesse,Dincke,Student,1390864096,India,Andhra Pradesh,United States,Pennsylvania,M,31,8/16/2023,Master's,Business Administration,10/31/2023,Spalding University,$17732.52,1/2/2023,2/24/2024,air
+348,Klarika,Redit,Student,2057270336,India,Gujarat,United States,New York,F,27,9/10/2023,Master's,Computer Science,3/14/2023,Texas A&M University - Galveston,$22047.82,1/18/2023,10/30/2024,air
+349,Lydie,Kretchmer,Student,5131399650,India,Gujarat,United States,Texas,F,35,9/3/2023,Bachelor's,Business Administration,2/2/2025,Norwich University,$19824.40,1/22/2023,3/17/2025,air
+350,Enid,de Mendoza,Student,4674343498,India,Gujarat,United States,Texas,F,25,9/4/2023,Master's,Computer Science,1/20/2024,Adelphi University,$23038.90,1/14/2023,4/27/2025,air
+351,Ulysses,Hanratty,Student,1662502958,India,Uttar Pradesh,United States,Illinois,M,19,8/12/2023,Master's,Computer Science,11/13/2023,Divine Word College,$23427.89,1/26/2023,11/2/2024,air
+352,Lisabeth,Wilderspoon,Student,9223658417,India,Andhra Pradesh,United States,District of Columbia,F,35,9/12/2023,Master's,Computer Science,3/12/2023,Boricua College,$20664.40,1/28/2023,4/24/2025,air
+353,Amanda,Fernely,Student,1948039594,India,Gujarat,United States,Michigan,F,35,8/8/2023,Master's,Business Administration,9/19/2024,Holy Cross College,$22431.35,1/8/2023,10/23/2024,air
+354,Andi,Lavens,Student,4051009381,India,Gujarat,United States,Colorado,F,32,8/12/2023,Master's,Computer Science,5/30/2023,"Ross University, School of Medicine",$10959.82,1/6/2023,3/8/2024,air
+355,Ashlin,Kettlewell,Student,5864669700,India,Gujarat,United States,New Jersey,M,34,9/11/2023,Master's,Computer Science,7/12/2023,Southeastern College of the Assemblies of God,$20345.50,1/19/2023,12/14/2024,air
+356,Baxy,Colly,Student,9794533261,India,Gujarat,United States,Florida,M,35,9/1/2023,Master's,Business Administration,3/4/2023,Christopher Newport University,$13195.19,1/19/2023,7/12/2024,air
+357,Tades,Reen,Student,2294348790,India,Uttar Pradesh,United States,Alaska,M,31,9/11/2023,Master's,Psychology,6/17/2023,College of St. Joseph,$18032.96,1/30/2023,4/30/2024,air
+358,Demetra,Beaconsall,Student,2076338457,India,Gujarat,United States,Colorado,F,31,8/20/2023,Master's,Psychology,6/20/2024,"Embry Riddle Aeronautical University, Prescott",$11332.49,1/8/2023,2/21/2024,air
+359,Zacharia,Creffield,Student,4205495198,India,Uttar Pradesh,United States,Ohio,M,21,8/15/2023,Bachelor's,Computer Science,3/22/2023,Iowa State University of Science and Technology,$20802.47,1/26/2023,3/14/2025,air
+360,Nelson,Clemmey,Student,7084796155,India,Gujarat,United States,Tennessee,M,31,8/18/2023,Master's,Computer Science,1/26/2023,Hastings College,$17055.85,1/1/2023,8/11/2024,air
+361,Ellswerth,Schultz,Student,2866742056,India,Gujarat,United States,Ohio,M,23,9/10/2023,Master's,Computer Science,9/15/2024,Trinity International University,$12543.53,1/27/2023,4/23/2025,air
+362,Billie,Joselevitch,Student,6533479144,India,Gujarat,United States,Massachusetts,M,20,8/22/2023,Master's,Computer Science,6/19/2023,John Carroll University,$15678.74,1/27/2023,2/12/2024,air
+363,Victoir,Dilrew,Student,7819680618,India,Andhra Pradesh,United States,Wisconsin,M,23,8/20/2023,Bachelor's,Business Administration,6/30/2024,"California State University, Channel Islands",$15153.50,1/20/2023,8/2/2024,air
+364,Patrizia,Rawcliff,Student,8526484555,India,Uttar Pradesh,United States,California,F,18,9/8/2023,Bachelor's,Business Administration,2/18/2023,"Cleveland Chiropractic College, Los Angeles",$14955.16,1/27/2023,12/29/2023,air
+365,Obidiah,Kertess,Student,3098943606,India,Uttar Pradesh,United States,Georgia,M,26,9/11/2023,Master's,Computer Science,9/28/2023,Sullivan College,$11177.01,1/27/2023,3/12/2024,air
+366,Stavro,Crucitti,Student,7541700562,India,Andhra Pradesh,United States,Pennsylvania,M,25,8/21/2023,Master's,Computer Science,12/30/2024,University of Louisville,$11574.82,1/17/2023,2/20/2024,air
+367,Bourke,Hobson,Student,3046437924,India,Gujarat,United States,Massachusetts,M,26,8/24/2023,Master's,Business Administration,4/21/2024,Morris Brown College,$22563.15,1/19/2023,4/14/2025,air
+368,Nona,Pygott,Student,2560117617,India,Andhra Pradesh,United States,Ohio,F,27,8/12/2023,Master's,Computer Science,10/16/2024,Bethany College California,$11751.99,1/30/2023,1/9/2024,air
+369,Lucho,Myhan,Student,9187638466,India,Gujarat,United States,New Mexico,M,22,8/27/2023,Master's,Psychology,3/11/2024,Tiffin University,$18525.63,1/29/2023,3/20/2025,air
+370,Eduard,Rohlf,Student,1102708398,India,Uttar Pradesh,United States,New York,M,22,8/12/2023,Master's,Computer Science,10/27/2024,Lesley University,$19295.46,1/9/2023,5/9/2024,air
+371,Dante,Dyson,Student,8157463194,India,Uttar Pradesh,United States,North Carolina,M,20,8/21/2023,Master's,Computer Science,4/12/2025,California Baptist College,$23350.26,1/2/2023,4/6/2025,air
+372,Tina,Checo,Student,2427323522,India,Gujarat,United States,Oklahoma,F,35,8/3/2023,Master's,Computer Science,2/25/2023,Southern Illinois University at Edwardsville,$16933.41,1/16/2023,8/4/2024,air
+373,Daphna,Martineau,Student,1414648439,India,Uttar Pradesh,United States,Florida,F,32,9/14/2023,Master's,Business Administration,1/8/2025,Norfolk State University,$14407.99,1/25/2023,4/27/2024,air
+374,Evyn,Joice,Student,8967924288,India,Gujarat,United States,Tennessee,M,22,9/7/2023,Master's,Computer Science,12/11/2024,Hastings College,$21724.59,1/19/2023,2/2/2025,air
+375,Osbourn,Blandamore,Student,2257235099,India,Uttar Pradesh,United States,California,M,18,8/21/2023,Master's,Business Administration,4/23/2025,Alverno College,$15893.45,1/11/2023,9/26/2024,air
+376,Ennis,Breton,Student,9891430028,India,Gujarat,United States,Ohio,M,23,8/17/2023,Master's,Computer Science,9/1/2023,Indiana University of Pennsylvania,$12523.17,1/4/2023,10/30/2024,air
+377,Adiana,Brookwell,Student,8078447446,India,Andhra Pradesh,United States,Pennsylvania,F,25,9/9/2023,Master's,Computer Science,9/11/2024,Oral Roberts University,$23680.32,1/27/2023,12/30/2023,air
+378,Gracia,Chismon,Student,5001744846,India,Uttar Pradesh,United States,Oklahoma,F,29,9/5/2023,Master's,Computer Science,11/27/2023,"Rasmussen College, Illinois Campuses",$11775.69,1/1/2023,6/25/2024,air
+379,Kata,Willoughey,Student,2754509226,India,Gujarat,United States,Hawaii,F,30,8/9/2023,Master's,Computer Science,9/11/2024,Indiana Institute of Technologyy,$16378.83,1/18/2023,11/23/2024,air
+380,My,Goulston,Student,7248877910,India,Gujarat,United States,Alabama,M,23,9/10/2023,Master's,Computer Science,2/26/2025,Bluefield State College,$17323.24,1/10/2023,5/5/2025,air
+381,Fayth,Dey,Student,3049715309,India,Andhra Pradesh,United States,Alaska,F,33,8/8/2023,Bachelor's,Business Administration,7/29/2024,California Maritime Academy,$15814.56,1/11/2023,5/30/2025,air
+382,Murdoch,Ternent,Student,3668165454,India,Uttar Pradesh,United States,Washington,M,20,8/18/2023,Master's,Business Administration,2/3/2025,University of North Carolina at Chapel Hill,$20974.78,1/15/2023,2/7/2025,air
+383,Hannis,Janca,Student,1600030487,India,Andhra Pradesh,United States,Colorado,F,32,8/31/2023,Master's,Business Administration,1/12/2023,Vanderbilt University,$16489.72,1/15/2023,12/17/2024,air
+384,Chryste,Luckham,Student,5869792503,India,Uttar Pradesh,United States,Florida,F,22,8/31/2023,Bachelor's,Computer Science,9/26/2024,Amber University,$22108.97,1/11/2023,1/16/2024,air
+385,Cristin,Murrey,Student,6705026485,India,Andhra Pradesh,United States,Pennsylvania,F,22,8/7/2023,Master's,Computer Science,11/2/2023,Juniata College,$10420.63,1/26/2023,10/19/2024,air
+386,Arnie,O'Brollachain,Student,6215839589,India,Andhra Pradesh,United States,Maryland,M,29,8/11/2023,Bachelor's,Business Administration,6/23/2024,University of La Verne,$10379.67,1/21/2023,1/10/2025,air
+387,Hansiain,Kinleyside,Student,9805228887,India,Gujarat,United States,California,M,19,8/22/2023,Master's,Computer Science,9/24/2023,Florida International University,$14103.21,1/26/2023,2/19/2025,air
+388,Stanleigh,Pierse,Student,2054719614,India,Gujarat,United States,Oklahoma,M,26,8/28/2023,Master's,Psychology,11/23/2024,Huston-Tillotson College,$24893.82,1/16/2023,9/18/2024,air
+389,Billye,Quadrio,Student,8043758250,India,Gujarat,United States,Indiana,F,23,8/16/2023,Master's,Psychology,10/16/2024,Martin University,$20488.37,1/21/2023,10/26/2024,air
+390,Harmon,Czaple,Student,9038336711,India,Uttar Pradesh,United States,Arizona,M,22,8/23/2023,Master's,Computer Science,12/16/2023,The College of Westchester,$14304.71,1/30/2023,3/14/2024,air
+391,Ursa,Boaler,Student,6308484597,India,Gujarat,United States,Delaware,F,20,8/2/2023,Master's,Computer Science,9/30/2023,Worcester Polytechnic Institute,$21308.31,1/12/2023,3/6/2025,air
+392,Craggy,Ellerton,Student,3454709598,India,Uttar Pradesh,United States,Pennsylvania,M,26,8/19/2023,Bachelor's,Business Administration,5/2/2023,Evergreen State College,$24765.98,1/10/2023,2/10/2024,air
+393,Talbert,De la Harpe,Student,4428227306,India,Uttar Pradesh,United States,Indiana,M,26,8/13/2023,Master's,Computer Science,11/23/2024,Samford University,$15997.44,1/5/2023,1/25/2024,air
+394,Jamaal,Willison,Student,1347405671,India,Gujarat,United States,Kentucky,M,20,8/29/2023,Master's,Business Administration,9/9/2024,"Arizona State University, West Campus",$23981.63,1/1/2023,1/19/2025,air
+395,Elana,Tarte,Student,2181583302,India,Uttar Pradesh,United States,Texas,F,25,8/1/2023,Master's,Computer Science,11/7/2024,University of Arkansas at Pine Bluff,$20788.70,1/15/2023,4/16/2024,air
+396,Stevena,Fitzsimons,Student,9821366636,India,Andhra Pradesh,United States,Utah,F,35,8/12/2023,Master's,Computer Science,5/1/2023,University of North Dakota,$10608.80,1/27/2023,4/6/2024,air
+397,Scotty,Islip,Student,3431876189,India,Andhra Pradesh,United States,Texas,M,33,8/20/2023,Master's,Computer Science,10/10/2024,Grand Canyon University,$20158.05,1/1/2023,2/19/2024,air
+398,Faustine,Teresse,Student,5025874682,India,Gujarat,United States,Oklahoma,F,28,8/20/2023,Bachelor's,Psychology,9/15/2023,State University of New York Downstate Medical Center,$20160.50,1/18/2023,8/19/2024,air
+399,Sargent,Reubel,Student,6952677530,India,Andhra Pradesh,United States,Virginia,M,27,8/13/2023,Master's,Computer Science,8/30/2024,California Institute of Technology,$12916.69,1/21/2023,9/23/2024,air
+400,Worthington,Osipenko,Student,2050883100,India,Andhra Pradesh,United States,South Carolina,M,23,9/14/2023,Bachelor's,Computer Science,5/31/2024,New Jersey Institute of Technology,$16722.75,1/9/2023,6/4/2024,air
+401,Petra,Anthony,Student,6777292330,India,Andhra Pradesh,United States,Pennsylvania,F,18,8/31/2023,Bachelor's,Computer Science,8/26/2023,Richard Stockton College of New Jersey,$14805.71,1/6/2023,9/2/2024,air
+402,Roch,Mingey,Student,7974689167,India,Uttar Pradesh,United States,California,F,27,8/11/2023,Bachelor's,Computer Science,8/26/2023,Union College Kentucky,$20921.49,1/2/2023,8/21/2024,air
+403,Petr,Errington,Student,7463073694,India,Andhra Pradesh,United States,Pennsylvania,M,22,8/9/2023,Master's,Business Administration,3/12/2025,St. Norbert College,$10094.15,1/10/2023,11/13/2024,air
+404,Marrilee,Killiam,Student,6001302340,India,Gujarat,United States,Texas,F,27,8/4/2023,Master's,Psychology,1/15/2025,Western Carolina University,$12729.30,1/4/2023,1/11/2025,air
+405,Georg,Grealey,Student,2908903541,India,Andhra Pradesh,United States,Illinois,M,19,8/6/2023,Master's,Psychology,4/11/2023,Pacifica Graduate Institute,$18074.19,1/28/2023,7/25/2024,air
+406,Myrle,Le Cornu,Student,8108325630,India,Gujarat,United States,Indiana,F,31,8/29/2023,Master's,Computer Science,5/18/2024,Polytechnic University,$14550.99,1/26/2023,11/10/2024,air
+407,Muhammad,Borsi,Student,2528725164,India,Uttar Pradesh,United States,Florida,M,21,8/26/2023,Bachelor's,Computer Science,3/21/2023,Hagerstown Community College,$23080.73,1/24/2023,7/22/2024,air
+408,Sada,Imason,Student,9649043597,India,Andhra Pradesh,United States,Massachusetts,F,28,8/18/2023,Bachelor's,Computer Science,3/21/2024,Denison University,$19784.77,1/17/2023,1/10/2025,air
+409,Danyette,Carles,Student,8735367861,India,Andhra Pradesh,United States,Arizona,F,18,9/6/2023,Master's,Computer Science,10/6/2024,Old Dominion University,$19959.41,1/27/2023,7/24/2024,air
+410,Burty,Backshall,Student,9676824967,India,Andhra Pradesh,United States,Texas,M,31,8/18/2023,Master's,Computer Science,5/25/2023,Cumberland College,$18050.56,1/22/2023,1/16/2025,air
+411,Margaux,Fryatt,Student,2078089612,India,Andhra Pradesh,United States,Nevada,F,35,9/4/2023,Master's,Computer Science,9/1/2024,Marian College of Fond Du Lac,$14709.86,1/23/2023,5/27/2024,air
+412,Pauly,Feighry,Student,6182025899,India,Uttar Pradesh,United States,Maryland,M,30,8/21/2023,Master's,Computer Science,8/5/2024,West Virginia School of Osteopathic Medicine,$17727.59,1/10/2023,6/28/2024,air
+413,Ofilia,Sorsbie,Student,7577746854,India,Gujarat,United States,Alabama,F,28,9/1/2023,Master's,Computer Science,7/22/2024,Thomas College Maine,$18322.76,1/23/2023,7/19/2024,air
+414,Kerr,Checchetelli,Student,7525803608,India,Gujarat,United States,California,M,22,8/16/2023,Master's,Computer Science,5/17/2024,New Mexico Highlands University,$15012.63,1/10/2023,11/24/2024,air
+415,Ev,Robilart,Student,7848843607,India,Uttar Pradesh,United States,Indiana,M,34,8/4/2023,Bachelor's,Computer Science,11/29/2023,Kenyon College,$16480.23,1/15/2023,5/6/2025,air
+416,Anna,Eykel,Student,2471023843,India,Andhra Pradesh,United States,Wisconsin,F,24,8/2/2023,Master's,Psychology,4/17/2023,State University of New York at Binghamton,$17557.28,1/2/2023,1/2/2024,air
+417,Nixie,Gluyus,Student,1483060663,India,Gujarat,United States,Virginia,F,23,9/12/2023,Master's,Computer Science,1/13/2024,Grand Valley State University,$10802.46,1/1/2023,4/13/2024,air
+418,Zachery,York,Student,6100244316,India,Andhra Pradesh,United States,Ohio,M,18,8/29/2023,Master's,Computer Science,1/24/2024,Vassar College,$20194.81,1/5/2023,1/27/2025,air
+419,Timmi,Palke,Student,6980112650,India,Gujarat,United States,Nevada,F,30,8/28/2023,Bachelor's,Computer Science,4/30/2024,"University of California, Los Angeles",$24043.36,1/9/2023,5/12/2024,air
+420,Karney,Bruyett,Student,3176629236,India,Andhra Pradesh,United States,Texas,M,32,8/9/2023,Master's,Psychology,8/19/2024,Florida Christian College,$14113.94,1/15/2023,7/24/2024,air
+421,Felike,Phillp,Student,9133312999,India,Andhra Pradesh,United States,Tennessee,M,27,8/10/2023,Bachelor's,Business Administration,10/16/2024,Morris College,$17679.63,1/14/2023,4/13/2025,air
+422,Rolfe,Gretham,Student,3626668068,India,Uttar Pradesh,United States,California,M,34,9/2/2023,Bachelor's,Business Administration,12/22/2023,Nova Southeastern University,$14219.02,1/23/2023,6/18/2024,air
+423,Fabien,Bartrop,Student,9403880253,India,Gujarat,United States,Utah,M,33,9/3/2023,Master's,Psychology,7/13/2023,Mount Olive College,$19244.29,1/28/2023,7/21/2024,air
+424,Ker,Puckrin,Student,9554781875,India,Gujarat,United States,Pennsylvania,M,27,9/14/2023,Master's,Computer Science,2/7/2023,University of Detroit Mercy,$21414.42,1/11/2023,1/23/2024,air
+425,Livvyy,Mayers,Student,3476742771,India,Gujarat,United States,Florida,F,26,8/14/2023,Master's,Business Administration,1/22/2025,Salem Teikyo University,$15084.19,1/4/2023,9/3/2024,air
+426,Aridatha,Riggeard,Student,1476115313,India,Andhra Pradesh,United States,Indiana,F,27,8/3/2023,Master's,Business Administration,10/4/2023,New England College of Optometry,$17704.77,1/21/2023,3/23/2024,air
+427,Pepi,Dethloff,Student,7948242555,India,Uttar Pradesh,United States,Utah,F,23,8/5/2023,Master's,Computer Science,2/21/2025,University of South Florida,$17065.38,1/21/2023,1/10/2024,air
+428,Sam,Haighton,Student,5181180531,India,Uttar Pradesh,United States,Connecticut,F,28,9/13/2023,Master's,Business Administration,3/5/2023,Georgia State University,$15800.02,1/11/2023,9/2/2024,air
+429,Cobbie,Wackly,Student,4371832317,India,Uttar Pradesh,United States,Missouri,M,30,8/28/2023,Master's,Computer Science,9/3/2024,Northwestern University,$15569.99,1/18/2023,8/2/2024,air
+430,Elliot,Moxson,Student,4479185133,India,Gujarat,United States,Virginia,M,34,9/14/2023,Bachelor's,Business Administration,1/13/2023,Eastern Oregon University,$10905.36,1/19/2023,2/26/2025,air
+431,Odele,Harpham,Student,8943201581,India,Uttar Pradesh,United States,Arizona,F,30,8/5/2023,Master's,Computer Science,1/10/2023,Warren Wilson College,$22067.46,1/17/2023,10/25/2024,air
+432,Tobiah,Annatt,Student,3098154560,India,Andhra Pradesh,United States,New Mexico,M,22,8/28/2023,Master's,Computer Science,2/15/2025,Knox College,$24605.10,1/28/2023,2/3/2024,air
+433,Anny,Sabater,Student,5609918452,India,Gujarat,United States,Colorado,F,19,8/30/2023,Master's,Business Administration,4/28/2025,Grand View College,$15207.95,1/28/2023,2/4/2025,air
+434,Emerson,Matthew,Student,3544726206,India,Andhra Pradesh,United States,Michigan,M,20,8/28/2023,Master's,Computer Science,2/14/2025,Bard Graduate Center for Studies in the Decorative Arts,$20389.68,1/30/2023,4/1/2024,air
+435,Clair,Peinke,Student,7016468697,India,Gujarat,United States,Florida,F,35,8/23/2023,Master's,Business Administration,3/16/2024,Dominican University,$18773.87,1/6/2023,3/14/2024,air
+436,Latrena,Wanklyn,Student,5295977477,India,Andhra Pradesh,United States,Arizona,F,20,9/1/2023,Master's,Computer Science,9/19/2024,St. Ambrose University,$23848.94,1/1/2023,1/24/2025,air
+437,Herbert,Pagnin,Student,7003901114,India,Uttar Pradesh,United States,Illinois,M,26,8/12/2023,Master's,Psychology,6/13/2023,Colorado School of Mines,$20474.33,1/3/2023,10/11/2024,air
+438,Brier,Luttgert,Student,5310484160,India,Uttar Pradesh,United States,Pennsylvania,F,35,9/2/2023,Bachelor's,Business Administration,11/1/2024,Holy Family College,$20551.32,1/16/2023,2/17/2025,air
+439,Riley,Brayshay,Student,4377632074,India,Uttar Pradesh,United States,California,M,35,8/22/2023,Master's,Computer Science,9/6/2023,Albany State University,$21593.09,1/5/2023,12/1/2024,air
+440,Reese,Stewart,Student,1323840917,India,Uttar Pradesh,United States,Iowa,M,18,9/6/2023,Master's,Computer Science,7/8/2024,Rochester College,$23310.15,1/23/2023,3/15/2024,air
+441,Jeffie,Trunkfield,Student,6377336561,India,Andhra Pradesh,United States,California,M,28,8/20/2023,Master's,Business Administration,11/15/2023,California Polytechnic State University - San Luis Obispo,$19672.75,1/2/2023,12/27/2023,air
+442,Sidnee,Lowings,Student,2222003027,India,Gujarat,United States,District of Columbia,M,30,8/6/2023,Master's,Business Administration,11/16/2023,Keuka College,$12292.85,1/25/2023,12/23/2024,air
+443,Kelci,Scritch,Student,4345806098,India,Andhra Pradesh,United States,Texas,F,25,9/4/2023,Master's,Computer Science,3/10/2025,Ohio State University - Newark,$11771.17,1/8/2023,7/15/2024,air
+444,Pierce,Baser,Student,4933803284,India,Uttar Pradesh,United States,New York,M,24,9/10/2023,Master's,Computer Science,10/11/2023,Central Methodist College,$21378.43,1/30/2023,5/20/2025,air
+445,Man,Ethelston,Student,8202932993,India,Gujarat,United States,Virginia,M,20,8/12/2023,Bachelor's,Business Administration,7/2/2024,University of Arizona,$22213.09,1/1/2023,3/5/2025,air
+446,Adore,Simoncello,Student,8432998890,India,Gujarat,United States,Connecticut,F,26,8/12/2023,Bachelor's,Psychology,6/24/2024,Middle Tennessee State University,$21622.79,1/2/2023,12/28/2024,air
+447,Herculie,Sibbert,Student,1522987929,India,Uttar Pradesh,United States,California,M,19,8/31/2023,Master's,Computer Science,4/3/2024,Walsh College of Accountancy and Business Administration,$22590.65,1/3/2023,2/29/2024,air
+448,Ebeneser,Schirok,Student,3935519249,India,Uttar Pradesh,United States,Texas,M,20,9/6/2023,Bachelor's,Computer Science,8/24/2023,University of Minnesota - Morris,$12999.76,1/23/2023,11/5/2024,air
+449,Shane,Yurinov,Student,3756021605,India,Gujarat,United States,Maryland,M,20,8/29/2023,Bachelor's,Computer Science,8/15/2023,ICI University,$23808.50,1/10/2023,4/1/2024,air
+450,Kathie,Seabourne,Student,4735683463,India,Andhra Pradesh,United States,Ohio,F,22,8/19/2023,Master's,Computer Science,7/27/2024,St. John's College New Mexico,$16454.20,1/19/2023,9/23/2024,air
+451,Vassili,Delbergue,Student,2016316675,India,Gujarat,United States,Ohio,M,29,8/22/2023,Master's,Psychology,10/13/2024,School for International Training,$18722.11,1/26/2023,2/6/2024,air
+452,Reinwald,McVaugh,Student,9499104385,India,Uttar Pradesh,United States,South Carolina,M,19,8/14/2023,Master's,Computer Science,10/22/2024,University of Findlay,$11662.52,1/24/2023,4/30/2025,air
+453,Catlee,Haker,Student,4135928615,India,Uttar Pradesh,United States,North Carolina,F,25,8/31/2023,Master's,Psychology,8/26/2023,State University of New York College of Environmental Science and Forestry,$18103.12,1/15/2023,2/4/2025,air
+454,Olivier,Stoacley,Student,1756243486,India,Gujarat,United States,Washington,M,30,8/5/2023,Master's,Computer Science,3/27/2024,Western State University College of Law - Orange County,$23120.13,1/28/2023,4/3/2024,air
+455,Neilla,Rogerson,Student,6343340398,India,Uttar Pradesh,United States,Washington,F,23,8/19/2023,Bachelor's,Computer Science,8/23/2024,Mississippi University for Women,$16975.12,1/7/2023,10/5/2024,air
+456,Ariel,Tutchener,Student,9703516921,India,Andhra Pradesh,United States,California,M,26,9/3/2023,Master's,Computer Science,7/26/2024,University of New Hampshire - Manchester,$20813.99,1/9/2023,3/21/2024,air
+457,Papageno,Sperring,Student,2184212751,India,Uttar Pradesh,United States,Florida,M,23,8/9/2023,Master's,Psychology,3/28/2023,West Virginia School of Osteopathic Medicine,$18145.64,1/22/2023,3/14/2025,air
+458,Edsel,Curee,Student,5824071557,India,Gujarat,United States,New York,M,23,8/9/2023,Master's,Psychology,3/8/2025,Louisiana Tech University,$19622.93,1/19/2023,11/21/2024,air
+459,Wye,Yuryichev,Student,5264005612,India,Gujarat,United States,Washington,M,30,8/21/2023,Master's,Computer Science,9/7/2024,Rochester College,$14470.48,1/15/2023,11/30/2024,air
+460,Dalli,Nuzzti,Student,6380881221,India,Uttar Pradesh,United States,New York,M,23,9/5/2023,Master's,Computer Science,1/20/2024,Atlantic International University,$16656.57,1/5/2023,10/19/2024,air
+461,Trixie,Shewery,Student,2544379474,India,Andhra Pradesh,United States,Wisconsin,F,26,8/27/2023,Bachelor's,Computer Science,3/17/2025,Nazareth College,$13941.76,1/24/2023,11/22/2024,air
+462,Jo-ann,Frawley,Student,3861236252,India,Uttar Pradesh,United States,Delaware,F,34,8/20/2023,Master's,Computer Science,9/4/2024,Academy of Art College,$10928.75,1/22/2023,11/8/2024,air
+463,Celeste,Dax,Student,4800129486,India,Uttar Pradesh,United States,Missouri,F,33,8/31/2023,Bachelor's,Business Administration,11/23/2023,"City University of New York, School of Law at Queens College",$18572.30,1/12/2023,1/1/2024,air
+464,Julian,Mountjoy,Student,5082906584,India,Gujarat,United States,Washington,M,22,8/27/2023,Master's,Computer Science,9/27/2023,Texas A&M University - Commerce,$11945.57,1/4/2023,9/21/2024,air
+465,Kalil,Beenham,Student,2828048449,India,Gujarat,United States,South Carolina,M,29,9/12/2023,Master's,Computer Science,4/28/2024,San Diego University for Integrative Studies,$17158.51,1/29/2023,12/27/2023,air
+466,Alidia,Beincken,Student,7064923031,India,Uttar Pradesh,United States,Kansas,F,33,8/11/2023,Master's,Business Administration,11/21/2023,Lubbock Christian University,$19199.26,1/4/2023,3/29/2024,air
+467,Moreen,Lory,Student,4250314691,India,Andhra Pradesh,United States,New York,F,35,9/4/2023,Master's,Computer Science,4/11/2024,University of Michigan - Dearborn,$15946.23,1/24/2023,4/7/2025,air
+468,Marcelo,Brogioni,Student,4832560478,India,Andhra Pradesh,United States,Ohio,M,35,8/12/2023,Master's,Computer Science,9/21/2024,Northern Kentucky University,$10514.21,1/2/2023,12/30/2024,air
+469,Toiboid,Tapin,Student,2598379959,India,Andhra Pradesh,United States,North Carolina,M,35,8/29/2023,Master's,Psychology,6/10/2023,Notre Dame de Namur University,$13905.87,1/25/2023,2/5/2024,air
+470,Ginnie,Highton,Student,7024131629,India,Uttar Pradesh,United States,Indiana,F,25,8/19/2023,Bachelor's,Psychology,8/2/2024,Illinois Institute of Technology,$15416.65,1/29/2023,12/28/2024,air
+471,Vonni,Pail,Student,7592815773,India,Gujarat,United States,Illinois,F,32,8/7/2023,Master's,Computer Science,9/20/2024,"University of Maine, Farmington",$15161.05,1/6/2023,9/15/2024,air
+472,Ryan,Duffield,Student,4775642952,India,Andhra Pradesh,United States,Florida,M,24,9/11/2023,Master's,Business Administration,4/19/2024,Armstrong Atlantic State University,$12586.78,1/14/2023,11/18/2024,air
+473,Tammie,Wackett,Student,7354810149,India,Andhra Pradesh,United States,Virginia,F,32,8/4/2023,Bachelor's,Business Administration,11/7/2023,Southwest State University,$17033.16,1/30/2023,5/11/2025,air
+474,Alexandr,Beeze,Student,1627778706,India,Gujarat,United States,Mississippi,M,23,8/10/2023,Bachelor's,Computer Science,8/22/2023,Blessing-Rieman College of Nursing,$19285.90,1/3/2023,12/20/2023,air
+475,Damara,Shingles,Student,2752177912,India,Gujarat,United States,Illinois,F,31,8/4/2023,Bachelor's,Computer Science,8/6/2024,Eureka College,$15562.58,1/10/2023,3/12/2025,air
+476,Roshelle,Reedyhough,Student,7154003391,India,Uttar Pradesh,United States,Georgia,F,31,9/6/2023,Master's,Business Administration,7/3/2023,Hampden-Sydney College,$22677.69,1/12/2023,2/26/2025,air
+477,Lyman,Magson,Student,3633360768,India,Andhra Pradesh,United States,Texas,M,24,9/7/2023,Master's,Computer Science,3/20/2025,Life Chiropractic College West,$24096.68,1/3/2023,1/12/2025,air
+478,Ingemar,Batting,Student,6675216206,India,Uttar Pradesh,United States,Kentucky,M,27,9/6/2023,Master's,Computer Science,2/24/2023,Graceland College,$14681.04,1/2/2023,12/27/2024,air
+479,Gratiana,Ibbs,Student,2161300988,India,Andhra Pradesh,United States,Kentucky,F,32,8/11/2023,Master's,Psychology,10/30/2024,University of Texas at Brownsville,$15299.45,1/19/2023,9/23/2024,air
+480,Odille,Gawthrop,Student,8496002792,India,Uttar Pradesh,United States,Michigan,F,24,8/29/2023,Master's,Computer Science,4/24/2024,Villanova University,$11411.96,1/22/2023,3/26/2025,air
+481,Denney,Farman,Student,4459889282,India,Uttar Pradesh,United States,California,M,33,9/14/2023,Master's,Business Administration,5/3/2023,Salem College,$20354.85,1/20/2023,11/14/2024,air
+482,Nancee,Ajean,Student,5879868151,India,Uttar Pradesh,United States,Washington,F,22,8/30/2023,Bachelor's,Business Administration,6/26/2023,Kendall College,$19353.66,1/26/2023,3/26/2025,air
+483,Brear,Kelemen,Student,8206177190,India,Uttar Pradesh,United States,Arizona,F,20,9/9/2023,Master's,Computer Science,3/8/2024,Savannah College of Art and Design,$12837.20,1/9/2023,1/14/2024,air
+484,Donal,Augur,Student,4484908278,India,Gujarat,United States,Oklahoma,M,32,8/18/2023,Master's,Computer Science,11/23/2023,Wiley College,$12433.44,1/9/2023,7/1/2024,air
+485,Quinton,Myderscough,Student,6508082729,India,Andhra Pradesh,United States,Florida,M,25,9/4/2023,Master's,Business Administration,7/8/2024,St. Vincent College,$13586.28,1/30/2023,4/8/2025,air
+486,Dalila,Dorrell,Student,9640547198,India,Andhra Pradesh,United States,Alabama,F,35,8/27/2023,Master's,Computer Science,6/26/2024,Columbia College South Carolina,$15883.06,1/23/2023,5/22/2025,air
+487,Laurent,Rawlingson,Student,5620478378,India,Gujarat,United States,Iowa,M,22,9/1/2023,Master's,Business Administration,9/15/2024,Hodges University,$23908.95,1/8/2023,5/15/2024,air
+488,Arvy,Lazonby,Student,8416451145,India,Gujarat,United States,Texas,M,21,8/31/2023,Master's,Business Administration,3/27/2023,Hillsdale College,$23870.28,1/23/2023,8/21/2024,air
+489,Catarina,Ingledew,Student,1549747203,India,Uttar Pradesh,United States,Iowa,F,30,8/23/2023,Master's,Business Administration,7/10/2024,American Military University,$16882.87,1/14/2023,5/5/2025,air
+490,Rebeca,Inderwick,Student,2162203925,India,Andhra Pradesh,United States,Texas,F,18,9/10/2023,Bachelor's,Psychology,9/19/2024,Nebraska Christian College,$17228.64,1/15/2023,1/4/2025,air
+491,Hubert,Heningam,Student,9810736979,India,Uttar Pradesh,United States,California,M,19,8/17/2023,Master's,Computer Science,12/24/2023,Grinnell College,$13590.78,1/16/2023,8/11/2024,air
+492,Nissa,Neaves,Student,9099305788,India,Uttar Pradesh,United States,Alaska,F,25,9/1/2023,Master's,Computer Science,1/8/2024,Western State University College of Law,$12488.39,1/21/2023,1/28/2024,air
+493,Thayne,Tallowin,Student,8876025741,India,Gujarat,United States,Colorado,M,27,9/6/2023,Bachelor's,Psychology,3/29/2025,Lenoir-Rhyne College,$22780.48,1/21/2023,1/25/2025,air
+494,Farr,Vevers,Student,8674312945,India,Gujarat,United States,Kansas,M,35,9/3/2023,Master's,Computer Science,11/13/2023,Lake Superior State University,$11135.06,1/9/2023,10/15/2024,air
+495,Patton,Grigoriscu,Student,6886443075,India,Uttar Pradesh,United States,Florida,M,34,8/30/2023,Bachelor's,Business Administration,3/13/2023,Tufts University,$16794.85,1/5/2023,5/21/2025,air
+496,Sylvester,Smellie,Student,8828136622,India,Andhra Pradesh,United States,Indiana,M,19,8/21/2023,Master's,Computer Science,12/15/2024,College of Mount St. Vincent,$12967.62,1/30/2023,8/30/2024,air
+497,Courtney,Penhallurick,Student,8073075485,India,Andhra Pradesh,United States,Michigan,M,19,8/4/2023,Master's,Computer Science,4/3/2025,Indiana University at South Bend,$19811.09,1/24/2023,10/22/2024,air
+498,Vally,Dole,Student,4171137847,India,Gujarat,United States,Texas,F,19,8/28/2023,Master's,Computer Science,3/24/2023,The Southern Christian University,$17040.84,1/13/2023,4/22/2025,air
+499,Simeon,Totterdill,Student,8706239179,India,Uttar Pradesh,United States,California,M,32,9/9/2023,Master's,Computer Science,12/7/2023,Lehigh Univervsity,$17255.83,1/13/2023,1/30/2025,air
+500,Ashly,Lamperd,Student,2393694322,India,Andhra Pradesh,United States,Massachusetts,F,21,8/20/2023,Master's,Psychology,5/20/2024,John F. Kennedy University,$21855.06,1/7/2023,1/20/2025,air
